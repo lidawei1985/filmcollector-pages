@@ -4,12 +4,12 @@
   "rotate_days": 3,
   "batch": 6892,
   "count": 5,
-  "updated": "2026-08-12 20:50",
+  "updated": "2026-08-13 04:58",
   "list": [
     {
       "vod_id": "d5be58fc-ae9e-4bd5-ac6e-dd088dec21b1",
       "vod_name": "Saskatchewan Sensation : Dennis P. Dineen",
-      "vod_pic": "https://lidawei1985.github.io/filmcollector-pages/repo/img/e67b0e1c22d7e473e23d23a919dd9805.jpg",
+      "vod_pic": "https://lidawei1985.github.io/FilmCollector/repo/img/e67b0e1c22d7e473e23d23a919dd9805.jpg",
       "vod_cover": "images/cover_trans-canada-westbound-part-147-saskatchewan-sensation-inst.jpg",
       "type_name": "电影",
       "vod_year": "",
@@ -29,7 +29,7 @@
     {
       "vod_id": "1c10095b-f550-4154-88a4-a5a12716f8e4",
       "vod_name": "Saskatchewan Sentiment : Dennis P. Dineen",
-      "vod_pic": "https://lidawei1985.github.io/filmcollector-pages/repo/img/8772f342aeb3b9839ba434b5d2cb2497.jpg",
+      "vod_pic": "https://lidawei1985.github.io/FilmCollector/repo/img/8772f342aeb3b9839ba434b5d2cb2497.jpg",
       "vod_cover": "images/cover_trans-canada-westbound-part-148-saskatchewan-sentiment-inst.jpg",
       "type_name": "电影",
       "vod_year": "",
@@ -49,7 +49,7 @@
     {
       "vod_id": "82d83f5f-5677-461b-a368-0570cbbed501",
       "vod_name": "Saskatchewan Sequence : Dennis P. Dineen",
-      "vod_pic": "https://lidawei1985.github.io/filmcollector-pages/repo/img/7cf4135845d5954afcbf4fc041b53202.jpg",
+      "vod_pic": "https://lidawei1985.github.io/FilmCollector/repo/img/7cf4135845d5954afcbf4fc041b53202.jpg",
       "vod_cover": "images/cover_trans-canada-westbound-part-149-saskatchewan-sequence-inst.jpg",
       "type_name": "电影",
       "vod_year": "",
@@ -69,7 +69,7 @@
     {
       "vod_id": "6134b1a0-4f78-4795-b77b-9d94a3d32bfb",
       "vod_name": "Saskatchewan Serendipity : Dennis P. Dineen",
-      "vod_pic": "https://lidawei1985.github.io/filmcollector-pages/repo/img/b8e8e15fb68af221ac45511ffd3a44b1.jpg",
+      "vod_pic": "https://lidawei1985.github.io/FilmCollector/repo/img/b8e8e15fb68af221ac45511ffd3a44b1.jpg",
       "vod_cover": "images/cover_trans-canada-westbound-part-150-saskatchewan-serendipity-inst.jpg",
       "type_name": "电影",
       "vod_year": "",
@@ -89,7 +89,7 @@
     {
       "vod_id": "4367e641-bdb6-4107-a610-451428ae6441",
       "vod_name": "VideoTraxx: Film & Video Library Volume 3: Disc # 24 Planes, Trains and Autos : Digital Juice",
-      "vod_pic": "https://lidawei1985.github.io/filmcollector-pages/repo/img/4d51c4660e3d19471fd8916d9914417e.jpg",
+      "vod_pic": "https://lidawei1985.github.io/FilmCollector/repo/img/4d51c4660e3d19471fd8916d9914417e.jpg",
       "vod_cover": "images/cover_video-traxx-volume-3-24-planes-trains-autos.jpg",
       "type_name": "电影",
       "vod_year": "",
