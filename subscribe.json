@@ -28,5 +28,5 @@
   "flags": [
     "默认线路"
   ],
-  "spider": "FilmCollector"
+  "spider": ""
 }
