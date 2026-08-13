@@ -4,7 +4,7 @@
       "key": "filmcollector_spider",
       "name": "FilmCollector 公共片库（爬虫·支持搜索）",
       "type": 2,
-      "api": "https://lidawei1985.github.io/filmcollector-pages/api.js",
+      "api": "https://lidawei1985.github.io/FilmCollector/api.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -18,7 +18,7 @@
       "key": "filmcollector_json",
       "name": "FilmCollector 公共片库（JSON 直连）",
       "type": 3,
-      "api": "https://lidawei1985.github.io/filmcollector-pages/data.json",
+      "api": "https://lidawei1985.github.io/FilmCollector/data.json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
