@@ -67,4 +67,3 @@ function proxy(opt) { return ''; }
 
 var rule = { title: 'FilmCollector 公共片库', host: BASE, timeout: 5000, ua: 'Mozilla/5.0 FilmCollector' };
 function init() { return JSON.stringify(rule); }
-// build: flat-home-fix 2026-08-13 (force Pages CDN refresh)
