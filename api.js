@@ -1,7 +1,7 @@
 // FilmCollector 远程爬虫 (TVBox / CatVod 协议, type=2)
 // 纯前端运行：自行读取同目录 data.json，完成 首页/分类/搜索/详情/播放。
 // 零服务器、零后端，丢到任意静态托管即用。BASE 由发布工具一次性注入。
-var BASE = "https://lidawei1985.github.io/FilmCollector/";
+var BASE = "https://lidawei1985.github.io/filmcollector-pages/";
 var CACHE = null;
 
 function request(url) {
