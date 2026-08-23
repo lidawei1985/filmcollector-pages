@@ -3,6 +3,6 @@
   "subscribe_url": "https://lidawei1985.github.io/filmcollector-pages/subscribe.json",
   "data_json": "https://lidawei1985.github.io/filmcollector-pages/data.json",
   "api_js": "https://lidawei1985.github.io/filmcollector-pages/api.js",
-  "updated_at": "2026-08-22T21:42:07",
+  "updated_at": "2026-08-23T21:41:32",
   "note": "供「指定 APK」在首次启动时读取，自动加载本订阅源，无需手动粘贴地址。"
 }
