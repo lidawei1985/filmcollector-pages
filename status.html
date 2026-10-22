@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="zh-CN"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>FilmCollector 公共片库 · 运行状态</title>
+<style>body{font-family:system-ui,'Microsoft YaHei',sans-serif;max-width:680px;margin:40px auto;padding:0 18px;color:#1b2735;line-height:1.7}
+.card{border:1px solid #d8e0ea;border-radius:12px;padding:16px 18px;margin:14px 0;background:#fafcff}
+.badge{display:inline-block;padding:6px 14px;border-radius:999px;background:#1a9d5a;color:#fff;font-weight:600}
+code{background:#eef2f7;padding:2px 6px;border-radius:5px;word-break:break-all} b{color:#0a6cff}</style>
+</head><body>
+<h1>🎬 FilmCollector 公共片库 · 运行状态</h1>
+<p class="badge">🟢 在线·持续增长</p>
+<div class="card"><h3>📊 概览</h3>
+<p>当前片库：<b id="total">20</b> 部（均经分级健康自检，可播）</p>
+<p>资源健康：🟢 正常 <b>134</b> · 🟡 观察 <b>0</b> · 🟠 降级 <b>0</b> · ⚫ 已隐藏 <b>0</b></p>
+
+<p>上次更新：<b id="updated">读取中…</b></p>
+<p>本次新增：<b id="added">20</b> 部</p>
+<p>订阅地址：<code>https://lidawei1985.github.io/filmcollector-pages/subscribe.json</code></p></div>
+<div class="card"><h3>🩺 说明</h3>
+<p>✅ 片源在线。系统每天自动找新片、剔除死链、异常资源自动降级/隐藏、部署到公网，无需你任何操作。</p></div>
+<p style="color:#7a8aa0;font-size:13px">本页为自动化运行状态快照；详细历史见仓库内 run_status.json。</p>
+<script>
+fetch('health.json?cb='+Date.now()).then(r=>r.json()).then(d=>{
+  if(d.total!==undefined) document.getElementById('total').textContent=d.total;
+  if(d.updated_at) document.getElementById('updated').textContent=d.updated_at;
+  if(d.last_run_added!==undefined) document.getElementById('added').textContent=d.last_run_added;
+}).catch(()=>{});
+</script>
+</body></html>

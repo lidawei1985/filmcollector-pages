@@ -1,0 +1,2421 @@
+{
+  "items": [
+    {
+      "title": "FILM Jade Dynasty",
+      "description": "Film",
+      "year": "",
+      "type": "电影",
+      "region": "pol",
+      "episodes": [
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/film-jade-dynasty/FILM- Jade Dynasty.ia.mp4",
+          "urls": [
+            "https://archive.org/download/film-jade-dynasty/FILM- Jade Dynasty.ia.mp4",
+            "https://archive.org/serve/film-jade-dynasty/FILM- Jade Dynasty.ia.mp4"
+          ],
+          "line": "默认线路"
+        }
+      ],
+      "source_id": "film-jade-dynasty",
+      "source_url": "https://archive.org/details/film-jade-dynasty",
+      "license": "Public Domain / CC",
+      "status": "ok",
+      "poster": "images/poster_film-jade-dynasty.jpg",
+      "id": "759afdd2-4cb0-4059-96a5-cb295573a9e2",
+      "created_at": "2026-10-22 12:44:55",
+      "updated_at": "2026-10-22 12:44:55",
+      "cover": "images/cover_film-jade-dynasty.jpg",
+      "hero": {
+        "eligible": false,
+        "score": 54,
+        "grade": "F",
+        "source_available": true,
+        "source_health": 88,
+        "sources_count": 1,
+        "image_available": true,
+        "image_quality": 38,
+        "image_resolution": "none",
+        "image_match": 0.85,
+        "match_confidence": 0.85,
+        "has_hero_poster": false,
+        "has_backdrop": false,
+        "reasons": [
+          "no_hero_poster",
+          "no_backdrop",
+          "quality_insufficient"
+        ],
+        "updated_at": "2026-10-22 12:45:16"
+      },
+      "hero_assets": [
+        {
+          "kind": "backdrop",
+          "width": 180,
+          "height": 67,
+          "score": 38,
+          "source": "local_ia",
+          "match_confidence": 0.85,
+          "flags": []
+        }
+      ],
+      "hero_poster_url": "",
+      "hero_poster_width": 0,
+      "hero_poster_height": 0,
+      "backdrop_url": "",
+      "backdrop_width": 0,
+      "backdrop_height": 0,
+      "poster_width": 180,
+      "poster_height": 67
+    },
+    {
+      "title": "FILM The Silent Forest",
+      "description": "FILM",
+      "year": "",
+      "type": "电影",
+      "region": "pol",
+      "episodes": [
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/film-the-silent-forest/FILM- The Silent Forest.ia.mp4",
+          "urls": [
+            "https://archive.org/download/film-the-silent-forest/FILM- The Silent Forest.ia.mp4",
+            "https://archive.org/serve/film-the-silent-forest/FILM- The Silent Forest.ia.mp4"
+          ],
+          "line": "默认线路"
+        }
+      ],
+      "source_id": "film-the-silent-forest",
+      "source_url": "https://archive.org/details/film-the-silent-forest",
+      "license": "Public Domain / CC",
+      "status": "ok",
+      "poster": "images/poster_film-the-silent-forest.jpg",
+      "id": "1bcb0207-44ab-4e98-af18-2c31a9c56e5f",
+      "created_at": "2026-10-22 12:44:55",
+      "updated_at": "2026-10-22 12:44:55",
+      "cover": "images/cover_film-the-silent-forest.jpg",
+      "hero": {
+        "eligible": false,
+        "score": 56,
+        "grade": "F",
+        "source_available": true,
+        "source_health": 88,
+        "sources_count": 1,
+        "image_available": true,
+        "image_quality": 44,
+        "image_resolution": "none",
+        "image_match": 0.85,
+        "match_confidence": 0.85,
+        "has_hero_poster": false,
+        "has_backdrop": false,
+        "reasons": [
+          "no_hero_poster",
+          "no_backdrop",
+          "quality_insufficient"
+        ],
+        "updated_at": "2026-10-22 12:45:16"
+      },
+      "hero_assets": [
+        {
+          "kind": "backdrop",
+          "width": 180,
+          "height": 75,
+          "score": 44,
+          "source": "local_ia",
+          "match_confidence": 0.85,
+          "flags": []
+        }
+      ],
+      "hero_poster_url": "",
+      "hero_poster_width": 0,
+      "hero_poster_height": 0,
+      "backdrop_url": "",
+      "backdrop_width": 0,
+      "backdrop_height": 0,
+      "poster_width": 180,
+      "poster_height": 75
+    },
+    {
+      "title": "Aces Go Places II (1983)",
+      "description": "<p style=\"margin:0.5em 0px 1em;\"><i><b>Aces Go Places 2</b></i> (<a href=\"https://en.wikipedia.org/wiki/Traditional_Chinese_characters\" title=\"Traditional Chinese characters\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Chinese</a><span>:</span><span> </span><span lang=\"zh-hant\" xml:lang=\"zh-hant\">最佳拍檔大顯神通</span>) is a 1983 <a href=\"https://en.wikipedia.org/wiki/Hong_Kong_action_cinema\" title=\"Hong Kong action cinema\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Hong Kong action</a>-<a href=\"https://en.wikipedia.org/wiki/Comedy_film\" title=\"Comedy film\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">comedy film</a> directed by <a href=\"https://en.wikipedia.org/wiki/Eric_Tsang\" title=\"Eric Tsang\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Eric Tsang</a> and starring <a href=\"https://en.wikipedia.org/wiki/Samuel_Hui\" title=\"Samuel Hui\" class=\"mw-redirect\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Sam Hui</a>, <a href=\"https://en.wikipedia.org/wiki/Karl_Maka\" title=\"Karl Maka\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Karl Maka</a>, <a href=\"https://en.wikipedia.org/wiki/Sylvia_Chang\" title=\"Sylvia Chang\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Sylvia Chang</a>. The film has also been dubbed into English and re-edited and was released overseas as <i><b>Mad Mission II</b></i>. The film is the second installment in the <i><a href=\"https://en.wikipedia.org/wiki/Aces_Go_Places_(film_series)\" title=\"Aces Go Places (film series)\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Aces Go Places</a></i> film series. In the film, a burglar and a police detective join forces to locate stolen <a href=\"https://en.wikipedia.org/wiki/Diamond_(gemstone)\" title=\"Diamond (gemstone)\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">diamonds</a>.</p><div class=\"mw-heading mw-heading2\" style=\"color:rgb(16,20,24);margin:0.25em 0px;padding-top:0.5em;padding-bottom:0.17em;border-bottom:0.727273px solid rgb(162,169,177);font-size:1.5em;font-family:'Linux Libertine', Georgia, Times, 'Source Serif 4', serif;line-height:1.375;\"><h2 style=\"color:inherit;font-weight:inherit;margin:0px 0px 0.25em;padding:0px;border:0px;font-size:inherit;font-style:inherit;font-variant:inherit;line-height:1.375;\">Plot</h2><span class=\"mw-editsection\" style=\"font-size:small;margin-left:1em;margin-right:0px;vertical-align:baseline;line-height:0;font-family:sans-serif;\"><a href=\"https://en.wikipedia.org/w/index.php?title=Aces_Go_Places_2&amp;action=edit&amp;section=1\" title=\"Edit section: Plot\" style=\"color:rgb(51,102,204);background:none;white-space:pre;line-height:1;\" rel=\"ugc nofollow\">edit</a></span></div><p style=\"margin:0.5em 0px 1em;\">A <a href=\"https://en.wikipedia.org/wiki/James_Bond\" title=\"James Bond\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">James Bond</a>-type burglar King Kong (<a href=\"https://en.wikipedia.org/wiki/Samuel_Hui\" title=\"Samuel Hui\" class=\"mw-redirect\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Sam Hui</a>) and his friend Albert \"Baldy\" Au (<a href=\"https://en.wikipedia.org/wiki/Karl_Maka\" title=\"Karl Maka\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Karl Maka</a>), a bald police detective join forces to try to track down a rare set of stolen precious diamonds before it ends up in the hands of a notorious American mobster named \"Black Gloves\" (Filthy Harry in the dubbed version and during the English-speaking parts of the original film). The two unlikely duo are supervised by Baldy's wife, Supt. Nancy Ho (<a href=\"https://en.wikipedia.org/wiki/Sylvia_Chang\" title=\"Sylvia Chang\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Sylvia Chang</a>), a masculine, fiery-tempered policewoman as they are chased by many <a href=\"https://en.wikipedia.org/wiki/Mafia\" title=\"Mafia\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">mafia</a> members throughout the film in crazy chase sequences involving a number of car and motorbike stunts.</p><div class=\"mw-heading mw-heading2\" style=\"color:rgb(16,20,24);margin:0.25em 0px;padding-top:0.5em;padding-bottom:0.17em;border-bottom:0.727273px solid rgb(162,169,177);font-size:1.5em;font-family:'Linux Libertine', Georgia, Times, 'Source Serif 4', serif;line-height:1.375;\"><h2 style=\"color:inherit;font-weight:inherit;margin:0px 0px 0.25em;padding:0px;border:0px;font-size:inherit;font-style:inherit;font-variant:inherit;line-height:1.375;\">Cast</h2><span class=\"mw-editsection\" style=\"font-size:small;margin-left:1em;margin-right:0px;vertical-align:baseline;line-height:0;font-family:sans-serif;\"><a href=\"https://en.wikipedia.org/w/index.php?title=Aces_Go_Places_2&amp;action=edit&amp;section=2\" title=\"Edit section: Cast\" style=\"color:rgb(51,102,204);background:none;white-space:pre;line-height:1;\" rel=\"ugc nofollow\">edit</a></span></div><ul style=\"margin:0.3em 0px 0px 1.6em;padding:0px;\"><li style=\"margin-bottom:0.1em;\"><a href=\"https://en.wikipedia.org/wiki/Samuel_Hui\" title=\"Samuel Hui\" class=\"mw-redirect\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Sam Hui</a> as King Kong</li><li style=\"margin-bottom:0.1em;\"><a href=\"https://en.wikipedia.org/wiki/Karl_Maka\" title=\"Karl Maka\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Karl Maka</a> as Albert Au</li><li style=\"margin-bottom:0.1em;\"><a href=\"https://en.wikipedia.org/wiki/Sylvia_Chang\" title=\"Sylvia Chang\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Sylvia Chang</a> as Supt. Nancy Ho</li><li style=\"margin-bottom:0.1em;\"><a href=\"https://en.wikipedia.org/wiki/Tsui_Hark\" title=\"Tsui Hark\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Tsui Hark</a> as Mental patient (special appearance)</li><li style=\"margin-bottom:0.1em;\"><a href=\"https://en.wikipedia.org/wiki/Eric_Tsang\" title=\"Eric Tsang\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Eric Tsang</a> as Fattie (special appearance)</li><li style=\"margin-bottom:0.1em;\"><a href=\"https://en.wikipedia.org/wiki/Raymond_Wong_Pak-ming\" title=\"Raymond Wong Pak-ming\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Raymond Wong</a> as Priest (special appearance)</li><li style=\"margin-bottom:0.1em;\"><a href=\"https://en.wikipedia.org/wiki/Yasuaki_Kurata\" title=\"Yasuaki Kurata\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Yasuaki Kurata</a> as Bull</li><li style=\"margin-bottom:0.1em;\">Sue Wang as Juju</li><li style=\"margin-bottom:0.1em;\">Joe Dimmick as Black Gloves</li><li style=\"margin-bottom:0.1em;\">Hector Britt</li><li style=\"margin-bottom:0.1em;\"><a href=\"https://en.wikipedia.org/wiki/Charlie_Cho\" title=\"Charlie Cho\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Charlie Cho</a> as Wong</li><li style=\"margin-bottom:0.1em;\"><a href=\"https://en.wikipedia.org/wiki/Cho_Tat-wah\" title=\"Cho Tat-wah\" class=\"mw-redirect\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Cho Tat-wah</a> as Police Chief Uncle Wah</li><li style=\"margin-bottom:0.1em;\"><a href=\"https://en.wikipedia.org/wiki/Billy_Lau\" title=\"Billy Lau\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Billy Lau</a> as Gunman</li><li style=\"margin-bottom:0.1em;\">Suzanna Valentino</li><li style=\"margin-bottom:0.1em;\">Jamie Hales as Stunt man in bicycle stunt sequence</li><li style=\"margin-bottom:0.1em;\"><a href=\"https://en.wikipedia.org/wiki/Sai_Gwa-Pau\" title=\"Sai Gwa-Pau\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Sai Gwa-Pau</a></li><li style=\"margin-bottom:0.1em;\">Douglas Airth as Stunt man in car on two wheels sequence<sup class=\"mw-ref reference\" style=\"line-height:1;font-size:16px;\"><a href=\"https://en.wikipedia.org/wiki/Aces_Go_Places_2#cite_note-1\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\"><span class=\"mw-reflink-text\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></span></a></sup><sup class=\"mw-ref reference\" style=\"line-height:1;font-size:16px;\"><a href=\"https://en.wikipedia.org/wiki/Aces_Go_Places_2#cite_note-2\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\"><span class=\"mw-reflink-text\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></span></a></sup></li></ul><div class=\"mw-heading mw-heading2\" style=\"color:rgb(16,20,24);margin:0.25em 0px;padding-top:0.5em;padding-bottom:0.17em;border-bottom:0.727273px solid rgb(162,169,177);font-size:1.5em;font-family:'Linux Libertine', Georgia, Times, 'Source Serif 4', serif;line-height:1.375;\"><h2 style=\"color:inherit;font-weight:inherit;margin:0px 0px 0.25em;padding:0px;border:0px;font-size:inherit;font-style:inherit;font-variant:inherit;line-height:1.375;\">Release</h2><span class=\"mw-editsection\" style=\"font-size:small;margin-left:1em;margin-right:0px;vertical-align:baseline;line-height:0;font-family:sans-serif;\"><a href=\"https://en.wikipedia.org/w/index.php?title=Aces_Go_Places_2&amp;action=edit&amp;section=3\" title=\"Edit section: Release\" style=\"color:rgb(51,102,204);background:none;white-space:pre;line-height:1;\" rel=\"ugc nofollow\">edit</a></span></div><p style=\"margin:0.5em 0px 1em;\"><i>Aces Go Places</i> was released in Hong Kong on 5 February 1983. The film was released in the Philippines by Valiant Films as <i><b>Aces Strike to Win</b></i> on 7 December 1988.<sup class=\"mw-ref reference\" style=\"line-height:1;font-size:16px;\"><a href=\"https://en.wikipedia.org/wiki/Aces_Go_Places_2#cite_note-3\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\"><span class=\"mw-reflink-text\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></span></a></sup></p><div class=\"mw-heading mw-heading2\" style=\"color:rgb(16,20,24);margin:0.25em 0px;padding-top:0.5em;padding-bottom:0.17em;border-bottom:0.727273px solid rgb(162,169,177);font-size:1.5em;font-family:'Linux Libertine', Georgia, Times, 'Source Serif 4', serif;line-height:1.375;\"><h2 style=\"color:inherit;font-weight:inherit;margin:0px 0px 0.25em;padding:0px;border:0px;font-size:inherit;font-style:inherit;font-variant:inherit;line-height:1.375;\">Reception</h2><span class=\"mw-editsection\" style=\"font-size:small;margin-left:1em;margin-right:0px;vertical-align:baseline;line-height:0;font-family:sans-serif;\"><a href=\"https://en.wikipedia.org/w/index.php?title=Aces_Go_Places_2&amp;action=edit&amp;section=4\" title=\"Edit section: Reception\" style=\"color:rgb(51,102,204);background:none;white-space:pre;line-height:1;\" rel=\"ugc nofollow\">edit</a></span></div><p style=\"margin:0.5em 0px 1em;\"><i><a href=\"https://en.wikipedia.org/wiki/Variety_(magazine)\" title=\"Variety (magazine)\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Variety</a></i> described the film as a \"well calculated commercial movie\" and a \"never a dull moment fun film for kids and adults with young minds attuned to things that are basic and elementary.\"<sup class=\"mw-ref reference\" style=\"line-height:1;font-size:16px;\"><a href=\"https://en.wikipedia.org/wiki/Aces_Go_Places_2#cite_note-FOOTNOTEWillis1985417-4\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\"><span class=\"mw-reflink-text\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></span></a></sup> The review stated that <a href=\"https://en.wikipedia.org/wiki/Samuel_Hui\" title=\"Samuel Hui\" class=\"mw-redirect\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Sam Hui</a> \"is beginning to be an adept comedian with good timing though he still mugs a lot.\"<sup class=\"mw-ref reference\" style=\"line-height:1;font-size:16px;\"><a href=\"https://en.wikipedia.org/wiki/Aces_Go_Places_2#cite_note-FOOTNOTEWillis1985417-4\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\"><span class=\"mw-reflink-text\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></span></a></sup></p>",
+      "year": "",
+      "type": "电影",
+      "region": "english-handwritten",
+      "episodes": [
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/aces-go-places-ii-1983/01. Aces Go Places II (1983).ia.mp4",
+          "urls": [
+            "https://archive.org/download/aces-go-places-ii-1983/01. Aces Go Places II (1983).ia.mp4",
+            "https://archive.org/serve/aces-go-places-ii-1983/01. Aces Go Places II (1983).ia.mp4"
+          ],
+          "line": "默认线路"
+        }
+      ],
+      "source_id": "aces-go-places-ii-1983",
+      "source_url": "https://archive.org/details/aces-go-places-ii-1983",
+      "license": "Public Domain / CC",
+      "status": "ok",
+      "poster": "images/poster_aces-go-places-ii-1983.jpg",
+      "id": "8734c0d9-87b7-452d-a201-d86a02fb4fd2",
+      "created_at": "2026-10-22 12:44:56",
+      "updated_at": "2026-10-22 12:44:56",
+      "cover": "images/cover_aces-go-places-ii-1983.jpg",
+      "hero": {
+        "eligible": false,
+        "score": 56,
+        "grade": "F",
+        "source_available": true,
+        "source_health": 88,
+        "sources_count": 1,
+        "image_available": true,
+        "image_quality": 44,
+        "image_resolution": "none",
+        "image_match": 0.85,
+        "match_confidence": 0.85,
+        "has_hero_poster": false,
+        "has_backdrop": false,
+        "reasons": [
+          "no_hero_poster",
+          "no_backdrop",
+          "quality_insufficient"
+        ],
+        "updated_at": "2026-10-22 12:45:16"
+      },
+      "hero_assets": [
+        {
+          "kind": "backdrop",
+          "width": 180,
+          "height": 77,
+          "score": 44,
+          "source": "local_ia",
+          "match_confidence": 0.85,
+          "flags": []
+        }
+      ],
+      "hero_poster_url": "",
+      "hero_poster_width": 0,
+      "hero_poster_height": 0,
+      "backdrop_url": "",
+      "backdrop_width": 0,
+      "backdrop_height": 0,
+      "poster_width": 180,
+      "poster_height": 77
+    },
+    {
+      "title": "Aces Go Places (1982)",
+      "description": "<p style=\"margin:0.5em 0px 1em;\"><i><b>Aces Go Places</b></i>, (<a href=\"https://en.wikipedia.org/wiki/Traditional_Chinese_characters\" title=\"Traditional Chinese characters\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Chinese</a><span>:</span><span> </span><span lang=\"zh-hant\" xml:lang=\"zh-hant\">最佳拍檔</span>), also known in the United States as <i><b>Diamondfinger</b></i> or <i><b>Mad Mission</b></i>, is a 1982 Hong Kong <a href=\"https://en.wikipedia.org/wiki/Hong_Kong_action_cinema\" title=\"Hong Kong action cinema\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">action</a> <a href=\"https://en.wikipedia.org/wiki/Comedy_film\" title=\"Comedy film\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">comedy film</a> directed by <a href=\"https://en.wikipedia.org/wiki/Eric_Tsang\" title=\"Eric Tsang\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Eric Tsang</a>, and starring <a href=\"https://en.wikipedia.org/wiki/Samuel_Hui\" title=\"Samuel Hui\" class=\"mw-redirect\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Samuel Hui</a>, <a href=\"https://en.wikipedia.org/wiki/Karl_Maka\" title=\"Karl Maka\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Karl Maka</a> and <a href=\"https://en.wikipedia.org/wiki/Sylvia_Chang\" title=\"Sylvia Chang\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Sylvia Chang</a>. It is the first installment in the <a href=\"https://en.wikipedia.org/wiki/Aces_Go_Places_(film_series)\" title=\"Aces Go Places (film series)\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\"><i>Aces Go Places</i> film series</a>.</p><div class=\"mw-heading mw-heading2\" style=\"color:rgb(16,20,24);margin:0.25em 0px;padding-top:0.5em;padding-bottom:0.17em;border-bottom:0.727273px solid rgb(162,169,177);font-size:1.5em;font-family:'Linux Libertine', Georgia, Times, 'Source Serif 4', serif;line-height:1.375;\"><h2 style=\"color:inherit;font-weight:inherit;margin:0px 0px 0.25em;padding:0px;border:0px;font-size:inherit;font-style:inherit;font-variant:inherit;line-height:1.375;\">Plot</h2><span class=\"mw-editsection\" style=\"font-size:small;margin-left:1em;margin-right:0px;vertical-align:baseline;line-height:0;font-family:sans-serif;\"><a href=\"https://en.wikipedia.org/w/index.php?title=Aces_Go_Places&amp;action=edit&amp;section=1\" title=\"Edit section: Plot\" style=\"color:rgb(51,102,204);background:none;white-space:pre;line-height:1;\" rel=\"ugc nofollow\">edit</a></span></div><p style=\"margin:0.5em 0px 1em;\">A suave, smooth burglar named King Kong tries to make up for his thieving ways by teaming up with Albert 'Baldy' Au, a bumbling <a href=\"https://en.wikipedia.org/wiki/Taishan,_Guangdong\" title=\"Taishan, Guangdong\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Taishanese</a> police detective from the United States. Both work together to try to find a set of stolen diamonds; the diamonds are also being tracked by a European criminal known as 'White Gloves'. The two heroes are supervised by Superintendent Nancy Ho, who has a temper.</p><div class=\"mw-heading mw-heading2\" style=\"color:rgb(16,20,24);margin:0.25em 0px;padding-top:0.5em;padding-bottom:0.17em;border-bottom:0.727273px solid rgb(162,169,177);font-size:1.5em;font-family:'Linux Libertine', Georgia, Times, 'Source Serif 4', serif;line-height:1.375;\"><h2 style=\"color:inherit;font-weight:inherit;margin:0px 0px 0.25em;padding:0px;border:0px;font-size:inherit;font-style:inherit;font-variant:inherit;line-height:1.375;\">Cast</h2><span class=\"mw-editsection\" style=\"font-size:small;margin-left:1em;margin-right:0px;vertical-align:baseline;line-height:0;font-family:sans-serif;\"><a href=\"https://en.wikipedia.org/w/index.php?title=Aces_Go_Places&amp;action=edit&amp;section=2\" title=\"Edit section: Cast\" style=\"color:rgb(51,102,204);background:none;white-space:pre;line-height:1;\" rel=\"ugc nofollow\">edit</a></span></div><ul style=\"margin:0.3em 0px 0px 1.6em;padding:0px;\"><li style=\"margin-bottom:0.1em;\"><a href=\"https://en.wikipedia.org/wiki/Samuel_Hui\" title=\"Samuel Hui\" class=\"mw-redirect\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Samuel Hui</a> as \"King Kong\"</li><li style=\"margin-bottom:0.1em;\"><a href=\"https://en.wikipedia.org/wiki/Karl_Maka\" title=\"Karl Maka\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Karl Maka</a> as Albert Au</li><li style=\"margin-bottom:0.1em;\"><a href=\"https://en.wikipedia.org/wiki/Sylvia_Chang\" title=\"Sylvia Chang\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Sylvia Chang</a> as Superintendent Nancy Ho</li><li style=\"margin-bottom:0.1em;\"><a href=\"https://en.wikipedia.org/wiki/Dean_Shek\" title=\"Dean Shek\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Dean Shek</a> as Joe \"Gigolo Joe\" (special guest appearance)</li><li style=\"margin-bottom:0.1em;\"><a href=\"https://en.wikipedia.org/wiki/Tsui_Hark\" title=\"Tsui Hark\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Tsui Hark</a> as Ballerina Director (special guest appearance)</li><li style=\"margin-bottom:0.1em;\">Carroll Gordon as \"Ding Dong\"</li><li style=\"margin-bottom:0.1em;\">Chan Sing as Max \"Mad Max\"</li><li style=\"margin-bottom:0.1em;\">Anna Ng as Rose</li><li style=\"margin-bottom:0.1em;\">Lindzay Chan as Ballerina</li><li style=\"margin-bottom:0.1em;\">Veronica Lau as Mary</li><li style=\"margin-bottom:0.1em;\">Hon Kwok-choi as \"Squealie\"</li><li style=\"margin-bottom:0.1em;\">Sze Kai-keung as Laurel</li><li style=\"margin-bottom:0.1em;\"><a href=\"https://en.wikipedia.org/wiki/Cho_Tat-wah\" title=\"Cho Tat-wah\" class=\"mw-redirect\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Cho Tat-wah</a> as Uncle Wah</li><li style=\"margin-bottom:0.1em;\">Kam Piu as Szeto</li><li style=\"margin-bottom:0.1em;\">To Siu-ming as Tattoo Artist</li><li style=\"margin-bottom:0.1em;\">Robert Houston as \"White Gloves\"</li><li style=\"margin-bottom:0.1em;\">Jimmy Shaw as Monterosso</li><li style=\"margin-bottom:0.1em;\">Andrew Miller as Antonio</li><li style=\"margin-bottom:0.1em;\">Glen Thompson as Governor At Meeting</li><li style=\"margin-bottom:0.1em;\"><a href=\"https://en.wikipedia.org/wiki/Fung_Ging_Man\" title=\"Fung Ging Man\" class=\"mw-redirect\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Fung Ging Man</a> as Senior Police Officer At Meeting</li><li style=\"margin-bottom:0.1em;\">Lee Pang-fei as Senior Police Officer At Meeting</li><li style=\"margin-bottom:0.1em;\">Ng Yan-chi as Senior Police Officer At Meeting</li><li style=\"margin-bottom:0.1em;\">Chik Ngai-hung as Rascal Who Gets Fresh With Ho</li><li style=\"margin-bottom:0.1em;\">Shing Wan-on as Cheong</li><li style=\"margin-bottom:0.1em;\">Lai Kim-hung as \"Blubber Mouth\"</li><li style=\"margin-bottom:0.1em;\">Tai San as Glove's Thug</li><li style=\"margin-bottom:0.1em;\">Wong Chi-wai as Glove's Thug Attacking King Kong</li><li style=\"margin-bottom:0.1em;\">Cheung Kwok-wah as Mad Max's Thug</li><li style=\"margin-bottom:0.1em;\">Chow Kam-kong as Mad Max's Thug</li><li style=\"margin-bottom:0.1em;\">Pang Yun-cheung as Mad Max's Thug</li><li style=\"margin-bottom:0.1em;\">Fung Yun-chuen as Diamond Verifier</li><li style=\"margin-bottom:0.1em;\">Cheng Siu-ping as Councillor Chan In Taxi</li><li style=\"margin-bottom:0.1em;\"><a href=\"https://en.wikipedia.org/wiki/Raymond_Wong_Pak-ming\" title=\"Raymond Wong Pak-ming\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Raymond Wong</a> as Priest In Taxi (cameo)</li><li style=\"margin-bottom:0.1em;\"><a href=\"https://en.wikipedia.org/wiki/Yu_Mo-lin\" title=\"Yu Mo-lin\" class=\"mw-redirect\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Yu Mo-lin</a> as Nurse</li><li style=\"margin-bottom:0.1em;\">Ho Pak-kwong as Toilet Attendant</li><li style=\"margin-bottom:0.1em;\"><a href=\"https://en.wikipedia.org/wiki/George_Lam\" title=\"George Lam\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">George Lam</a> as Ambulance Driver (cameo)</li><li style=\"margin-bottom:0.1em;\">Man Ngai-tik as Senior Naval Officer At Meeting<sup class=\"mw-ref reference\" style=\"line-height:1;font-size:16px;\"><a href=\"https://en.wikipedia.org/wiki/Aces_Go_Places#cite_note-2\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\"><span class=\"mw-reflink-text\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></span></a></sup><sup class=\"mw-ref reference\" style=\"line-height:1;font-size:16px;\"><a href=\"https://en.wikipedia.org/wiki/Aces_Go_Places#cite_note-3\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\"><span class=\"mw-reflink-text\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></span></a></sup></li></ul><div class=\"mw-heading mw-heading2\" style=\"color:rgb(16,20,24);margin:0.25em 0px;padding-top:0.5em;padding-bottom:0.17em;border-bottom:0.727273px solid rgb(162,169,177);font-size:1.5em;font-family:'Linux Libertine', Georgia, Times, 'Source Serif 4', serif;line-height:1.375;\"><h2 style=\"color:inherit;font-weight:inherit;margin:0px 0px 0.25em;padding:0px;border:0px;font-size:inherit;font-style:inherit;font-variant:inherit;line-height:1.375;\">Production</h2><span class=\"mw-editsection\" style=\"font-size:small;margin-left:1em;margin-right:0px;vertical-align:baseline;line-height:0;font-family:sans-serif;\"><a href=\"https://en.wikipedia.org/w/index.php?title=Aces_Go_Places&amp;action=edit&amp;section=3\" title=\"Edit section: Production\" style=\"color:rgb(51,102,204);background:none;white-space:pre;line-height:1;\" rel=\"ugc nofollow\">edit</a></span></div><p style=\"margin:0.5em 0px 1em;\">In 1981, Cinema City started producing <i>Aces Go Places.</i> <a href=\"https://en.wikipedia.org/wiki/Chow_Yun-fat\" title=\"Chow Yun-fat\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Chow Yun-fat</a> was initially selected as one of the main leads for the film but the company was afraid of his tight filming schedule. <a href=\"https://en.wikipedia.org/wiki/Tsui_Hark\" title=\"Tsui Hark\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Tsui Hark</a> then recommended <a href=\"https://en.wikipedia.org/wiki/Sam_Hui\" title=\"Sam Hui\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Sam Hui</a> to replace Chow. Hui demanded HK2 million in acting fees at a time when the budget for a small film is HK1 million. With approval from Golden Princess Amusement, Hui played one of the main leads. A major production for the company, <a href=\"https://en.wikipedia.org/wiki/Karl_Maka\" title=\"Karl Maka\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Karl Maka</a> was the other male main lead with cameos by <a href=\"https://en.wikipedia.org/wiki/Dean_Shek\" title=\"Dean Shek\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Dean Shek</a>, <a href=\"https://en.wikipedia.org/wiki/Raymond_Wong_Pak-ming\" title=\"Raymond Wong Pak-ming\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Raymond Wong</a> and Hark and Taiwanese actress <a href=\"https://en.wikipedia.org/wiki/Sylvia_Chang\" title=\"Sylvia Chang\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Sylvia Chang</a>, who had just won <a href=\"https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Actress\" title=\"Golden Horse Award for Best Actress\" class=\"mw-redirect\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Best Actress</a> at the <a href=\"https://en.wikipedia.org/wiki/18th_Golden_Horse_Awards\" title=\"18th Golden Horse Awards\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">18th Golden Horse Awards</a>, as its main female lead.</p><div class=\"mw-heading mw-heading2\" style=\"color:rgb(16,20,24);margin:0.25em 0px;padding-top:0.5em;padding-bottom:0.17em;border-bottom:0.727273px solid rgb(162,169,177);font-size:1.5em;font-family:'Linux Libertine', Georgia, Times, 'Source Serif 4', serif;line-height:1.375;\"><h2 style=\"color:inherit;font-weight:inherit;margin:0px 0px 0.25em;padding:0px;border:0px;font-size:inherit;font-style:inherit;font-variant:inherit;line-height:1.375;\">Accolades</h2><span class=\"mw-editsection\" style=\"font-size:small;margin-left:1em;margin-right:0px;vertical-align:baseline;line-height:0;font-family:sans-serif;\"><a href=\"https://en.wikipedia.org/w/index.php?title=Aces_Go_Places&amp;action=edit&amp;section=4\" title=\"Edit section: Accolades\" style=\"color:rgb(51,102,204);background:none;white-space:pre;line-height:1;\" rel=\"ugc nofollow\">edit</a></span></div><table class=\"wikitable\" style=\"font-size:19px;background-color:rgb(248,249,250);margin:1em 0px;border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;border-collapse:collapse;\"><tbody><tr><th style=\"border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;padding:0.2em 0.4em;background-color:rgb(234,236,240);text-align:center;\">Ceremony</th><th style=\"border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;padding:0.2em 0.4em;background-color:rgb(234,236,240);text-align:center;\">Year</th><th style=\"border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;padding:0.2em 0.4em;background-color:rgb(234,236,240);text-align:center;\">Category</th><th style=\"border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;padding:0.2em 0.4em;background-color:rgb(234,236,240);text-align:center;\">Recipient(s)</th><th style=\"border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;padding:0.2em 0.4em;background-color:rgb(234,236,240);text-align:center;\">Result</th><th style=\"border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;padding:0.2em 0.4em;background-color:rgb(234,236,240);text-align:center;\"><abbr title=\"Reference(s)\" style=\"border-bottom:0px;\">Ref.</abbr></th></tr><tr><td rowspan=\"4\" style=\"border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;padding:0.2em 0.4em;\"><a href=\"https://en.wikipedia.org/wiki/Hong_Kong_Film_Awards\" title=\"Hong Kong Film Awards\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Hong Kong Film Awards</a></td><td rowspan=\"4\" style=\"border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;padding:0.2em 0.4em;\"><b><a href=\"https://en.wikipedia.org/wiki/2nd_Hong_Kong_Film_Awards\" title=\"2nd Hong Kong Film Awards\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">1983</a></b></td><td style=\"border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;padding:0.2em 0.4em;\"><a href=\"https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Actor\" title=\"Hong Kong Film Award for Best Actor\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Best Actor</a></td><td style=\"border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;padding:0.2em 0.4em;\"><a href=\"https://en.wikipedia.org/wiki/Karl_Maka\" title=\"Karl Maka\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Karl Maka</a></td><td class=\"yes table-yes2 notheme\" style=\"border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;padding:0.2em 0.4em;background:rgb(158,255,158);color:rgb(0,0,0);vertical-align:middle;text-align:center;\">Won</td><td style=\"border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;padding:0.2em 0.4em;\"><sup class=\"mw-ref reference\" style=\"line-height:1;font-size:15.2px;\"><a href=\"https://en.wikipedia.org/wiki/Aces_Go_Places#cite_note-4\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\"><span class=\"mw-reflink-text\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></span></a></sup></td></tr><tr><td style=\"border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;padding:0.2em 0.4em;\"><a href=\"https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Actress\" title=\"Hong Kong Film Award for Best Actress\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Best Actress</a></td><td style=\"border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;padding:0.2em 0.4em;\"><a href=\"https://en.wikipedia.org/wiki/Sylvia_Chang\" title=\"Sylvia Chang\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Sylvia Chang</a></td><td class=\"no table-no2 notheme\" style=\"border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;padding:0.2em 0.4em;background:rgb(255,227,227);color:#000000;vertical-align:middle;text-align:center;\">Nominated</td><td style=\"border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;padding:0.2em 0.4em;\"></td></tr><tr><td style=\"border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;padding:0.2em 0.4em;\">Best Original Film Score</td><td style=\"border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;padding:0.2em 0.4em;\"><a href=\"https://en.wikipedia.org/wiki/Teddy_Robin\" title=\"Teddy Robin\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Teddy Robin</a></td><td class=\"no table-no2 notheme\" style=\"border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;padding:0.2em 0.4em;background:rgb(255,227,227);color:#000000;vertical-align:middle;text-align:center;\">Nominated</td><td style=\"border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;padding:0.2em 0.4em;\"></td></tr><tr><td style=\"border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;padding:0.2em 0.4em;\">Best Original Film Song</td><td style=\"border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;padding:0.2em 0.4em;\">\"最佳拍檔\" (\"Aces Go Places\")</td><td class=\"no table-no2 notheme\" style=\"border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;padding:0.2em 0.4em;background:rgb(255,227,227);color:#000000;vertical-align:middle;text-align:center;\">Nominated</td><td style=\"border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;padding:0.2em 0.4em;\"></td></tr></tbody></table>",
+      "year": "",
+      "type": "电影",
+      "region": "english-handwritten",
+      "episodes": [
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/aces-go-places-1982_202610/01. Aces Go Places (1982).ia.mp4",
+          "urls": [
+            "https://archive.org/download/aces-go-places-1982_202610/01. Aces Go Places (1982).ia.mp4",
+            "https://archive.org/serve/aces-go-places-1982_202610/01. Aces Go Places (1982).ia.mp4"
+          ],
+          "line": "默认线路"
+        }
+      ],
+      "source_id": "aces-go-places-1982_202610",
+      "source_url": "https://archive.org/details/aces-go-places-1982_202610",
+      "license": "Public Domain / CC",
+      "status": "ok",
+      "poster": "images/poster_aces-go-places-1982_202610.jpg",
+      "id": "b3049742-02f6-4e57-bc0a-9946034a2aa2",
+      "created_at": "2026-10-22 12:44:57",
+      "updated_at": "2026-10-22 12:44:57",
+      "cover": "images/cover_aces-go-places-1982_202610.jpg",
+      "hero": {
+        "eligible": false,
+        "score": 56,
+        "grade": "F",
+        "source_available": true,
+        "source_health": 88,
+        "sources_count": 1,
+        "image_available": true,
+        "image_quality": 44,
+        "image_resolution": "none",
+        "image_match": 0.85,
+        "match_confidence": 0.85,
+        "has_hero_poster": false,
+        "has_backdrop": false,
+        "reasons": [
+          "no_hero_poster",
+          "no_backdrop",
+          "quality_insufficient"
+        ],
+        "updated_at": "2026-10-22 12:45:16"
+      },
+      "hero_assets": [
+        {
+          "kind": "backdrop",
+          "width": 180,
+          "height": 77,
+          "score": 44,
+          "source": "local_ia",
+          "match_confidence": 0.85,
+          "flags": []
+        }
+      ],
+      "hero_poster_url": "",
+      "hero_poster_width": 0,
+      "hero_poster_height": 0,
+      "backdrop_url": "",
+      "backdrop_width": 0,
+      "backdrop_height": 0,
+      "poster_width": 180,
+      "poster_height": 77
+    },
+    {
+      "title": "FILM Death Whisperer II",
+      "description": "Film",
+      "year": "",
+      "type": "电影",
+      "region": "pol",
+      "episodes": [
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/film-death-whisperer-ii/FILM- Death Whisperer II.ia.mp4",
+          "urls": [
+            "https://archive.org/download/film-death-whisperer-ii/FILM- Death Whisperer II.ia.mp4",
+            "https://archive.org/serve/film-death-whisperer-ii/FILM- Death Whisperer II.ia.mp4"
+          ],
+          "line": "默认线路"
+        }
+      ],
+      "source_id": "film-death-whisperer-ii",
+      "source_url": "https://archive.org/details/film-death-whisperer-ii",
+      "license": "Public Domain / CC",
+      "status": "ok",
+      "poster": "images/poster_film-death-whisperer-ii.jpg",
+      "id": "409da838-64d7-46cd-ad86-17138766ff14",
+      "created_at": "2026-10-22 12:44:58",
+      "updated_at": "2026-10-22 12:44:58",
+      "cover": "images/cover_film-death-whisperer-ii.jpg",
+      "hero": {
+        "eligible": false,
+        "score": 56,
+        "grade": "F",
+        "source_available": true,
+        "source_health": 88,
+        "sources_count": 1,
+        "image_available": true,
+        "image_quality": 44,
+        "image_resolution": "none",
+        "image_match": 0.85,
+        "match_confidence": 0.85,
+        "has_hero_poster": false,
+        "has_backdrop": false,
+        "reasons": [
+          "no_hero_poster",
+          "no_backdrop",
+          "quality_insufficient"
+        ],
+        "updated_at": "2026-10-22 12:45:16"
+      },
+      "hero_assets": [
+        {
+          "kind": "backdrop",
+          "width": 180,
+          "height": 76,
+          "score": 44,
+          "source": "local_ia",
+          "match_confidence": 0.85,
+          "flags": []
+        }
+      ],
+      "hero_poster_url": "",
+      "hero_poster_width": 0,
+      "hero_poster_height": 0,
+      "backdrop_url": "",
+      "backdrop_width": 0,
+      "backdrop_height": 0,
+      "poster_width": 180,
+      "poster_height": 76
+    },
+    {
+      "title": "FILM Silent Love",
+      "description": "Film",
+      "year": "",
+      "type": "电影",
+      "region": "pol",
+      "episodes": [
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/film-silent-love/FILM- Silent Love.ia.mp4",
+          "urls": [
+            "https://archive.org/download/film-silent-love/FILM- Silent Love.ia.mp4",
+            "https://archive.org/serve/film-silent-love/FILM- Silent Love.ia.mp4"
+          ],
+          "line": "默认线路"
+        }
+      ],
+      "source_id": "film-silent-love",
+      "source_url": "https://archive.org/details/film-silent-love",
+      "license": "Public Domain / CC",
+      "status": "ok",
+      "poster": "images/poster_film-silent-love.jpg",
+      "id": "c8e67ba5-d5ea-4db0-a4ab-07edf775fc12",
+      "created_at": "2026-10-22 12:44:59",
+      "updated_at": "2026-10-22 12:44:59",
+      "cover": "images/cover_film-silent-love.jpg",
+      "hero": {
+        "eligible": false,
+        "score": 56,
+        "grade": "F",
+        "source_available": true,
+        "source_health": 88,
+        "sources_count": 1,
+        "image_available": true,
+        "image_quality": 44,
+        "image_resolution": "none",
+        "image_match": 0.85,
+        "match_confidence": 0.85,
+        "has_hero_poster": false,
+        "has_backdrop": false,
+        "reasons": [
+          "no_hero_poster",
+          "no_backdrop",
+          "quality_insufficient"
+        ],
+        "updated_at": "2026-10-22 12:45:16"
+      },
+      "hero_assets": [
+        {
+          "kind": "backdrop",
+          "width": 180,
+          "height": 75,
+          "score": 44,
+          "source": "local_ia",
+          "match_confidence": 0.85,
+          "flags": []
+        }
+      ],
+      "hero_poster_url": "",
+      "hero_poster_width": 0,
+      "hero_poster_height": 0,
+      "backdrop_url": "",
+      "backdrop_width": 0,
+      "backdrop_height": 0,
+      "poster_width": 180,
+      "poster_height": 75
+    },
+    {
+      "title": "FILM Chihayafuru Musubi",
+      "description": "Film",
+      "year": "",
+      "type": "电影",
+      "region": "pol",
+      "episodes": [
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/film-chihayafuru-musubi/FILM-Chihayafuru Musubi.ia.mp4",
+          "urls": [
+            "https://archive.org/download/film-chihayafuru-musubi/FILM-Chihayafuru Musubi.ia.mp4",
+            "https://archive.org/serve/film-chihayafuru-musubi/FILM-Chihayafuru Musubi.ia.mp4"
+          ],
+          "line": "默认线路"
+        }
+      ],
+      "source_id": "film-chihayafuru-musubi",
+      "source_url": "https://archive.org/details/film-chihayafuru-musubi",
+      "license": "Public Domain / CC",
+      "status": "ok",
+      "poster": "images/poster_film-chihayafuru-musubi.jpg",
+      "id": "f97cf3da-5888-49d9-a0bc-919a4c2d9088",
+      "created_at": "2026-10-22 12:44:59",
+      "updated_at": "2026-10-22 12:44:59",
+      "cover": "images/cover_film-chihayafuru-musubi.jpg",
+      "hero": {
+        "eligible": false,
+        "score": 54,
+        "grade": "F",
+        "source_available": true,
+        "source_health": 88,
+        "sources_count": 1,
+        "image_available": true,
+        "image_quality": 38,
+        "image_resolution": "none",
+        "image_match": 0.85,
+        "match_confidence": 0.85,
+        "has_hero_poster": false,
+        "has_backdrop": false,
+        "reasons": [
+          "no_hero_poster",
+          "no_backdrop",
+          "quality_insufficient"
+        ],
+        "updated_at": "2026-10-22 12:45:16"
+      },
+      "hero_assets": [
+        {
+          "kind": "backdrop",
+          "width": 180,
+          "height": 63,
+          "score": 38,
+          "source": "local_ia",
+          "match_confidence": 0.85,
+          "flags": []
+        }
+      ],
+      "hero_poster_url": "",
+      "hero_poster_width": 0,
+      "hero_poster_height": 0,
+      "backdrop_url": "",
+      "backdrop_width": 0,
+      "backdrop_height": 0,
+      "poster_width": 180,
+      "poster_height": 63
+    },
+    {
+      "title": "Basuras Humanas (aka La Bastarda)(1972)",
+      "description": "<font style=\"vertical-align:inherit;\"><font style=\"vertical-align:inherit;\">Película </font></font>",
+      "year": "",
+      "type": "电影",
+      "region": "spa",
+      "episodes": [
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/basuras-humanas-aka-la-bastarda-1972/Basuras humanas (aka La bastarda)(1972).mp4",
+          "urls": [
+            "https://archive.org/download/basuras-humanas-aka-la-bastarda-1972/Basuras humanas (aka La bastarda)(1972).mp4",
+            "https://archive.org/serve/basuras-humanas-aka-la-bastarda-1972/Basuras humanas (aka La bastarda)(1972).mp4"
+          ],
+          "line": "默认线路"
+        }
+      ],
+      "source_id": "basuras-humanas-aka-la-bastarda-1972",
+      "source_url": "https://archive.org/details/basuras-humanas-aka-la-bastarda-1972",
+      "license": "Public Domain / CC",
+      "status": "ok",
+      "poster": "images/poster_basuras-humanas-aka-la-bastarda-1972.jpg",
+      "id": "a89f0b36-05a0-4b1d-beee-b5a60743a051",
+      "created_at": "2026-10-22 12:45:00",
+      "updated_at": "2026-10-22 12:45:00",
+      "cover": "images/cover_basuras-humanas-aka-la-bastarda-1972.jpg",
+      "hero": {
+        "eligible": false,
+        "score": 56,
+        "grade": "F",
+        "source_available": true,
+        "source_health": 88,
+        "sources_count": 1,
+        "image_available": true,
+        "image_quality": 43,
+        "image_resolution": "none",
+        "image_match": 0.85,
+        "match_confidence": 0.85,
+        "has_hero_poster": false,
+        "has_backdrop": false,
+        "reasons": [
+          "no_hero_poster",
+          "no_backdrop",
+          "quality_insufficient"
+        ],
+        "updated_at": "2026-10-22 12:45:16"
+      },
+      "hero_assets": [
+        {
+          "kind": "poster",
+          "width": 180,
+          "height": 144,
+          "score": 43,
+          "source": "local_ia",
+          "match_confidence": 0.85,
+          "flags": []
+        }
+      ],
+      "hero_poster_url": "",
+      "hero_poster_width": 0,
+      "hero_poster_height": 0,
+      "backdrop_url": "",
+      "backdrop_width": 0,
+      "backdrop_height": 0,
+      "poster_width": 180,
+      "poster_height": 144
+    },
+    {
+      "title": "Home Movie: 012058",
+      "description": "Brought to New York by a special event, a Black family from Detroit takes in the Guggenheim and Central Park and the look and feel of the architecture and signage of the city in the early 1960s. They film themselves enjoying cafes and restaurants, then attend an award event and banquet where members of the Black community are honored before heading west back to Michigan.\n\nfrom can: \n\"NY '64\"\n\"NY 1964\nHotel Ent\nHolland Smith\nWashington Jackson\n@ Lunch\nFire Engine Inter[rupt]\nBanquet\nBack on road\n@ Det\nKid Show\nSign Pole\n[?] + Sanders\"\n\nlabel on leader: \n\"1964 SEPT\"",
+      "year": "",
+      "type": "电影",
+      "region": "",
+      "episodes": [
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/204403_Home_Movie_012058/204403_Home_Movie_012058_master.intros.mp4",
+          "urls": [
+            "https://archive.org/download/204403_Home_Movie_012058/204403_Home_Movie_012058_master.intros.mp4",
+            "https://archive.org/serve/204403_Home_Movie_012058/204403_Home_Movie_012058_master.intros.mp4"
+          ],
+          "line": "默认线路"
+        }
+      ],
+      "source_id": "204403_Home_Movie_012058",
+      "source_url": "https://archive.org/details/204403_Home_Movie_012058",
+      "license": "Public Domain / CC",
+      "status": "ok",
+      "poster": "images/poster_204403_Home_Movie_012058.jpg",
+      "id": "68f30200-a122-4618-999e-19473f95aee0",
+      "created_at": "2026-10-22 12:45:01",
+      "updated_at": "2026-10-22 12:45:01",
+      "cover": "images/cover_204403_Home_Movie_012058.jpg",
+      "hero": {
+        "eligible": false,
+        "score": 56,
+        "grade": "F",
+        "source_available": true,
+        "source_health": 88,
+        "sources_count": 1,
+        "image_available": true,
+        "image_quality": 43,
+        "image_resolution": "none",
+        "image_match": 0.85,
+        "match_confidence": 0.85,
+        "has_hero_poster": false,
+        "has_backdrop": false,
+        "reasons": [
+          "no_hero_poster",
+          "no_backdrop",
+          "quality_insufficient"
+        ],
+        "updated_at": "2026-10-22 12:45:16"
+      },
+      "hero_assets": [
+        {
+          "kind": "poster",
+          "width": 180,
+          "height": 135,
+          "score": 43,
+          "source": "local_ia",
+          "match_confidence": 0.85,
+          "flags": []
+        }
+      ],
+      "hero_poster_url": "",
+      "hero_poster_width": 0,
+      "hero_poster_height": 0,
+      "backdrop_url": "",
+      "backdrop_width": 0,
+      "backdrop_height": 0,
+      "poster_width": 180,
+      "poster_height": 135
+    },
+    {
+      "title": "[Frank Putnam Flint Memorial Fountain Interviews]",
+      "description": "Content advisory: Racist remarks.\n\nAcross several sequences, a television news journalist interviews passersby for their views about whether the Frank Putnam Flint Memorial fountain in Los Angeles should be torn down, primarily  focusing on its maintenance needs, and also with reference to an incident in which a person had drowned in the fountain. Interviewees express a range of remarks, accents, and speech performances, not all of which relate to the fountain and some of which contain racist remarks. The interviewer bypasses potential Black interview subjects.\n\nreel notes: \n\"Mag Sound - TV interview Monument\"",
+      "year": "",
+      "type": "电影",
+      "region": "eng",
+      "episodes": [
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/206134_Frank_Putnam_Flint_Memorial_Interviews/206134_Frank_Putnam_Flint_Memorial_Interviews_master.intros.mp4",
+          "urls": [
+            "https://archive.org/download/206134_Frank_Putnam_Flint_Memorial_Interviews/206134_Frank_Putnam_Flint_Memorial_Interviews_master.intros.mp4",
+            "https://archive.org/serve/206134_Frank_Putnam_Flint_Memorial_Interviews/206134_Frank_Putnam_Flint_Memorial_Interviews_master.intros.mp4"
+          ],
+          "line": "默认线路"
+        }
+      ],
+      "source_id": "206134_Frank_Putnam_Flint_Memorial_Interviews",
+      "source_url": "https://archive.org/details/206134_Frank_Putnam_Flint_Memorial_Interviews",
+      "license": "Public Domain / CC",
+      "status": "ok",
+      "poster": "images/poster_206134_Frank_Putnam_Flint_Memorial_Interviews.jpg",
+      "id": "afa5b658-16ce-4a5d-b859-e5fa0f4b585c",
+      "created_at": "2026-10-22 12:45:02",
+      "updated_at": "2026-10-22 12:45:02",
+      "cover": "images/cover_206134_Frank_Putnam_Flint_Memorial_Interviews.jpg",
+      "hero": {
+        "eligible": false,
+        "score": 56,
+        "grade": "F",
+        "source_available": true,
+        "source_health": 88,
+        "sources_count": 1,
+        "image_available": true,
+        "image_quality": 43,
+        "image_resolution": "none",
+        "image_match": 0.85,
+        "match_confidence": 0.85,
+        "has_hero_poster": false,
+        "has_backdrop": false,
+        "reasons": [
+          "no_hero_poster",
+          "no_backdrop",
+          "quality_insufficient"
+        ],
+        "updated_at": "2026-10-22 12:45:16"
+      },
+      "hero_assets": [
+        {
+          "kind": "poster",
+          "width": 180,
+          "height": 135,
+          "score": 43,
+          "source": "local_ia",
+          "match_confidence": 0.85,
+          "flags": []
+        }
+      ],
+      "hero_poster_url": "",
+      "hero_poster_width": 0,
+      "hero_poster_height": 0,
+      "backdrop_url": "",
+      "backdrop_width": 0,
+      "backdrop_height": 0,
+      "poster_width": 180,
+      "poster_height": 135
+    },
+    {
+      "title": "Home Movie: 099848",
+      "description": "In the late 1930s, women with cars and cameras took off to explore the Mojave desert's landscape and native plant communities, following sections of Route 66 and documenting a mountain mining community before turning northwest to the great Central Valley where they documented the noted superbloom of 1938 and the phenomenon of superbloom tourism. Also with visits to the Pacific Ocean, to friends and family members at home in Southern California, and a visit to San Miguel Mission.\n\nArticle about superbloom tourism https://www.cnps.org/wp-content/uploads/2023/06/theguardian.com-The-dazzling-troubling-history-of-California-superbloom-tourism.pdf retrieved 7/2/2026\n\ncan notes: \n\"Trip 1937-38 / Southern Calif.\"",
+      "year": "",
+      "type": "电影",
+      "region": "",
+      "episodes": [
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/206125_Home_Movie_099848/206125_Home_Movie_099848_master.intros.mp4",
+          "urls": [
+            "https://archive.org/download/206125_Home_Movie_099848/206125_Home_Movie_099848_master.intros.mp4",
+            "https://archive.org/serve/206125_Home_Movie_099848/206125_Home_Movie_099848_master.intros.mp4"
+          ],
+          "line": "默认线路"
+        }
+      ],
+      "source_id": "206125_Home_Movie_099848",
+      "source_url": "https://archive.org/details/206125_Home_Movie_099848",
+      "license": "Public Domain / CC",
+      "status": "ok",
+      "poster": "images/poster_206125_Home_Movie_099848.jpg",
+      "id": "c8203256-e377-4921-a44a-5cc0189c657f",
+      "created_at": "2026-10-22 12:45:03",
+      "updated_at": "2026-10-22 12:45:03",
+      "cover": "images/cover_206125_Home_Movie_099848.jpg",
+      "hero": {
+        "eligible": false,
+        "score": 56,
+        "grade": "F",
+        "source_available": true,
+        "source_health": 88,
+        "sources_count": 1,
+        "image_available": true,
+        "image_quality": 43,
+        "image_resolution": "none",
+        "image_match": 0.85,
+        "match_confidence": 0.85,
+        "has_hero_poster": false,
+        "has_backdrop": false,
+        "reasons": [
+          "no_hero_poster",
+          "no_backdrop",
+          "quality_insufficient"
+        ],
+        "updated_at": "2026-10-22 12:45:16"
+      },
+      "hero_assets": [
+        {
+          "kind": "poster",
+          "width": 180,
+          "height": 135,
+          "score": 43,
+          "source": "local_ia",
+          "match_confidence": 0.85,
+          "flags": []
+        }
+      ],
+      "hero_poster_url": "",
+      "hero_poster_width": 0,
+      "hero_poster_height": 0,
+      "backdrop_url": "",
+      "backdrop_width": 0,
+      "backdrop_height": 0,
+      "poster_width": 180,
+      "poster_height": 135
+    },
+    {
+      "title": "Home Movie: Phal Collection: 011821",
+      "description": "Content warnings: The file appended _001 contains images of the aftermath of a violent vehicle collision and possibly injured persons. The file appended _002 contains an inclusion of Castle News footage covering an exchange of attacks between Japanese forces and American forces in World War II with racist language and bombing footage.\n\nThe black and white sequences of this reel are appended _001, while the color sequences are scanned to a separate file appended _002. \n\nThe black and white reel was created in the 1920s and shows a family in real estate embracing the natural beauty of San Francisco Bay, playing on its hills with the Bay in the background, and celebrating new homes and offices in East Bay cities. The family also engages in subsistence fishing in the Bay with historically significant documentation of fish stocks as they were in the 1920s as well as the East Bay landscape as it appeared with little development.\n\nThe color file was created in the 1930s and early 1940s, showing the family at home and at work in the East Bay, as well as fishing in the Bay and boating in the Delta and includes the newsreel sequence mentioned in the content advisory which is in black and white.",
+      "year": "",
+      "type": "电影",
+      "region": "eng",
+      "episodes": [
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/205917_Phal_Collection_011821/205917_Phal_Collection_011821_001_master.intros.mp4",
+          "urls": [
+            "https://archive.org/download/205917_Phal_Collection_011821/205917_Phal_Collection_011821_001_master.intros.mp4",
+            "https://archive.org/serve/205917_Phal_Collection_011821/205917_Phal_Collection_011821_001_master.intros.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/205917_Phal_Collection_011821/205917_Phal_Collection_011821_002_master.intros.mp4",
+          "urls": [
+            "https://archive.org/download/205917_Phal_Collection_011821/205917_Phal_Collection_011821_002_master.intros.mp4",
+            "https://archive.org/serve/205917_Phal_Collection_011821/205917_Phal_Collection_011821_002_master.intros.mp4"
+          ],
+          "line": "默认线路"
+        }
+      ],
+      "source_id": "205917_Phal_Collection_011821",
+      "source_url": "https://archive.org/details/205917_Phal_Collection_011821",
+      "license": "Public Domain / CC",
+      "status": "ok",
+      "poster": "images/poster_205917_Phal_Collection_011821.jpg",
+      "id": "44ee513a-920e-4762-831b-d55c3353786f",
+      "created_at": "2026-10-22 12:45:04",
+      "updated_at": "2026-10-22 12:45:04",
+      "cover": "images/cover_205917_Phal_Collection_011821.jpg",
+      "hero": {
+        "eligible": false,
+        "score": 57,
+        "grade": "F",
+        "source_available": true,
+        "source_health": 88,
+        "sources_count": 2,
+        "image_available": true,
+        "image_quality": 43,
+        "image_resolution": "none",
+        "image_match": 0.85,
+        "match_confidence": 0.85,
+        "has_hero_poster": false,
+        "has_backdrop": false,
+        "reasons": [
+          "no_hero_poster",
+          "no_backdrop",
+          "quality_insufficient"
+        ],
+        "updated_at": "2026-10-22 12:45:16"
+      },
+      "hero_assets": [
+        {
+          "kind": "poster",
+          "width": 180,
+          "height": 135,
+          "score": 43,
+          "source": "local_ia",
+          "match_confidence": 0.85,
+          "flags": []
+        }
+      ],
+      "hero_poster_url": "",
+      "hero_poster_width": 0,
+      "hero_poster_height": 0,
+      "backdrop_url": "",
+      "backdrop_width": 0,
+      "backdrop_height": 0,
+      "poster_width": 180,
+      "poster_height": 135
+    },
+    {
+      "title": "Home Movie: Patrick Marks Collection: 096351",
+      "description": "In the most unique scene in this reel, a northern California family gathers for the processing of Abalone at a coastal cabin, with an elder in a wetsuit grinning as children look on while expert hands process the haul. This sequence jumps out among others that are centered on landscape photography of the terrain, with studied views of mountains and forests, coastlines and hillscapes, and with a visit to Fort Ross and a ride on the Skunk train.\n\nNote in can: \n\"Sept 1963 / Golden Gate to Weaverville / Part I\"",
+      "year": "",
+      "type": "电影",
+      "region": "",
+      "episodes": [
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/205898_Marks_Collection_096351/205898_Marks_Collection_096351_master.intros.mp4",
+          "urls": [
+            "https://archive.org/download/205898_Marks_Collection_096351/205898_Marks_Collection_096351_master.intros.mp4",
+            "https://archive.org/serve/205898_Marks_Collection_096351/205898_Marks_Collection_096351_master.intros.mp4"
+          ],
+          "line": "默认线路"
+        }
+      ],
+      "source_id": "205898_Marks_Collection_096351",
+      "source_url": "https://archive.org/details/205898_Marks_Collection_096351",
+      "license": "Public Domain / CC",
+      "status": "ok",
+      "poster": "images/poster_205898_Marks_Collection_096351.jpg",
+      "id": "62e33719-ffbe-4229-90fa-1dcd5289ec60",
+      "created_at": "2026-10-22 12:45:05",
+      "updated_at": "2026-10-22 12:45:05",
+      "cover": "images/cover_205898_Marks_Collection_096351.jpg",
+      "hero": {
+        "eligible": false,
+        "score": 56,
+        "grade": "F",
+        "source_available": true,
+        "source_health": 88,
+        "sources_count": 1,
+        "image_available": true,
+        "image_quality": 43,
+        "image_resolution": "none",
+        "image_match": 0.85,
+        "match_confidence": 0.85,
+        "has_hero_poster": false,
+        "has_backdrop": false,
+        "reasons": [
+          "no_hero_poster",
+          "no_backdrop",
+          "quality_insufficient"
+        ],
+        "updated_at": "2026-10-22 12:45:16"
+      },
+      "hero_assets": [
+        {
+          "kind": "poster",
+          "width": 180,
+          "height": 135,
+          "score": 43,
+          "source": "local_ia",
+          "match_confidence": 0.85,
+          "flags": []
+        }
+      ],
+      "hero_poster_url": "",
+      "hero_poster_width": 0,
+      "hero_poster_height": 0,
+      "backdrop_url": "",
+      "backdrop_width": 0,
+      "backdrop_height": 0,
+      "poster_width": 180,
+      "poster_height": 135
+    },
+    {
+      "title": "Home Movie: Patrick Marks Collection: 096352",
+      "description": "Historical ecology of salmon stocks in the Sacramento River ecosystem are documented in this reel that also takes in the lost 19th century town of Whiskeytown, later drowned during the creation of Whiskeytown Lake. With extensive photography of the Trinity Alps area including Shasta Dam and Lake Shasta, with driving perspectives of area roads, time spent at a campsite on the shore of Lake Shasta, and landscape photography of the region's geophysical and cultural features from many perspectives.\n\nNote in can: \n\"Trinity Lake & Dam / Sept. 1963 / Part II\"\n\nInformation on leader states: \n\"Weaverville- Trinity Lake- Sept 1963 / Part II\" / \"Weaverville-Trinity-End / Part II\"",
+      "year": "",
+      "type": "电影",
+      "region": "",
+      "episodes": [
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/205894_Marks_Collection_096352/205894_Marks_Collection_096352_master.intros.mp4",
+          "urls": [
+            "https://archive.org/download/205894_Marks_Collection_096352/205894_Marks_Collection_096352_master.intros.mp4",
+            "https://archive.org/serve/205894_Marks_Collection_096352/205894_Marks_Collection_096352_master.intros.mp4"
+          ],
+          "line": "默认线路"
+        }
+      ],
+      "source_id": "205894_Marks_Collection_096352",
+      "source_url": "https://archive.org/details/205894_Marks_Collection_096352",
+      "license": "Public Domain / CC",
+      "status": "ok",
+      "poster": "images/poster_205894_Marks_Collection_096352.jpg",
+      "id": "382413a9-d3b5-42df-95ec-d3cbe17c3c58",
+      "created_at": "2026-10-22 12:45:05",
+      "updated_at": "2026-10-22 12:45:05",
+      "cover": "images/cover_205894_Marks_Collection_096352.jpg",
+      "hero": {
+        "eligible": false,
+        "score": 56,
+        "grade": "F",
+        "source_available": true,
+        "source_health": 88,
+        "sources_count": 1,
+        "image_available": true,
+        "image_quality": 43,
+        "image_resolution": "none",
+        "image_match": 0.85,
+        "match_confidence": 0.85,
+        "has_hero_poster": false,
+        "has_backdrop": false,
+        "reasons": [
+          "no_hero_poster",
+          "no_backdrop",
+          "quality_insufficient"
+        ],
+        "updated_at": "2026-10-22 12:45:16"
+      },
+      "hero_assets": [
+        {
+          "kind": "poster",
+          "width": 180,
+          "height": 135,
+          "score": 43,
+          "source": "local_ia",
+          "match_confidence": 0.85,
+          "flags": []
+        }
+      ],
+      "hero_poster_url": "",
+      "hero_poster_width": 0,
+      "hero_poster_height": 0,
+      "backdrop_url": "",
+      "backdrop_width": 0,
+      "backdrop_height": 0,
+      "poster_width": 180,
+      "poster_height": 135
+    },
+    {
+      "title": "Home Movie: Rick Laubscher Collection: 010417",
+      "description": "Content advisory: Animal cruelty in the form of bullfights.\n\nThe people, architecture, landscape and markets of Mexico in the 1930s are at the heart of this reel, created by tourists from San Francisco who take a road trip through southwestern deserts and travel to Mexico City. With photography of the Sonoran Desert on the way, 1930s clothes and cars, and with a visit to Teotihuacan, its Pyramid of the Moon, and the mountains around the city.",
+      "year": "",
+      "type": "电影",
+      "region": "",
+      "episodes": [
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/205766_Laubscher_Collection_010417/205766_Laubscher_Collection_010417_master.intros.mp4",
+          "urls": [
+            "https://archive.org/download/205766_Laubscher_Collection_010417/205766_Laubscher_Collection_010417_master.intros.mp4",
+            "https://archive.org/serve/205766_Laubscher_Collection_010417/205766_Laubscher_Collection_010417_master.intros.mp4"
+          ],
+          "line": "默认线路"
+        }
+      ],
+      "source_id": "205766_Laubscher_Collection_010417",
+      "source_url": "https://archive.org/details/205766_Laubscher_Collection_010417",
+      "license": "Public Domain / CC",
+      "status": "ok",
+      "poster": "images/poster_205766_Laubscher_Collection_010417.jpg",
+      "id": "20c26652-dda9-473e-8daf-2d673319d83a",
+      "created_at": "2026-10-22 12:45:06",
+      "updated_at": "2026-10-22 12:45:06",
+      "cover": "images/cover_205766_Laubscher_Collection_010417.jpg",
+      "hero": {
+        "eligible": false,
+        "score": 56,
+        "grade": "F",
+        "source_available": true,
+        "source_health": 88,
+        "sources_count": 1,
+        "image_available": true,
+        "image_quality": 43,
+        "image_resolution": "none",
+        "image_match": 0.85,
+        "match_confidence": 0.85,
+        "has_hero_poster": false,
+        "has_backdrop": false,
+        "reasons": [
+          "no_hero_poster",
+          "no_backdrop",
+          "quality_insufficient"
+        ],
+        "updated_at": "2026-10-22 12:45:16"
+      },
+      "hero_assets": [
+        {
+          "kind": "poster",
+          "width": 180,
+          "height": 135,
+          "score": 43,
+          "source": "local_ia",
+          "match_confidence": 0.85,
+          "flags": []
+        }
+      ],
+      "hero_poster_url": "",
+      "hero_poster_width": 0,
+      "hero_poster_height": 0,
+      "backdrop_url": "",
+      "backdrop_width": 0,
+      "backdrop_height": 0,
+      "poster_width": 180,
+      "poster_height": 135
+    },
+    {
+      "title": "Cal State Colleges: San Francisco State College",
+      "description": "Documents scenes within the Third World Liberation Front strikes of 1968 at San Francisco State College (now San Francisco State University). Includes voiceover interviews with students and police officers involved.\n\nMore information on the Third World Liberation Front strikes of 1968: https://magazine.sfsu.edu/archive/archive/fall_08/strike.html (accessed 7/7/2025)",
+      "year": "",
+      "type": "电影",
+      "region": "eng",
+      "episodes": [
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/205697_Cal_State_Colleges/205697_Cal_State_Colleges_master.intros.mp4",
+          "urls": [
+            "https://archive.org/download/205697_Cal_State_Colleges/205697_Cal_State_Colleges_master.intros.mp4",
+            "https://archive.org/serve/205697_Cal_State_Colleges/205697_Cal_State_Colleges_master.intros.mp4"
+          ],
+          "line": "默认线路"
+        }
+      ],
+      "source_id": "205697_Cal_State_Colleges",
+      "source_url": "https://archive.org/details/205697_Cal_State_Colleges",
+      "license": "Public Domain / CC",
+      "status": "ok",
+      "poster": "images/poster_205697_Cal_State_Colleges.jpg",
+      "id": "6a7057b0-76f5-4d20-a169-a8542216c34a",
+      "created_at": "2026-10-22 12:45:07",
+      "updated_at": "2026-10-22 12:45:07",
+      "cover": "images/cover_205697_Cal_State_Colleges.jpg",
+      "hero": {
+        "eligible": false,
+        "score": 54,
+        "grade": "F",
+        "source_available": true,
+        "source_health": 88,
+        "sources_count": 1,
+        "image_available": true,
+        "image_quality": 37,
+        "image_resolution": "none",
+        "image_match": 0.85,
+        "match_confidence": 0.85,
+        "has_hero_poster": false,
+        "has_backdrop": false,
+        "reasons": [
+          "no_hero_poster",
+          "no_backdrop",
+          "quality_insufficient"
+        ],
+        "updated_at": "2026-10-22 12:45:16"
+      },
+      "hero_assets": [
+        {
+          "kind": "poster",
+          "width": 180,
+          "height": 135,
+          "score": 37,
+          "source": "local_ia",
+          "match_confidence": 0.85,
+          "flags": []
+        }
+      ],
+      "hero_poster_url": "",
+      "hero_poster_width": 0,
+      "hero_poster_height": 0,
+      "backdrop_url": "",
+      "backdrop_width": 0,
+      "backdrop_height": 0,
+      "poster_width": 180,
+      "poster_height": 135
+    },
+    {
+      "title": "Rain and our backyard",
+      "description": "A short video depicting rain in my backyard in Mount Dandenong, Victoria, Australia.",
+      "year": "",
+      "type": "电影",
+      "region": "eng",
+      "episodes": [
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/rain-and-our-backyard/Rain and our backyard.mp4",
+          "urls": [
+            "https://archive.org/download/rain-and-our-backyard/Rain and our backyard.mp4",
+            "https://archive.org/serve/rain-and-our-backyard/Rain and our backyard.mp4"
+          ],
+          "line": "默认线路"
+        }
+      ],
+      "source_id": "rain-and-our-backyard",
+      "source_url": "https://archive.org/details/rain-and-our-backyard",
+      "license": "Public Domain / CC",
+      "status": "ok",
+      "poster": "images/poster_rain-and-our-backyard.jpg",
+      "id": "0235bb00-5db7-469f-af47-0fd8d0548539",
+      "created_at": "2026-10-22 12:45:08",
+      "updated_at": "2026-10-22 12:45:08",
+      "cover": "images/cover_rain-and-our-backyard.jpg",
+      "hero": {
+        "eligible": false,
+        "score": 60,
+        "grade": "F",
+        "source_available": true,
+        "source_health": 88,
+        "sources_count": 1,
+        "image_available": true,
+        "image_quality": 55,
+        "image_resolution": "none",
+        "image_match": 0.85,
+        "match_confidence": 0.85,
+        "has_hero_poster": false,
+        "has_backdrop": false,
+        "reasons": [
+          "no_hero_poster",
+          "no_backdrop"
+        ],
+        "updated_at": "2026-10-22 12:45:16"
+      },
+      "hero_assets": [
+        {
+          "kind": "backdrop",
+          "width": 180,
+          "height": 102,
+          "score": 55,
+          "source": "local_ia",
+          "match_confidence": 0.85,
+          "flags": []
+        }
+      ],
+      "hero_poster_url": "",
+      "hero_poster_width": 0,
+      "hero_poster_height": 0,
+      "backdrop_url": "",
+      "backdrop_width": 0,
+      "backdrop_height": 0,
+      "poster_width": 180,
+      "poster_height": 102
+    },
+    {
+      "title": "VideoTraxx: Film & Video Library Volume 3: Disc # 24 Planes, Trains and Autos",
+      "description": "here is footage clips of Planes, Trains and Autos<div><br /></div><div>114 Royalty Free NTSC Stock footage clips</div><div><br /></div><div><br /></div><div><br /></div>",
+      "year": "2005",
+      "type": "电影",
+      "region": "",
+      "episodes": [
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08334_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08334_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08334_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08335_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08335_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08335_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08336_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08336_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08336_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08337_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08337_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08337_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08338_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08338_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08338_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08339_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08339_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08339_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08340_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08340_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08340_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08341_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08341_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08341_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08342_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08342_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08342_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08343_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08343_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08343_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08344_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08344_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08344_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08345_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08345_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08345_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08346_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08346_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08346_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08347_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08347_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08347_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08348_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08348_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08348_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08349_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08349_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08349_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08350_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08350_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08350_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08351_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08351_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08351_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08352_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08352_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08352_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08353_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08353_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08353_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08354_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08354_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08354_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08355_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08355_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08355_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08356_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08356_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08356_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08357_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08357_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08357_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08358_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08358_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08358_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08359_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08359_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08359_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08360_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08360_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08360_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08361_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08361_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08361_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08362_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08362_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08362_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08363_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08363_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08363_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08364_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08364_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08364_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08365_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08365_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08365_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08366_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08366_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08366_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08367_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08367_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08367_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08368_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08368_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08368_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08369_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08369_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08369_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08370_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08370_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08370_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08371_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08371_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08371_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08372_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08372_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08372_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08373_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08373_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08373_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08374_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08374_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08374_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08375_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08375_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08375_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08376_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08376_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08376_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08377_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08377_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08377_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08378_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08378_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08378_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08379_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08379_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08379_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08380_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08380_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08380_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08381_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08381_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08381_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08382_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08382_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08382_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08383_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08383_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08383_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08384_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08384_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08384_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08385_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08385_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08385_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08386_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08386_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08386_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08387_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08387_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08387_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08388_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08388_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08388_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08389_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08389_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08389_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08390_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08390_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08390_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08391_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08391_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08391_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08392_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08392_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08392_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08393_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08393_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08393_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08394_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08394_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08394_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08395_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08395_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08395_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08396_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08396_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08396_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08397_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08397_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08397_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08398_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08398_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08398_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08399_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08399_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08399_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08400_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08400_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08400_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08401_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08401_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08401_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08402_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08402_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08402_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08403_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08403_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08403_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08404_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08404_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08404_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08405_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08405_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08405_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08406_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08406_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08406_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08407_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08407_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08407_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08408_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08408_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08408_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08409_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08409_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08409_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08410_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08410_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08410_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08411_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08411_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08411_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08412_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08412_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08412_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08413_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08413_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08413_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08414_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08414_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08414_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08415_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08415_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08415_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08416_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08416_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08416_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08417_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08417_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08417_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08418_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08418_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08418_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08419_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08419_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08419_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08420_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08420_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08420_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08421_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08421_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08421_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08422_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08422_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08422_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08423_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08423_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08423_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08424_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08424_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08424_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08425_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08425_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08425_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08426_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08426_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08426_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08427_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08427_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08427_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08428_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08428_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08428_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08429_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08429_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08429_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08430_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08430_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08430_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08431_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08431_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08431_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08432_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08432_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08432_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08433_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08433_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08433_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08434_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08434_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08434_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08435_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08435_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08435_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08436_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08436_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08436_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08437_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08437_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08437_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08438_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08438_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08438_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08439_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08439_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08439_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08440_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08440_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08440_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08441_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08441_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08441_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08442_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08442_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08442_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08443_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08443_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08443_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08444_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08444_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08444_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08445_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08445_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08445_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08446_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08446_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08446_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        },
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08447_VideoTraxx.mp4",
+          "urls": [
+            "https://archive.org/download/video-traxx-volume-3-24-planes-trains-autos/08447_VideoTraxx.mp4",
+            "https://archive.org/serve/video-traxx-volume-3-24-planes-trains-autos/08447_VideoTraxx.mp4"
+          ],
+          "line": "默认线路"
+        }
+      ],
+      "source_id": "video-traxx-volume-3-24-planes-trains-autos",
+      "source_url": "https://archive.org/details/video-traxx-volume-3-24-planes-trains-autos",
+      "license": "Public Domain / CC",
+      "status": "ok",
+      "poster": "images/poster_video-traxx-volume-3-24-planes-trains-autos.jpg",
+      "id": "7ddced2c-901f-4d8f-9747-ea316e471870",
+      "created_at": "2026-10-22 12:45:10",
+      "updated_at": "2026-10-22 12:45:10",
+      "cover": "images/cover_video-traxx-volume-3-24-planes-trains-autos.jpg",
+      "hero": {
+        "eligible": false,
+        "score": 59,
+        "grade": "F",
+        "source_available": true,
+        "source_health": 88,
+        "sources_count": 114,
+        "image_available": true,
+        "image_quality": 43,
+        "image_resolution": "none",
+        "image_match": 0.85,
+        "match_confidence": 0.85,
+        "has_hero_poster": false,
+        "has_backdrop": false,
+        "reasons": [
+          "no_hero_poster",
+          "no_backdrop",
+          "quality_insufficient"
+        ],
+        "updated_at": "2026-10-22 12:45:16"
+      },
+      "hero_assets": [
+        {
+          "kind": "poster",
+          "width": 180,
+          "height": 135,
+          "score": 43,
+          "source": "local_ia",
+          "match_confidence": 0.85,
+          "flags": []
+        }
+      ],
+      "hero_poster_url": "",
+      "hero_poster_width": 0,
+      "hero_poster_height": 0,
+      "backdrop_url": "",
+      "backdrop_width": 0,
+      "backdrop_height": 0,
+      "poster_width": 180,
+      "poster_height": 135
+    },
+    {
+      "title": "British Columbia North Shore Daydream",
+      "description": "It's a busy little stretch of pavement along the old north shore.",
+      "year": "",
+      "type": "电影",
+      "region": "",
+      "episodes": [
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/trans-canada-westbound-part-201-bc-north-shore-daydream-inst/Trans Canada Westbound Part 201 BC North Shore Daydream Inst.mp4",
+          "urls": [
+            "https://archive.org/download/trans-canada-westbound-part-201-bc-north-shore-daydream-inst/Trans Canada Westbound Part 201 BC North Shore Daydream Inst.mp4",
+            "https://archive.org/serve/trans-canada-westbound-part-201-bc-north-shore-daydream-inst/Trans Canada Westbound Part 201 BC North Shore Daydream Inst.mp4"
+          ],
+          "line": "默认线路"
+        }
+      ],
+      "source_id": "trans-canada-westbound-part-201-bc-north-shore-daydream-inst",
+      "source_url": "https://archive.org/details/trans-canada-westbound-part-201-bc-north-shore-daydream-inst",
+      "license": "Public Domain / CC",
+      "status": "ok",
+      "poster": "images/poster_trans-canada-westbound-part-201-bc-north-shore-daydream-inst.jpg",
+      "id": "6f2e9c23-9878-462d-953a-dfc96f313ae5",
+      "created_at": "2026-10-22 12:45:11",
+      "updated_at": "2026-10-22 12:45:11",
+      "cover": "images/cover_trans-canada-westbound-part-201-bc-north-shore-daydream-inst.jpg",
+      "hero": {
+        "eligible": false,
+        "score": 60,
+        "grade": "F",
+        "source_available": true,
+        "source_health": 88,
+        "sources_count": 1,
+        "image_available": true,
+        "image_quality": 55,
+        "image_resolution": "none",
+        "image_match": 0.85,
+        "match_confidence": 0.85,
+        "has_hero_poster": false,
+        "has_backdrop": false,
+        "reasons": [
+          "no_hero_poster",
+          "no_backdrop"
+        ],
+        "updated_at": "2026-10-22 12:45:16"
+      },
+      "hero_assets": [
+        {
+          "kind": "backdrop",
+          "width": 180,
+          "height": 101,
+          "score": 55,
+          "source": "local_ia",
+          "match_confidence": 0.85,
+          "flags": []
+        }
+      ],
+      "hero_poster_url": "",
+      "hero_poster_width": 0,
+      "hero_poster_height": 0,
+      "backdrop_url": "",
+      "backdrop_width": 0,
+      "backdrop_height": 0,
+      "poster_width": 180,
+      "poster_height": 101
+    },
+    {
+      "title": "Saskatchewan Serendipity",
+      "description": "<div>Canadiana fun ... </div>A stroke of good fortune to behold <div>the morning sun as Swift Current </div><div>faded in the rear view mirror ... </div>",
+      "year": "",
+      "type": "电影",
+      "region": "",
+      "episodes": [
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/trans-canada-westbound-part-150-saskatchewan-serendipity-inst/Trans Canada Westbound Part 150 Saskatchewan Serendipity Inst.mp4",
+          "urls": [
+            "https://archive.org/download/trans-canada-westbound-part-150-saskatchewan-serendipity-inst/Trans Canada Westbound Part 150 Saskatchewan Serendipity Inst.mp4",
+            "https://archive.org/serve/trans-canada-westbound-part-150-saskatchewan-serendipity-inst/Trans Canada Westbound Part 150 Saskatchewan Serendipity Inst.mp4"
+          ],
+          "line": "默认线路"
+        }
+      ],
+      "source_id": "trans-canada-westbound-part-150-saskatchewan-serendipity-inst",
+      "source_url": "https://archive.org/details/trans-canada-westbound-part-150-saskatchewan-serendipity-inst",
+      "license": "Public Domain / CC",
+      "status": "ok",
+      "poster": "images/poster_trans-canada-westbound-part-150-saskatchewan-serendipity-inst.jpg",
+      "id": "3d8312c1-4e1a-43cc-bac0-3d0c2096f163",
+      "created_at": "2026-10-22 12:45:11",
+      "updated_at": "2026-10-22 12:45:11",
+      "cover": "images/cover_trans-canada-westbound-part-150-saskatchewan-serendipity-inst.jpg",
+      "hero": {
+        "eligible": false,
+        "score": 60,
+        "grade": "F",
+        "source_available": true,
+        "source_health": 88,
+        "sources_count": 1,
+        "image_available": true,
+        "image_quality": 55,
+        "image_resolution": "none",
+        "image_match": 0.85,
+        "match_confidence": 0.85,
+        "has_hero_poster": false,
+        "has_backdrop": false,
+        "reasons": [
+          "no_hero_poster",
+          "no_backdrop"
+        ],
+        "updated_at": "2026-10-22 12:45:16"
+      },
+      "hero_assets": [
+        {
+          "kind": "backdrop",
+          "width": 180,
+          "height": 101,
+          "score": 55,
+          "source": "local_ia",
+          "match_confidence": 0.85,
+          "flags": []
+        }
+      ],
+      "hero_poster_url": "",
+      "hero_poster_width": 0,
+      "hero_poster_height": 0,
+      "backdrop_url": "",
+      "backdrop_width": 0,
+      "backdrop_height": 0,
+      "poster_width": 180,
+      "poster_height": 101
+    }
+  ],
+  "logs": [
+    {
+      "time": "2026-10-22 12:45:16",
+      "level": "info",
+      "msg": "Hero 契约生成：eligible 0 / 总 20（有源 20，Hero海报 0，Backdrop 0）"
+    },
+    {
+      "time": "2026-10-22 12:45:16",
+      "level": "info",
+      "msg": "Hero 评估完成：eligible 0 / 总 20（有源 20，Hero海报 0，Backdrop 0）"
+    },
+    {
+      "time": "2026-10-22 12:45:16",
+      "level": "info",
+      "msg": "今日精选生成：第 6916 批 / 共 5 部（每 3 天轮换）"
+    },
+    {
+      "time": "2026-10-22 12:45:16",
+      "level": "info",
+      "msg": "海报仓库导出：20 部影片 → repo/img 20 张, repo/slide 0 张"
+    },
+    {
+      "time": "2026-10-22 12:45:16",
+      "level": "info",
+      "msg": "海报仓库刷新完成：库 20 部 | 补齐 20 | repo/img 20 张, slide 0 张 | 精选 5 部"
+    },
+    {
+      "time": "2026-10-22 12:45:16",
+      "level": "info",
+      "msg": "今日精选生成：第 6916 批 / 共 5 部（每 3 天轮换）"
+    },
+    {
+      "time": "2026-10-22 12:45:16",
+      "level": "info",
+      "msg": "海报仓库导出：20 部影片 → repo/img 20 张, repo/slide 0 张"
+    },
+    {
+      "time": "2026-10-22 12:45:16",
+      "level": "info",
+      "msg": "海报补齐：新增 20 / 无图源 0 / 失败 0"
+    },
+    {
+      "time": "2026-10-22 12:45:11",
+      "level": "info",
+      "msg": "自动更新：新增 20 部",
+      "count": 20
+    },
+    {
+      "time": "2026-10-22 12:44:54",
+      "level": "info",
+      "msg": "auto_feed 发现候选 24 部（来自 1 个启用的源）"
+    }
+  ],
+  "templates": {}
+}

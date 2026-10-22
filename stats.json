@@ -1,0 +1,131 @@
+{
+  "app": "FilmCollector",
+  "generated_at": "2026-10-22T12:45:16",
+  "total": 20,
+  "total_including_dead": 20,
+  "by_type": {
+    "电影": 20
+  },
+  "by_year": {
+    "未知": 19,
+    "2005": 1
+  },
+  "resource_health": {
+    "active": 134,
+    "warning": 0,
+    "degraded": 0,
+    "disabled": 0
+  },
+  "score_distribution": {
+    "0-20": 0,
+    "21-40": 0,
+    "41-60": 0,
+    "61-80": 20,
+    "81-100": 0
+  },
+  "last_run_added": 0,
+  "blocked": false,
+  "top": [
+    {
+      "title": "FILM Jade Dynasty",
+      "score": 66,
+      "type": ""
+    },
+    {
+      "title": "FILM The Silent Forest",
+      "score": 66,
+      "type": ""
+    },
+    {
+      "title": "Aces Go Places II (1983)",
+      "score": 66,
+      "type": ""
+    },
+    {
+      "title": "Aces Go Places (1982)",
+      "score": 66,
+      "type": ""
+    },
+    {
+      "title": "FILM Death Whisperer II",
+      "score": 66,
+      "type": ""
+    },
+    {
+      "title": "FILM Silent Love",
+      "score": 66,
+      "type": ""
+    },
+    {
+      "title": "FILM Chihayafuru Musubi",
+      "score": 66,
+      "type": ""
+    },
+    {
+      "title": "Basuras Humanas (aka La Bastarda)(1972)",
+      "score": 66,
+      "type": ""
+    },
+    {
+      "title": "Home Movie: 012058",
+      "score": 66,
+      "type": ""
+    },
+    {
+      "title": "[Frank Putnam Flint Memorial Fountain Interviews]",
+      "score": 66,
+      "type": ""
+    },
+    {
+      "title": "Home Movie: 099848",
+      "score": 66,
+      "type": ""
+    },
+    {
+      "title": "Home Movie: Phal Collection: 011821",
+      "score": 66,
+      "type": ""
+    },
+    {
+      "title": "Home Movie: Patrick Marks Collection: 096351",
+      "score": 66,
+      "type": ""
+    },
+    {
+      "title": "Home Movie: Patrick Marks Collection: 096352",
+      "score": 66,
+      "type": ""
+    },
+    {
+      "title": "Home Movie: Rick Laubscher Collection: 010417",
+      "score": 66,
+      "type": ""
+    },
+    {
+      "title": "Cal State Colleges: San Francisco State College",
+      "score": 66,
+      "type": ""
+    },
+    {
+      "title": "Rain and our backyard",
+      "score": 66,
+      "type": ""
+    },
+    {
+      "title": "VideoTraxx: Film & Video Library Volume 3: Disc # 24 Planes, Trains and Autos",
+      "score": 66,
+      "type": "2005"
+    },
+    {
+      "title": "British Columbia North Shore Daydream",
+      "score": 66,
+      "type": ""
+    },
+    {
+      "title": "Saskatchewan Serendipity",
+      "score": 66,
+      "type": ""
+    }
+  ],
+  "base": "https://lidawei1985.github.io/filmcollector-pages/"
+}

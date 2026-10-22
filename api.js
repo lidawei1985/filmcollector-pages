@@ -59,8 +59,31 @@ function search(wd) {
   return JSON.stringify({ list: list, page: 1, pageCount: 1, total: list.length });
 }
 
-// 播放：传入的 id 即为直链（mp4 等），直接回包。m3u8 等如需解析可在此扩展。
+// 播放：传入的 id 为某个候选直链；在其所属影片的候选列表里逐个探测，返回首个可用地址。
+// archive.org 某个 CDN 节点临时不可达时，自动切到同片的备用直链，单点故障不影响观看。
+function probe(u) {
+  try {
+    var r = request({ url: u, method: 'HEAD' });
+    if (r && (r.code === 200 || r.code === 206 || r.code === 0 || !r.code)) return true;
+  } catch (e) {}
+  try { return !!request(u); } catch (e) { return false; }
+}
 function play(flag, id, flags) {
+  try {
+    var d = loadData();
+    for (var i = 0; i < (d.list || []).length; i++) {
+      var v = d.list[i];
+      var alts = v.vod_play_urls || [v.vod_play_url];
+      var idx = alts.indexOf(id);
+      if (idx >= 0) {
+        var ordered = alts.slice(idx).concat(alts.slice(0, idx));
+        for (var k = 0; k < ordered.length; k++) {
+          if (probe(ordered[k])) return JSON.stringify({ url: ordered[k] });
+        }
+        return JSON.stringify({ url: id }); // 探测不支持则原样返回，让播放器自行尝试
+      }
+    }
+  } catch (e) {}
   return JSON.stringify({ url: id });
 }
 function proxy(opt) { return ''; }
