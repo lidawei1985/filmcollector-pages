@@ -1,7 +1,7 @@
 {
   "code": 1,
   "msg": "ok",
-  "updated_at": "2026-10-22T13:17:53",
+  "updated_at": "2026-10-22T13:28:16",
   "stats": {
     "total": 20,
     "with_source": 20,
@@ -19,7 +19,7 @@
   "heroes": [
     {
       "hero_eligible": false,
-      "movie_id": "9d180740-e19e-4de7-9fb7-42d6ade9e26a",
+      "movie_id": "d82b2363-4770-4933-87dc-094442b900b6",
       "title": "Rain and our backyard",
       "source_available": true,
       "source_health": 88,
@@ -42,7 +42,7 @@
     },
     {
       "hero_eligible": false,
-      "movie_id": "8032b3e0-a563-4f2c-bc2c-c453a04752ad",
+      "movie_id": "7bca8ef5-2fbb-48fa-b08b-253877600cd3",
       "title": "British Columbia North Shore Daydream",
       "source_available": true,
       "source_health": 88,
@@ -65,7 +65,7 @@
     },
     {
       "hero_eligible": false,
-      "movie_id": "d230fbf6-3768-4144-99ef-cca85cbfa7cb",
+      "movie_id": "3161d33d-b95f-4786-aa88-f58faded60af",
       "title": "Saskatchewan Serendipity",
       "source_available": true,
       "source_health": 88,
@@ -88,7 +88,7 @@
     },
     {
       "hero_eligible": false,
-      "movie_id": "2ab4827e-e158-4f86-ad76-4c4fabcf88c7",
+      "movie_id": "d8dabd2f-308a-4313-9156-3455f545c770",
       "title": "VideoTraxx: Film & Video Library Volume 3: Disc # 24 Planes, Trains and Autos",
       "source_available": true,
       "source_health": 88,
@@ -112,7 +112,7 @@
     },
     {
       "hero_eligible": false,
-      "movie_id": "4a2fea35-5d55-4695-9811-ecd188d975b2",
+      "movie_id": "10304d80-8d65-45b4-93e7-15a5acc6088d",
       "title": "Home Movie: Phal Collection: 011821",
       "source_available": true,
       "source_health": 88,
@@ -136,7 +136,7 @@
     },
     {
       "hero_eligible": false,
-      "movie_id": "c3994382-8c2b-4883-993e-cfbed6687610",
+      "movie_id": "faedde0a-10c4-473f-9744-4073c01b5dbf",
       "title": "FILM The Silent Forest",
       "source_available": true,
       "source_health": 88,
@@ -160,7 +160,7 @@
     },
     {
       "hero_eligible": false,
-      "movie_id": "df831e35-d0f0-486e-b060-a0d7b433a7f6",
+      "movie_id": "ea12b2be-5523-4e80-a5b2-5559ed2a6939",
       "title": "Aces Go Places II (1983)",
       "source_available": true,
       "source_health": 88,
@@ -184,7 +184,7 @@
     },
     {
       "hero_eligible": false,
-      "movie_id": "ddd96b1e-0951-4981-ad24-2ddf898fd610",
+      "movie_id": "d1117bfa-2bf6-4c5f-87c3-7adaa3f96084",
       "title": "Aces Go Places (1982)",
       "source_available": true,
       "source_health": 88,
@@ -208,7 +208,7 @@
     },
     {
       "hero_eligible": false,
-      "movie_id": "09d88851-07ce-4045-b2af-b6a026390f91",
+      "movie_id": "beb21cb0-c5dd-44ad-9642-cb52a5e685ae",
       "title": "FILM Death Whisperer II",
       "source_available": true,
       "source_health": 88,
@@ -232,7 +232,7 @@
     },
     {
       "hero_eligible": false,
-      "movie_id": "f3e59c6f-025c-4c40-a21b-af72d40152de",
+      "movie_id": "1455b5aa-48f7-44d7-b0be-047c4d86ed98",
       "title": "FILM Silent Love",
       "source_available": true,
       "source_health": 88,
@@ -256,7 +256,7 @@
     },
     {
       "hero_eligible": false,
-      "movie_id": "9b9a12b9-5e78-4b00-8313-c6eb843d8118",
+      "movie_id": "7ffda3ad-e5da-4505-aca7-7fe149f32cca",
       "title": "Basuras Humanas (aka La Bastarda)(1972)",
       "source_available": true,
       "source_health": 88,
@@ -280,7 +280,7 @@
     },
     {
       "hero_eligible": false,
-      "movie_id": "ad839b34-45d8-4f40-8a2a-8f2572bbc280",
+      "movie_id": "ef78c5b7-8992-4f19-9e1e-677ad6ea5055",
       "title": "Home Movie: 012058",
       "source_available": true,
       "source_health": 88,
@@ -304,7 +304,7 @@
     },
     {
       "hero_eligible": false,
-      "movie_id": "0e93c9d2-ef0b-4d48-8d3f-ae5e55195c19",
+      "movie_id": "72e41a2e-ff85-40ca-a3e6-1711d2ed429c",
       "title": "[Frank Putnam Flint Memorial Fountain Interviews]",
       "source_available": true,
       "source_health": 88,
@@ -328,7 +328,7 @@
     },
     {
       "hero_eligible": false,
-      "movie_id": "2803a259-0400-4078-a0a6-8ae8d9c9bf52",
+      "movie_id": "07decbbb-3794-4f74-a4ee-edbb47ef532b",
       "title": "Home Movie: 099848",
       "source_available": true,
       "source_health": 88,
@@ -352,7 +352,7 @@
     },
     {
       "hero_eligible": false,
-      "movie_id": "b9094a9c-952b-4c6a-b98a-baa0854b5f36",
+      "movie_id": "e69ebd9b-155f-4e82-83da-b544c37777d9",
       "title": "Home Movie: Patrick Marks Collection: 096351",
       "source_available": true,
       "source_health": 88,
@@ -376,7 +376,7 @@
     },
     {
       "hero_eligible": false,
-      "movie_id": "f0a941ce-cac4-4af1-8ed6-43561f42743a",
+      "movie_id": "083bbe38-f509-4293-bd48-ee267e711f1f",
       "title": "Home Movie: Patrick Marks Collection: 096352",
       "source_available": true,
       "source_health": 88,
@@ -400,7 +400,7 @@
     },
     {
       "hero_eligible": false,
-      "movie_id": "380cd66e-cfc3-41a8-83d5-24465da301d0",
+      "movie_id": "d825abf5-ec68-421e-b206-71a666781530",
       "title": "Home Movie: Rick Laubscher Collection: 010417",
       "source_available": true,
       "source_health": 88,
@@ -424,7 +424,7 @@
     },
     {
       "hero_eligible": false,
-      "movie_id": "31e3d847-e1c6-4fd4-b7f4-aaf974755b71",
+      "movie_id": "c8315693-d9f9-45b0-8169-644172100f4b",
       "title": "FILM Jade Dynasty",
       "source_available": true,
       "source_health": 88,
@@ -448,7 +448,7 @@
     },
     {
       "hero_eligible": false,
-      "movie_id": "4eb0cb3a-4c1a-4ec9-a390-4efa49d24264",
+      "movie_id": "ad915c95-4e2a-4071-82bf-f675ccb34b6e",
       "title": "FILM Chihayafuru Musubi",
       "source_available": true,
       "source_health": 88,
@@ -472,7 +472,7 @@
     },
     {
       "hero_eligible": false,
-      "movie_id": "9c433986-e795-4eff-8687-a3265f21dc41",
+      "movie_id": "bf32d925-b388-4e76-9c74-53545804e4ee",
       "title": "Cal State Colleges: San Francisco State College",
       "source_available": true,
       "source_health": 88,
