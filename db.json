@@ -22,9 +22,9 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_film-jade-dynasty.jpg",
-      "id": "759afdd2-4cb0-4059-96a5-cb295573a9e2",
-      "created_at": "2026-10-22 12:44:55",
-      "updated_at": "2026-10-22 12:44:55",
+      "id": "83342552-b41d-4cc3-aa09-cc138267ddd8",
+      "created_at": "2026-10-22 12:51:48",
+      "updated_at": "2026-10-22 12:51:48",
       "cover": "images/cover_film-jade-dynasty.jpg",
       "hero": {
         "eligible": false,
@@ -45,7 +45,7 @@
           "no_backdrop",
           "quality_insufficient"
         ],
-        "updated_at": "2026-10-22 12:45:16"
+        "updated_at": "2026-10-22 12:52:14"
       },
       "hero_assets": [
         {
@@ -89,9 +89,9 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_film-the-silent-forest.jpg",
-      "id": "1bcb0207-44ab-4e98-af18-2c31a9c56e5f",
-      "created_at": "2026-10-22 12:44:55",
-      "updated_at": "2026-10-22 12:44:55",
+      "id": "445b307d-f799-4cf3-8497-7c3654b0e409",
+      "created_at": "2026-10-22 12:51:49",
+      "updated_at": "2026-10-22 12:51:49",
       "cover": "images/cover_film-the-silent-forest.jpg",
       "hero": {
         "eligible": false,
@@ -112,7 +112,7 @@
           "no_backdrop",
           "quality_insufficient"
         ],
-        "updated_at": "2026-10-22 12:45:16"
+        "updated_at": "2026-10-22 12:52:14"
       },
       "hero_assets": [
         {
@@ -156,9 +156,9 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_aces-go-places-ii-1983.jpg",
-      "id": "8734c0d9-87b7-452d-a201-d86a02fb4fd2",
-      "created_at": "2026-10-22 12:44:56",
-      "updated_at": "2026-10-22 12:44:56",
+      "id": "74d5ca0a-bdd1-4aae-980e-1f01783e1bf2",
+      "created_at": "2026-10-22 12:51:50",
+      "updated_at": "2026-10-22 12:51:50",
       "cover": "images/cover_aces-go-places-ii-1983.jpg",
       "hero": {
         "eligible": false,
@@ -179,7 +179,7 @@
           "no_backdrop",
           "quality_insufficient"
         ],
-        "updated_at": "2026-10-22 12:45:16"
+        "updated_at": "2026-10-22 12:52:14"
       },
       "hero_assets": [
         {
@@ -223,9 +223,9 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_aces-go-places-1982_202610.jpg",
-      "id": "b3049742-02f6-4e57-bc0a-9946034a2aa2",
-      "created_at": "2026-10-22 12:44:57",
-      "updated_at": "2026-10-22 12:44:57",
+      "id": "95727199-40ff-4cb7-bd00-7a654cf5dab4",
+      "created_at": "2026-10-22 12:51:51",
+      "updated_at": "2026-10-22 12:51:51",
       "cover": "images/cover_aces-go-places-1982_202610.jpg",
       "hero": {
         "eligible": false,
@@ -246,7 +246,7 @@
           "no_backdrop",
           "quality_insufficient"
         ],
-        "updated_at": "2026-10-22 12:45:16"
+        "updated_at": "2026-10-22 12:52:14"
       },
       "hero_assets": [
         {
@@ -290,9 +290,9 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_film-death-whisperer-ii.jpg",
-      "id": "409da838-64d7-46cd-ad86-17138766ff14",
-      "created_at": "2026-10-22 12:44:58",
-      "updated_at": "2026-10-22 12:44:58",
+      "id": "56ee587e-08e1-49ad-8426-bb197d89a883",
+      "created_at": "2026-10-22 12:51:52",
+      "updated_at": "2026-10-22 12:51:52",
       "cover": "images/cover_film-death-whisperer-ii.jpg",
       "hero": {
         "eligible": false,
@@ -313,7 +313,7 @@
           "no_backdrop",
           "quality_insufficient"
         ],
-        "updated_at": "2026-10-22 12:45:16"
+        "updated_at": "2026-10-22 12:52:14"
       },
       "hero_assets": [
         {
@@ -357,9 +357,9 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_film-silent-love.jpg",
-      "id": "c8e67ba5-d5ea-4db0-a4ab-07edf775fc12",
-      "created_at": "2026-10-22 12:44:59",
-      "updated_at": "2026-10-22 12:44:59",
+      "id": "8694d9a1-f5b9-4cc6-b6dc-45d9ca6ce9c4",
+      "created_at": "2026-10-22 12:51:53",
+      "updated_at": "2026-10-22 12:51:53",
       "cover": "images/cover_film-silent-love.jpg",
       "hero": {
         "eligible": false,
@@ -380,7 +380,7 @@
           "no_backdrop",
           "quality_insufficient"
         ],
-        "updated_at": "2026-10-22 12:45:16"
+        "updated_at": "2026-10-22 12:52:14"
       },
       "hero_assets": [
         {
@@ -424,9 +424,9 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_film-chihayafuru-musubi.jpg",
-      "id": "f97cf3da-5888-49d9-a0bc-919a4c2d9088",
-      "created_at": "2026-10-22 12:44:59",
-      "updated_at": "2026-10-22 12:44:59",
+      "id": "2fb6eeaa-8750-43fc-8465-30ebe1b53a74",
+      "created_at": "2026-10-22 12:51:53",
+      "updated_at": "2026-10-22 12:51:53",
       "cover": "images/cover_film-chihayafuru-musubi.jpg",
       "hero": {
         "eligible": false,
@@ -447,7 +447,7 @@
           "no_backdrop",
           "quality_insufficient"
         ],
-        "updated_at": "2026-10-22 12:45:16"
+        "updated_at": "2026-10-22 12:52:14"
       },
       "hero_assets": [
         {
@@ -491,9 +491,9 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_basuras-humanas-aka-la-bastarda-1972.jpg",
-      "id": "a89f0b36-05a0-4b1d-beee-b5a60743a051",
-      "created_at": "2026-10-22 12:45:00",
-      "updated_at": "2026-10-22 12:45:00",
+      "id": "725eac6a-dbe2-42f3-9e9d-057daf0c322d",
+      "created_at": "2026-10-22 12:51:54",
+      "updated_at": "2026-10-22 12:51:54",
       "cover": "images/cover_basuras-humanas-aka-la-bastarda-1972.jpg",
       "hero": {
         "eligible": false,
@@ -514,7 +514,7 @@
           "no_backdrop",
           "quality_insufficient"
         ],
-        "updated_at": "2026-10-22 12:45:16"
+        "updated_at": "2026-10-22 12:52:14"
       },
       "hero_assets": [
         {
@@ -558,9 +558,9 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_204403_Home_Movie_012058.jpg",
-      "id": "68f30200-a122-4618-999e-19473f95aee0",
-      "created_at": "2026-10-22 12:45:01",
-      "updated_at": "2026-10-22 12:45:01",
+      "id": "580a05e9-31e0-4efb-9675-787207756b31",
+      "created_at": "2026-10-22 12:51:55",
+      "updated_at": "2026-10-22 12:51:55",
       "cover": "images/cover_204403_Home_Movie_012058.jpg",
       "hero": {
         "eligible": false,
@@ -581,7 +581,7 @@
           "no_backdrop",
           "quality_insufficient"
         ],
-        "updated_at": "2026-10-22 12:45:16"
+        "updated_at": "2026-10-22 12:52:14"
       },
       "hero_assets": [
         {
@@ -625,9 +625,9 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_206134_Frank_Putnam_Flint_Memorial_Interviews.jpg",
-      "id": "afa5b658-16ce-4a5d-b859-e5fa0f4b585c",
-      "created_at": "2026-10-22 12:45:02",
-      "updated_at": "2026-10-22 12:45:02",
+      "id": "44dd30e7-bfe7-4b44-a4bc-a0bce89a1261",
+      "created_at": "2026-10-22 12:51:56",
+      "updated_at": "2026-10-22 12:51:56",
       "cover": "images/cover_206134_Frank_Putnam_Flint_Memorial_Interviews.jpg",
       "hero": {
         "eligible": false,
@@ -648,7 +648,7 @@
           "no_backdrop",
           "quality_insufficient"
         ],
-        "updated_at": "2026-10-22 12:45:16"
+        "updated_at": "2026-10-22 12:52:14"
       },
       "hero_assets": [
         {
@@ -692,9 +692,9 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_206125_Home_Movie_099848.jpg",
-      "id": "c8203256-e377-4921-a44a-5cc0189c657f",
-      "created_at": "2026-10-22 12:45:03",
-      "updated_at": "2026-10-22 12:45:03",
+      "id": "152cdac3-61c3-4211-954f-166ec662b21a",
+      "created_at": "2026-10-22 12:51:57",
+      "updated_at": "2026-10-22 12:51:57",
       "cover": "images/cover_206125_Home_Movie_099848.jpg",
       "hero": {
         "eligible": false,
@@ -715,7 +715,7 @@
           "no_backdrop",
           "quality_insufficient"
         ],
-        "updated_at": "2026-10-22 12:45:16"
+        "updated_at": "2026-10-22 12:52:14"
       },
       "hero_assets": [
         {
@@ -768,9 +768,9 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_205917_Phal_Collection_011821.jpg",
-      "id": "44ee513a-920e-4762-831b-d55c3353786f",
-      "created_at": "2026-10-22 12:45:04",
-      "updated_at": "2026-10-22 12:45:04",
+      "id": "afc2091d-4577-4e79-921e-2e3021edfd8c",
+      "created_at": "2026-10-22 12:51:57",
+      "updated_at": "2026-10-22 12:51:57",
       "cover": "images/cover_205917_Phal_Collection_011821.jpg",
       "hero": {
         "eligible": false,
@@ -791,7 +791,7 @@
           "no_backdrop",
           "quality_insufficient"
         ],
-        "updated_at": "2026-10-22 12:45:16"
+        "updated_at": "2026-10-22 12:52:14"
       },
       "hero_assets": [
         {
@@ -835,9 +835,9 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_205898_Marks_Collection_096351.jpg",
-      "id": "62e33719-ffbe-4229-90fa-1dcd5289ec60",
-      "created_at": "2026-10-22 12:45:05",
-      "updated_at": "2026-10-22 12:45:05",
+      "id": "fff1b729-0901-4c39-a4b8-7c110b192d31",
+      "created_at": "2026-10-22 12:51:58",
+      "updated_at": "2026-10-22 12:51:58",
       "cover": "images/cover_205898_Marks_Collection_096351.jpg",
       "hero": {
         "eligible": false,
@@ -858,7 +858,7 @@
           "no_backdrop",
           "quality_insufficient"
         ],
-        "updated_at": "2026-10-22 12:45:16"
+        "updated_at": "2026-10-22 12:52:14"
       },
       "hero_assets": [
         {
@@ -902,9 +902,9 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_205894_Marks_Collection_096352.jpg",
-      "id": "382413a9-d3b5-42df-95ec-d3cbe17c3c58",
-      "created_at": "2026-10-22 12:45:05",
-      "updated_at": "2026-10-22 12:45:05",
+      "id": "f5b65997-df29-4f11-a26c-d25fdf4048a0",
+      "created_at": "2026-10-22 12:51:59",
+      "updated_at": "2026-10-22 12:51:59",
       "cover": "images/cover_205894_Marks_Collection_096352.jpg",
       "hero": {
         "eligible": false,
@@ -925,7 +925,7 @@
           "no_backdrop",
           "quality_insufficient"
         ],
-        "updated_at": "2026-10-22 12:45:16"
+        "updated_at": "2026-10-22 12:52:14"
       },
       "hero_assets": [
         {
@@ -969,9 +969,9 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_205766_Laubscher_Collection_010417.jpg",
-      "id": "20c26652-dda9-473e-8daf-2d673319d83a",
-      "created_at": "2026-10-22 12:45:06",
-      "updated_at": "2026-10-22 12:45:06",
+      "id": "21df1a87-3ed5-49ab-ac88-6d503e3da4a0",
+      "created_at": "2026-10-22 12:52:00",
+      "updated_at": "2026-10-22 12:52:00",
       "cover": "images/cover_205766_Laubscher_Collection_010417.jpg",
       "hero": {
         "eligible": false,
@@ -992,7 +992,7 @@
           "no_backdrop",
           "quality_insufficient"
         ],
-        "updated_at": "2026-10-22 12:45:16"
+        "updated_at": "2026-10-22 12:52:14"
       },
       "hero_assets": [
         {
@@ -1036,9 +1036,9 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_205697_Cal_State_Colleges.jpg",
-      "id": "6a7057b0-76f5-4d20-a169-a8542216c34a",
-      "created_at": "2026-10-22 12:45:07",
-      "updated_at": "2026-10-22 12:45:07",
+      "id": "c347078f-1a9b-4ff4-b74b-35517f633796",
+      "created_at": "2026-10-22 12:52:01",
+      "updated_at": "2026-10-22 12:52:01",
       "cover": "images/cover_205697_Cal_State_Colleges.jpg",
       "hero": {
         "eligible": false,
@@ -1059,7 +1059,7 @@
           "no_backdrop",
           "quality_insufficient"
         ],
-        "updated_at": "2026-10-22 12:45:16"
+        "updated_at": "2026-10-22 12:52:14"
       },
       "hero_assets": [
         {
@@ -1103,9 +1103,9 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_rain-and-our-backyard.jpg",
-      "id": "0235bb00-5db7-469f-af47-0fd8d0548539",
-      "created_at": "2026-10-22 12:45:08",
-      "updated_at": "2026-10-22 12:45:08",
+      "id": "718eb0ef-a6a8-4f17-ab45-9b7c018806f7",
+      "created_at": "2026-10-22 12:52:01",
+      "updated_at": "2026-10-22 12:52:01",
       "cover": "images/cover_rain-and-our-backyard.jpg",
       "hero": {
         "eligible": false,
@@ -1125,7 +1125,7 @@
           "no_hero_poster",
           "no_backdrop"
         ],
-        "updated_at": "2026-10-22 12:45:16"
+        "updated_at": "2026-10-22 12:52:14"
       },
       "hero_assets": [
         {
@@ -2186,9 +2186,9 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_video-traxx-volume-3-24-planes-trains-autos.jpg",
-      "id": "7ddced2c-901f-4d8f-9747-ea316e471870",
-      "created_at": "2026-10-22 12:45:10",
-      "updated_at": "2026-10-22 12:45:10",
+      "id": "b7e56e57-d490-4c67-9005-8698ebb352b4",
+      "created_at": "2026-10-22 12:52:02",
+      "updated_at": "2026-10-22 12:52:02",
       "cover": "images/cover_video-traxx-volume-3-24-planes-trains-autos.jpg",
       "hero": {
         "eligible": false,
@@ -2209,7 +2209,7 @@
           "no_backdrop",
           "quality_insufficient"
         ],
-        "updated_at": "2026-10-22 12:45:16"
+        "updated_at": "2026-10-22 12:52:14"
       },
       "hero_assets": [
         {
@@ -2253,9 +2253,9 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_trans-canada-westbound-part-201-bc-north-shore-daydream-inst.jpg",
-      "id": "6f2e9c23-9878-462d-953a-dfc96f313ae5",
-      "created_at": "2026-10-22 12:45:11",
-      "updated_at": "2026-10-22 12:45:11",
+      "id": "be9240b5-18ff-408d-af5a-54af9331cd06",
+      "created_at": "2026-10-22 12:52:04",
+      "updated_at": "2026-10-22 12:52:04",
       "cover": "images/cover_trans-canada-westbound-part-201-bc-north-shore-daydream-inst.jpg",
       "hero": {
         "eligible": false,
@@ -2275,7 +2275,7 @@
           "no_hero_poster",
           "no_backdrop"
         ],
-        "updated_at": "2026-10-22 12:45:16"
+        "updated_at": "2026-10-22 12:52:14"
       },
       "hero_assets": [
         {
@@ -2319,9 +2319,9 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_trans-canada-westbound-part-150-saskatchewan-serendipity-inst.jpg",
-      "id": "3d8312c1-4e1a-43cc-bac0-3d0c2096f163",
-      "created_at": "2026-10-22 12:45:11",
-      "updated_at": "2026-10-22 12:45:11",
+      "id": "1ab1a7ce-6382-4a8a-b003-d564149d47f2",
+      "created_at": "2026-10-22 12:52:04",
+      "updated_at": "2026-10-22 12:52:04",
       "cover": "images/cover_trans-canada-westbound-part-150-saskatchewan-serendipity-inst.jpg",
       "hero": {
         "eligible": false,
@@ -2341,7 +2341,7 @@
           "no_hero_poster",
           "no_backdrop"
         ],
-        "updated_at": "2026-10-22 12:45:16"
+        "updated_at": "2026-10-22 12:52:14"
       },
       "hero_assets": [
         {
@@ -2366,53 +2366,53 @@
   ],
   "logs": [
     {
-      "time": "2026-10-22 12:45:16",
+      "time": "2026-10-22 12:52:14",
       "level": "info",
       "msg": "Hero 契约生成：eligible 0 / 总 20（有源 20，Hero海报 0，Backdrop 0）"
     },
     {
-      "time": "2026-10-22 12:45:16",
+      "time": "2026-10-22 12:52:14",
       "level": "info",
       "msg": "Hero 评估完成：eligible 0 / 总 20（有源 20，Hero海报 0，Backdrop 0）"
     },
     {
-      "time": "2026-10-22 12:45:16",
+      "time": "2026-10-22 12:52:14",
       "level": "info",
       "msg": "今日精选生成：第 6916 批 / 共 5 部（每 3 天轮换）"
     },
     {
-      "time": "2026-10-22 12:45:16",
+      "time": "2026-10-22 12:52:14",
       "level": "info",
       "msg": "海报仓库导出：20 部影片 → repo/img 20 张, repo/slide 0 张"
     },
     {
-      "time": "2026-10-22 12:45:16",
+      "time": "2026-10-22 12:52:13",
       "level": "info",
       "msg": "海报仓库刷新完成：库 20 部 | 补齐 20 | repo/img 20 张, slide 0 张 | 精选 5 部"
     },
     {
-      "time": "2026-10-22 12:45:16",
+      "time": "2026-10-22 12:52:13",
       "level": "info",
       "msg": "今日精选生成：第 6916 批 / 共 5 部（每 3 天轮换）"
     },
     {
-      "time": "2026-10-22 12:45:16",
+      "time": "2026-10-22 12:52:13",
       "level": "info",
       "msg": "海报仓库导出：20 部影片 → repo/img 20 张, repo/slide 0 张"
     },
     {
-      "time": "2026-10-22 12:45:16",
+      "time": "2026-10-22 12:52:13",
       "level": "info",
       "msg": "海报补齐：新增 20 / 无图源 0 / 失败 0"
     },
     {
-      "time": "2026-10-22 12:45:11",
+      "time": "2026-10-22 12:52:04",
       "level": "info",
       "msg": "自动更新：新增 20 部",
       "count": 20
     },
     {
-      "time": "2026-10-22 12:44:54",
+      "time": "2026-10-22 12:51:47",
       "level": "info",
       "msg": "auto_feed 发现候选 24 部（来自 1 个启用的源）"
     }
