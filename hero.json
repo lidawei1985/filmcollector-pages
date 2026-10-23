@@ -1,7 +1,7 @@
 {
   "code": 1,
   "msg": "ok",
-  "updated_at": "2026-10-22T20:36:52",
+  "updated_at": "2026-10-23T00:05:22",
   "stats": {
     "total": 20,
     "with_source": 20,
@@ -13,18 +13,18 @@
     "reasons": {
       "no_hero_poster": 20,
       "no_backdrop": 20,
-      "quality_insufficient": 3
+      "quality_insufficient": 17
     }
   },
   "heroes": [
     {
       "hero_eligible": false,
-      "movie_id": "632297b3-68af-40cd-8b8e-46c1dcb74ad8",
+      "movie_id": "51451fa9-6dd1-4d77-95e4-08670b003559",
       "title": "Rain and our backyard",
       "source_available": true,
       "source_health": 88,
       "sources_count": 1,
-      "hero_score": 63,
+      "hero_score": 60,
       "hero_grade": "F",
       "hero_poster": "",
       "backdrop": "",
@@ -33,7 +33,7 @@
       "backdrop_width": 0,
       "backdrop_height": 0,
       "match_confidence": 0.85,
-      "image_quality": 65,
+      "image_quality": 55,
       "image_resolution": "none",
       "reasons": [
         "no_hero_poster",
@@ -42,12 +42,12 @@
     },
     {
       "hero_eligible": false,
-      "movie_id": "571fec28-5c25-459f-ae70-650cbe5e7ae7",
+      "movie_id": "d0948dc5-fd32-4eaa-a457-aa82c80c2dad",
       "title": "British Columbia North Shore Daydream",
       "source_available": true,
       "source_health": 88,
       "sources_count": 1,
-      "hero_score": 63,
+      "hero_score": 60,
       "hero_grade": "F",
       "hero_poster": "",
       "backdrop": "",
@@ -56,7 +56,7 @@
       "backdrop_width": 0,
       "backdrop_height": 0,
       "match_confidence": 0.85,
-      "image_quality": 65,
+      "image_quality": 55,
       "image_resolution": "none",
       "reasons": [
         "no_hero_poster",
@@ -65,12 +65,12 @@
     },
     {
       "hero_eligible": false,
-      "movie_id": "b5ae0bec-d4c8-4264-a3c5-26479b793f03",
+      "movie_id": "f61891b8-699a-462e-af7d-141d390c2bdb",
       "title": "Saskatchewan Serendipity",
       "source_available": true,
       "source_health": 88,
       "sources_count": 1,
-      "hero_score": 63,
+      "hero_score": 60,
       "hero_grade": "F",
       "hero_poster": "",
       "backdrop": "",
@@ -79,7 +79,7 @@
       "backdrop_width": 0,
       "backdrop_height": 0,
       "match_confidence": 0.85,
-      "image_quality": 65,
+      "image_quality": 55,
       "image_resolution": "none",
       "reasons": [
         "no_hero_poster",
@@ -88,12 +88,12 @@
     },
     {
       "hero_eligible": false,
-      "movie_id": "59c193fe-33ec-46a6-a27d-d69aee122842",
+      "movie_id": "ffe4f438-33e0-4b1f-b446-8a1be4fa3e35",
       "title": "VideoTraxx: Film & Video Library Volume 3: Disc # 24 Planes, Trains and Autos",
       "source_available": true,
       "source_health": 88,
       "sources_count": 114,
-      "hero_score": 62,
+      "hero_score": 59,
       "hero_grade": "F",
       "hero_poster": "",
       "backdrop": "",
@@ -102,21 +102,22 @@
       "backdrop_width": 0,
       "backdrop_height": 0,
       "match_confidence": 0.85,
-      "image_quality": 53,
+      "image_quality": 43,
       "image_resolution": "none",
       "reasons": [
         "no_hero_poster",
-        "no_backdrop"
+        "no_backdrop",
+        "quality_insufficient"
       ]
     },
     {
       "hero_eligible": false,
-      "movie_id": "ab872fa4-a697-411e-9a52-9a606530d739",
+      "movie_id": "64cc62b7-04a3-424f-a34e-3861311eefcf",
       "title": "Home Movie: Phal Collection: 011821",
       "source_available": true,
       "source_health": 88,
       "sources_count": 2,
-      "hero_score": 61,
+      "hero_score": 57,
       "hero_grade": "F",
       "hero_poster": "",
       "backdrop": "",
@@ -125,21 +126,22 @@
       "backdrop_width": 0,
       "backdrop_height": 0,
       "match_confidence": 0.85,
-      "image_quality": 53,
+      "image_quality": 43,
       "image_resolution": "none",
       "reasons": [
         "no_hero_poster",
-        "no_backdrop"
+        "no_backdrop",
+        "quality_insufficient"
       ]
     },
     {
       "hero_eligible": false,
-      "movie_id": "0daf9d92-3248-48df-8a1e-2296b33cd1e2",
+      "movie_id": "0bc9471f-9317-442c-a50b-e2395d1723de",
       "title": "FILM The Silent Forest",
       "source_available": true,
       "source_health": 88,
       "sources_count": 1,
-      "hero_score": 60,
+      "hero_score": 56,
       "hero_grade": "F",
       "hero_poster": "",
       "backdrop": "",
@@ -148,21 +150,22 @@
       "backdrop_width": 0,
       "backdrop_height": 0,
       "match_confidence": 0.85,
-      "image_quality": 54,
+      "image_quality": 44,
       "image_resolution": "none",
       "reasons": [
         "no_hero_poster",
-        "no_backdrop"
+        "no_backdrop",
+        "quality_insufficient"
       ]
     },
     {
       "hero_eligible": false,
-      "movie_id": "f9738b6c-855b-49c0-8404-fd66bd098ac5",
+      "movie_id": "55f3c4dd-b7c8-46f9-bc35-ee86378917f2",
       "title": "Aces Go Places II (1983)",
       "source_available": true,
       "source_health": 88,
       "sources_count": 1,
-      "hero_score": 60,
+      "hero_score": 56,
       "hero_grade": "F",
       "hero_poster": "",
       "backdrop": "",
@@ -171,21 +174,22 @@
       "backdrop_width": 0,
       "backdrop_height": 0,
       "match_confidence": 0.85,
-      "image_quality": 54,
+      "image_quality": 44,
       "image_resolution": "none",
       "reasons": [
         "no_hero_poster",
-        "no_backdrop"
+        "no_backdrop",
+        "quality_insufficient"
       ]
     },
     {
       "hero_eligible": false,
-      "movie_id": "0ae42e68-cc94-4219-bf81-29b82ae77715",
+      "movie_id": "b44f0977-57bf-4568-b5f8-65ded7c70090",
       "title": "Aces Go Places (1982)",
       "source_available": true,
       "source_health": 88,
       "sources_count": 1,
-      "hero_score": 60,
+      "hero_score": 56,
       "hero_grade": "F",
       "hero_poster": "",
       "backdrop": "",
@@ -194,21 +198,22 @@
       "backdrop_width": 0,
       "backdrop_height": 0,
       "match_confidence": 0.85,
-      "image_quality": 54,
+      "image_quality": 44,
       "image_resolution": "none",
       "reasons": [
         "no_hero_poster",
-        "no_backdrop"
+        "no_backdrop",
+        "quality_insufficient"
       ]
     },
     {
       "hero_eligible": false,
-      "movie_id": "edadacb4-d158-4753-9f85-d2b5344ce40d",
+      "movie_id": "34f40220-fa1b-425e-b720-d63dae0b69c9",
       "title": "FILM Death Whisperer II",
       "source_available": true,
       "source_health": 88,
       "sources_count": 1,
-      "hero_score": 60,
+      "hero_score": 56,
       "hero_grade": "F",
       "hero_poster": "",
       "backdrop": "",
@@ -217,21 +222,22 @@
       "backdrop_width": 0,
       "backdrop_height": 0,
       "match_confidence": 0.85,
-      "image_quality": 54,
+      "image_quality": 44,
       "image_resolution": "none",
       "reasons": [
         "no_hero_poster",
-        "no_backdrop"
+        "no_backdrop",
+        "quality_insufficient"
       ]
     },
     {
       "hero_eligible": false,
-      "movie_id": "f0eece47-f25a-43b1-bfb7-e08905930aca",
+      "movie_id": "d997e3c0-f42c-4dcf-9cd4-aa48e17d21b0",
       "title": "FILM Silent Love",
       "source_available": true,
       "source_health": 88,
       "sources_count": 1,
-      "hero_score": 60,
+      "hero_score": 56,
       "hero_grade": "F",
       "hero_poster": "",
       "backdrop": "",
@@ -240,21 +246,22 @@
       "backdrop_width": 0,
       "backdrop_height": 0,
       "match_confidence": 0.85,
-      "image_quality": 54,
+      "image_quality": 44,
       "image_resolution": "none",
       "reasons": [
         "no_hero_poster",
-        "no_backdrop"
+        "no_backdrop",
+        "quality_insufficient"
       ]
     },
     {
       "hero_eligible": false,
-      "movie_id": "30b82ce7-6714-49d9-96ed-76e1ae884001",
+      "movie_id": "b62b5f95-4e22-44a9-adf2-817a2c837f9a",
       "title": "Basuras Humanas (aka La Bastarda)(1972)",
       "source_available": true,
       "source_health": 88,
       "sources_count": 1,
-      "hero_score": 59,
+      "hero_score": 56,
       "hero_grade": "F",
       "hero_poster": "",
       "backdrop": "",
@@ -263,21 +270,22 @@
       "backdrop_width": 0,
       "backdrop_height": 0,
       "match_confidence": 0.85,
-      "image_quality": 53,
+      "image_quality": 43,
       "image_resolution": "none",
       "reasons": [
         "no_hero_poster",
-        "no_backdrop"
+        "no_backdrop",
+        "quality_insufficient"
       ]
     },
     {
       "hero_eligible": false,
-      "movie_id": "0473ed07-f4e4-4b68-af33-733fd32d8e9b",
+      "movie_id": "d7845369-d276-44cb-b0c8-8d8ec98dd49d",
       "title": "Home Movie: 012058",
       "source_available": true,
       "source_health": 88,
       "sources_count": 1,
-      "hero_score": 59,
+      "hero_score": 56,
       "hero_grade": "F",
       "hero_poster": "",
       "backdrop": "",
@@ -286,21 +294,22 @@
       "backdrop_width": 0,
       "backdrop_height": 0,
       "match_confidence": 0.85,
-      "image_quality": 53,
+      "image_quality": 43,
       "image_resolution": "none",
       "reasons": [
         "no_hero_poster",
-        "no_backdrop"
+        "no_backdrop",
+        "quality_insufficient"
       ]
     },
     {
       "hero_eligible": false,
-      "movie_id": "5d67e793-b06b-4b52-96c1-b5e60eff35d0",
+      "movie_id": "13712f80-b86e-4a7c-9066-49314e9773bf",
       "title": "[Frank Putnam Flint Memorial Fountain Interviews]",
       "source_available": true,
       "source_health": 88,
       "sources_count": 1,
-      "hero_score": 59,
+      "hero_score": 56,
       "hero_grade": "F",
       "hero_poster": "",
       "backdrop": "",
@@ -309,21 +318,22 @@
       "backdrop_width": 0,
       "backdrop_height": 0,
       "match_confidence": 0.85,
-      "image_quality": 53,
+      "image_quality": 43,
       "image_resolution": "none",
       "reasons": [
         "no_hero_poster",
-        "no_backdrop"
+        "no_backdrop",
+        "quality_insufficient"
       ]
     },
     {
       "hero_eligible": false,
-      "movie_id": "fabb357f-a931-44b3-9826-c852382b813e",
+      "movie_id": "4e312335-f1ca-42fa-bab2-87876beaf677",
       "title": "Home Movie: 099848",
       "source_available": true,
       "source_health": 88,
       "sources_count": 1,
-      "hero_score": 59,
+      "hero_score": 56,
       "hero_grade": "F",
       "hero_poster": "",
       "backdrop": "",
@@ -332,21 +342,22 @@
       "backdrop_width": 0,
       "backdrop_height": 0,
       "match_confidence": 0.85,
-      "image_quality": 53,
+      "image_quality": 43,
       "image_resolution": "none",
       "reasons": [
         "no_hero_poster",
-        "no_backdrop"
+        "no_backdrop",
+        "quality_insufficient"
       ]
     },
     {
       "hero_eligible": false,
-      "movie_id": "03b64bfd-ce4d-4791-8a48-dc159427d83e",
+      "movie_id": "7fb4ac09-5b4b-41e9-9906-0f45266e5c84",
       "title": "Home Movie: Patrick Marks Collection: 096351",
       "source_available": true,
       "source_health": 88,
       "sources_count": 1,
-      "hero_score": 59,
+      "hero_score": 56,
       "hero_grade": "F",
       "hero_poster": "",
       "backdrop": "",
@@ -355,21 +366,22 @@
       "backdrop_width": 0,
       "backdrop_height": 0,
       "match_confidence": 0.85,
-      "image_quality": 53,
+      "image_quality": 43,
       "image_resolution": "none",
       "reasons": [
         "no_hero_poster",
-        "no_backdrop"
+        "no_backdrop",
+        "quality_insufficient"
       ]
     },
     {
       "hero_eligible": false,
-      "movie_id": "66013864-9707-4ed1-a8e9-6db2d31b3e5c",
+      "movie_id": "1599490a-f8d1-4c47-8195-44e2414aca68",
       "title": "Home Movie: Patrick Marks Collection: 096352",
       "source_available": true,
       "source_health": 88,
       "sources_count": 1,
-      "hero_score": 59,
+      "hero_score": 56,
       "hero_grade": "F",
       "hero_poster": "",
       "backdrop": "",
@@ -378,21 +390,22 @@
       "backdrop_width": 0,
       "backdrop_height": 0,
       "match_confidence": 0.85,
-      "image_quality": 53,
+      "image_quality": 43,
       "image_resolution": "none",
       "reasons": [
         "no_hero_poster",
-        "no_backdrop"
+        "no_backdrop",
+        "quality_insufficient"
       ]
     },
     {
       "hero_eligible": false,
-      "movie_id": "6fade7d6-1eae-4622-b267-239db18b2a87",
+      "movie_id": "3e74b7da-c60e-434c-a471-1737f6927412",
       "title": "Home Movie: Rick Laubscher Collection: 010417",
       "source_available": true,
       "source_health": 88,
       "sources_count": 1,
-      "hero_score": 59,
+      "hero_score": 56,
       "hero_grade": "F",
       "hero_poster": "",
       "backdrop": "",
@@ -401,21 +414,22 @@
       "backdrop_width": 0,
       "backdrop_height": 0,
       "match_confidence": 0.85,
-      "image_quality": 53,
+      "image_quality": 43,
       "image_resolution": "none",
       "reasons": [
         "no_hero_poster",
-        "no_backdrop"
+        "no_backdrop",
+        "quality_insufficient"
       ]
     },
     {
       "hero_eligible": false,
-      "movie_id": "641c27f0-e41b-4307-bfef-8e0a7d029794",
+      "movie_id": "8071ed88-4893-459f-a98d-f04136ef5fbb",
       "title": "FILM Jade Dynasty",
       "source_available": true,
       "source_health": 88,
       "sources_count": 1,
-      "hero_score": 57,
+      "hero_score": 54,
       "hero_grade": "F",
       "hero_poster": "",
       "backdrop": "",
@@ -424,7 +438,7 @@
       "backdrop_width": 0,
       "backdrop_height": 0,
       "match_confidence": 0.85,
-      "image_quality": 48,
+      "image_quality": 38,
       "image_resolution": "none",
       "reasons": [
         "no_hero_poster",
@@ -434,36 +448,12 @@
     },
     {
       "hero_eligible": false,
-      "movie_id": "c37c42eb-b360-43e9-a9b8-a21bafabeb4b",
-      "title": "Cal State Colleges: San Francisco State College",
-      "source_available": true,
-      "source_health": 88,
-      "sources_count": 1,
-      "hero_score": 57,
-      "hero_grade": "F",
-      "hero_poster": "",
-      "backdrop": "",
-      "hero_poster_width": 0,
-      "hero_poster_height": 0,
-      "backdrop_width": 0,
-      "backdrop_height": 0,
-      "match_confidence": 0.85,
-      "image_quality": 47,
-      "image_resolution": "none",
-      "reasons": [
-        "no_hero_poster",
-        "no_backdrop",
-        "quality_insufficient"
-      ]
-    },
-    {
-      "hero_eligible": false,
-      "movie_id": "457e55da-1000-4789-91d2-55a6f32f3513",
+      "movie_id": "a73173b2-ec04-4950-9683-377980b6b0eb",
       "title": "FILM Chihayafuru Musubi",
       "source_available": true,
       "source_health": 88,
       "sources_count": 1,
-      "hero_score": 55,
+      "hero_score": 54,
       "hero_grade": "F",
       "hero_poster": "",
       "backdrop": "",
@@ -472,7 +462,31 @@
       "backdrop_width": 0,
       "backdrop_height": 0,
       "match_confidence": 0.85,
-      "image_quality": 42,
+      "image_quality": 38,
+      "image_resolution": "none",
+      "reasons": [
+        "no_hero_poster",
+        "no_backdrop",
+        "quality_insufficient"
+      ]
+    },
+    {
+      "hero_eligible": false,
+      "movie_id": "b17df9d0-6d46-48f5-be16-196cf068cebd",
+      "title": "Cal State Colleges: San Francisco State College",
+      "source_available": true,
+      "source_health": 88,
+      "sources_count": 1,
+      "hero_score": 54,
+      "hero_grade": "F",
+      "hero_poster": "",
+      "backdrop": "",
+      "hero_poster_width": 0,
+      "hero_poster_height": 0,
+      "backdrop_width": 0,
+      "backdrop_height": 0,
+      "match_confidence": 0.85,
+      "image_quality": 37,
       "image_resolution": "none",
       "reasons": [
         "no_hero_poster",
