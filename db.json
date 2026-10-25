@@ -22,19 +22,19 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_film-jade-dynasty.jpg",
-      "id": "d3460a27-d568-49d5-be71-921f96db13e8",
-      "created_at": "2026-10-25 19:44:37",
-      "updated_at": "2026-10-25 19:44:37",
+      "id": "ce374d21-f156-477a-b0b1-cc2620ab01f3",
+      "created_at": "2026-10-25 23:27:43",
+      "updated_at": "2026-10-25 23:27:43",
       "cover": "images/cover_film-jade-dynasty.jpg",
       "hero": {
         "eligible": false,
-        "score": 57,
+        "score": 54,
         "grade": "F",
         "source_available": true,
         "source_health": 88,
         "sources_count": 1,
         "image_available": true,
-        "image_quality": 48,
+        "image_quality": 38,
         "image_resolution": "none",
         "image_match": 0.85,
         "match_confidence": 0.85,
@@ -45,14 +45,14 @@
           "no_backdrop",
           "quality_insufficient"
         ],
-        "updated_at": "2026-10-25 19:44:57"
+        "updated_at": "2026-10-25 23:28:04"
       },
       "hero_assets": [
         {
           "kind": "backdrop",
           "width": 180,
           "height": 67,
-          "score": 48,
+          "score": 38,
           "source": "local_ia",
           "match_confidence": 0.85,
           "flags": []
@@ -89,19 +89,19 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_film-the-silent-forest.jpg",
-      "id": "947307f4-a3e9-46b6-bfd6-79423dfc63cb",
-      "created_at": "2026-10-25 19:44:37",
-      "updated_at": "2026-10-25 19:44:37",
+      "id": "d62cfcb8-404c-4c0e-b729-9335482663ac",
+      "created_at": "2026-10-25 23:27:44",
+      "updated_at": "2026-10-25 23:27:44",
       "cover": "images/cover_film-the-silent-forest.jpg",
       "hero": {
         "eligible": false,
-        "score": 60,
+        "score": 56,
         "grade": "F",
         "source_available": true,
         "source_health": 88,
         "sources_count": 1,
         "image_available": true,
-        "image_quality": 54,
+        "image_quality": 44,
         "image_resolution": "none",
         "image_match": 0.85,
         "match_confidence": 0.85,
@@ -109,16 +109,17 @@
         "has_backdrop": false,
         "reasons": [
           "no_hero_poster",
-          "no_backdrop"
+          "no_backdrop",
+          "quality_insufficient"
         ],
-        "updated_at": "2026-10-25 19:44:57"
+        "updated_at": "2026-10-25 23:28:04"
       },
       "hero_assets": [
         {
           "kind": "backdrop",
           "width": 180,
           "height": 75,
-          "score": 54,
+          "score": 44,
           "source": "local_ia",
           "match_confidence": 0.85,
           "flags": []
@@ -155,19 +156,19 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_aces-go-places-ii-1983.jpg",
-      "id": "3a297570-ab17-46f9-804c-23ba4264148a",
-      "created_at": "2026-10-25 19:44:38",
-      "updated_at": "2026-10-25 19:44:38",
+      "id": "bd944ec1-86e4-4732-ac58-392093b5ee36",
+      "created_at": "2026-10-25 23:27:45",
+      "updated_at": "2026-10-25 23:27:45",
       "cover": "images/cover_aces-go-places-ii-1983.jpg",
       "hero": {
         "eligible": false,
-        "score": 60,
+        "score": 56,
         "grade": "F",
         "source_available": true,
         "source_health": 88,
         "sources_count": 1,
         "image_available": true,
-        "image_quality": 54,
+        "image_quality": 44,
         "image_resolution": "none",
         "image_match": 0.85,
         "match_confidence": 0.85,
@@ -175,16 +176,17 @@
         "has_backdrop": false,
         "reasons": [
           "no_hero_poster",
-          "no_backdrop"
+          "no_backdrop",
+          "quality_insufficient"
         ],
-        "updated_at": "2026-10-25 19:44:57"
+        "updated_at": "2026-10-25 23:28:04"
       },
       "hero_assets": [
         {
           "kind": "backdrop",
           "width": 180,
           "height": 77,
-          "score": 54,
+          "score": 44,
           "source": "local_ia",
           "match_confidence": 0.85,
           "flags": []
@@ -221,19 +223,19 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_aces-go-places-1982_202610.jpg",
-      "id": "7ec037bf-3c1e-44a7-a1d0-91fe2216a52c",
-      "created_at": "2026-10-25 19:44:39",
-      "updated_at": "2026-10-25 19:44:39",
+      "id": "92f03ed1-d607-460f-ae63-3e4bc1d030a1",
+      "created_at": "2026-10-25 23:27:45",
+      "updated_at": "2026-10-25 23:27:45",
       "cover": "images/cover_aces-go-places-1982_202610.jpg",
       "hero": {
         "eligible": false,
-        "score": 60,
+        "score": 56,
         "grade": "F",
         "source_available": true,
         "source_health": 88,
         "sources_count": 1,
         "image_available": true,
-        "image_quality": 54,
+        "image_quality": 44,
         "image_resolution": "none",
         "image_match": 0.85,
         "match_confidence": 0.85,
@@ -241,16 +243,17 @@
         "has_backdrop": false,
         "reasons": [
           "no_hero_poster",
-          "no_backdrop"
+          "no_backdrop",
+          "quality_insufficient"
         ],
-        "updated_at": "2026-10-25 19:44:57"
+        "updated_at": "2026-10-25 23:28:04"
       },
       "hero_assets": [
         {
           "kind": "backdrop",
           "width": 180,
           "height": 77,
-          "score": 54,
+          "score": 44,
           "source": "local_ia",
           "match_confidence": 0.85,
           "flags": []
@@ -287,19 +290,19 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_film-death-whisperer-ii.jpg",
-      "id": "a3a15151-d9e3-4919-b945-ef90bd1ddcac",
-      "created_at": "2026-10-25 19:44:40",
-      "updated_at": "2026-10-25 19:44:40",
+      "id": "24ffc7a0-1b45-4c92-8ac3-5cc72f4dc3cc",
+      "created_at": "2026-10-25 23:27:46",
+      "updated_at": "2026-10-25 23:27:46",
       "cover": "images/cover_film-death-whisperer-ii.jpg",
       "hero": {
         "eligible": false,
-        "score": 60,
+        "score": 56,
         "grade": "F",
         "source_available": true,
         "source_health": 88,
         "sources_count": 1,
         "image_available": true,
-        "image_quality": 54,
+        "image_quality": 44,
         "image_resolution": "none",
         "image_match": 0.85,
         "match_confidence": 0.85,
@@ -307,16 +310,17 @@
         "has_backdrop": false,
         "reasons": [
           "no_hero_poster",
-          "no_backdrop"
+          "no_backdrop",
+          "quality_insufficient"
         ],
-        "updated_at": "2026-10-25 19:44:57"
+        "updated_at": "2026-10-25 23:28:04"
       },
       "hero_assets": [
         {
           "kind": "backdrop",
           "width": 180,
           "height": 76,
-          "score": 54,
+          "score": 44,
           "source": "local_ia",
           "match_confidence": 0.85,
           "flags": []
@@ -353,19 +357,19 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_film-silent-love.jpg",
-      "id": "bf9925b9-c8c7-4fd7-87b0-26dc6cbadbc3",
-      "created_at": "2026-10-25 19:44:41",
-      "updated_at": "2026-10-25 19:44:41",
+      "id": "b1265fea-72b3-4d03-b8bd-a4bf3ae253d9",
+      "created_at": "2026-10-25 23:27:47",
+      "updated_at": "2026-10-25 23:27:47",
       "cover": "images/cover_film-silent-love.jpg",
       "hero": {
         "eligible": false,
-        "score": 60,
+        "score": 56,
         "grade": "F",
         "source_available": true,
         "source_health": 88,
         "sources_count": 1,
         "image_available": true,
-        "image_quality": 54,
+        "image_quality": 44,
         "image_resolution": "none",
         "image_match": 0.85,
         "match_confidence": 0.85,
@@ -373,16 +377,17 @@
         "has_backdrop": false,
         "reasons": [
           "no_hero_poster",
-          "no_backdrop"
+          "no_backdrop",
+          "quality_insufficient"
         ],
-        "updated_at": "2026-10-25 19:44:57"
+        "updated_at": "2026-10-25 23:28:04"
       },
       "hero_assets": [
         {
           "kind": "backdrop",
           "width": 180,
           "height": 75,
-          "score": 54,
+          "score": 44,
           "source": "local_ia",
           "match_confidence": 0.85,
           "flags": []
@@ -419,19 +424,19 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_film-chihayafuru-musubi.jpg",
-      "id": "05741a3f-a3d4-44c0-98a9-50c817baf93e",
-      "created_at": "2026-10-25 19:44:41",
-      "updated_at": "2026-10-25 19:44:41",
+      "id": "6d9d7f36-b89c-41aa-a716-e4d893b072ed",
+      "created_at": "2026-10-25 23:27:48",
+      "updated_at": "2026-10-25 23:27:48",
       "cover": "images/cover_film-chihayafuru-musubi.jpg",
       "hero": {
         "eligible": false,
-        "score": 55,
+        "score": 54,
         "grade": "F",
         "source_available": true,
         "source_health": 88,
         "sources_count": 1,
         "image_available": true,
-        "image_quality": 42,
+        "image_quality": 38,
         "image_resolution": "none",
         "image_match": 0.85,
         "match_confidence": 0.85,
@@ -442,14 +447,14 @@
           "no_backdrop",
           "quality_insufficient"
         ],
-        "updated_at": "2026-10-25 19:44:57"
+        "updated_at": "2026-10-25 23:28:04"
       },
       "hero_assets": [
         {
           "kind": "backdrop",
           "width": 180,
           "height": 63,
-          "score": 42,
+          "score": 38,
           "source": "local_ia",
           "match_confidence": 0.85,
           "flags": []
@@ -486,19 +491,19 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_basuras-humanas-aka-la-bastarda-1972.jpg",
-      "id": "48f10e28-29fd-4d9f-96f9-df6d13b3fb3f",
-      "created_at": "2026-10-25 19:44:42",
-      "updated_at": "2026-10-25 19:44:42",
+      "id": "ab768bf7-12ed-47de-a0da-ad6d8c58a16b",
+      "created_at": "2026-10-25 23:27:49",
+      "updated_at": "2026-10-25 23:27:49",
       "cover": "images/cover_basuras-humanas-aka-la-bastarda-1972.jpg",
       "hero": {
         "eligible": false,
-        "score": 59,
+        "score": 56,
         "grade": "F",
         "source_available": true,
         "source_health": 88,
         "sources_count": 1,
         "image_available": true,
-        "image_quality": 53,
+        "image_quality": 43,
         "image_resolution": "none",
         "image_match": 0.85,
         "match_confidence": 0.85,
@@ -506,16 +511,17 @@
         "has_backdrop": false,
         "reasons": [
           "no_hero_poster",
-          "no_backdrop"
+          "no_backdrop",
+          "quality_insufficient"
         ],
-        "updated_at": "2026-10-25 19:44:57"
+        "updated_at": "2026-10-25 23:28:04"
       },
       "hero_assets": [
         {
           "kind": "poster",
           "width": 180,
           "height": 144,
-          "score": 53,
+          "score": 43,
           "source": "local_ia",
           "match_confidence": 0.85,
           "flags": []
@@ -552,19 +558,19 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_204403_Home_Movie_012058.jpg",
-      "id": "d8f03a43-605b-4d04-af65-f3e2f7d878ed",
-      "created_at": "2026-10-25 19:44:43",
-      "updated_at": "2026-10-25 19:44:43",
+      "id": "6835efd5-440a-41f0-8652-dd3df0cc330e",
+      "created_at": "2026-10-25 23:27:50",
+      "updated_at": "2026-10-25 23:27:50",
       "cover": "images/cover_204403_Home_Movie_012058.jpg",
       "hero": {
         "eligible": false,
-        "score": 59,
+        "score": 56,
         "grade": "F",
         "source_available": true,
         "source_health": 88,
         "sources_count": 1,
         "image_available": true,
-        "image_quality": 53,
+        "image_quality": 43,
         "image_resolution": "none",
         "image_match": 0.85,
         "match_confidence": 0.85,
@@ -572,16 +578,17 @@
         "has_backdrop": false,
         "reasons": [
           "no_hero_poster",
-          "no_backdrop"
+          "no_backdrop",
+          "quality_insufficient"
         ],
-        "updated_at": "2026-10-25 19:44:57"
+        "updated_at": "2026-10-25 23:28:04"
       },
       "hero_assets": [
         {
           "kind": "poster",
           "width": 180,
           "height": 135,
-          "score": 53,
+          "score": 43,
           "source": "local_ia",
           "match_confidence": 0.85,
           "flags": []
@@ -618,19 +625,19 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_206134_Frank_Putnam_Flint_Memorial_Interviews.jpg",
-      "id": "e83878a9-66de-40fb-a60c-72face14846d",
-      "created_at": "2026-10-25 19:44:44",
-      "updated_at": "2026-10-25 19:44:44",
+      "id": "5798e8f9-869e-41f6-89cc-cfe4d335e851",
+      "created_at": "2026-10-25 23:27:51",
+      "updated_at": "2026-10-25 23:27:51",
       "cover": "images/cover_206134_Frank_Putnam_Flint_Memorial_Interviews.jpg",
       "hero": {
         "eligible": false,
-        "score": 59,
+        "score": 56,
         "grade": "F",
         "source_available": true,
         "source_health": 88,
         "sources_count": 1,
         "image_available": true,
-        "image_quality": 53,
+        "image_quality": 43,
         "image_resolution": "none",
         "image_match": 0.85,
         "match_confidence": 0.85,
@@ -638,16 +645,17 @@
         "has_backdrop": false,
         "reasons": [
           "no_hero_poster",
-          "no_backdrop"
+          "no_backdrop",
+          "quality_insufficient"
         ],
-        "updated_at": "2026-10-25 19:44:57"
+        "updated_at": "2026-10-25 23:28:04"
       },
       "hero_assets": [
         {
           "kind": "poster",
           "width": 180,
           "height": 135,
-          "score": 53,
+          "score": 43,
           "source": "local_ia",
           "match_confidence": 0.85,
           "flags": []
@@ -684,19 +692,19 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_206125_Home_Movie_099848.jpg",
-      "id": "e476159b-d917-4bc8-a8b5-9039e368e421",
-      "created_at": "2026-10-25 19:44:45",
-      "updated_at": "2026-10-25 19:44:45",
+      "id": "cccf1aa6-c827-454f-a8d4-8b4eb4954b19",
+      "created_at": "2026-10-25 23:27:51",
+      "updated_at": "2026-10-25 23:27:51",
       "cover": "images/cover_206125_Home_Movie_099848.jpg",
       "hero": {
         "eligible": false,
-        "score": 59,
+        "score": 56,
         "grade": "F",
         "source_available": true,
         "source_health": 88,
         "sources_count": 1,
         "image_available": true,
-        "image_quality": 53,
+        "image_quality": 43,
         "image_resolution": "none",
         "image_match": 0.85,
         "match_confidence": 0.85,
@@ -704,16 +712,17 @@
         "has_backdrop": false,
         "reasons": [
           "no_hero_poster",
-          "no_backdrop"
+          "no_backdrop",
+          "quality_insufficient"
         ],
-        "updated_at": "2026-10-25 19:44:57"
+        "updated_at": "2026-10-25 23:28:04"
       },
       "hero_assets": [
         {
           "kind": "poster",
           "width": 180,
           "height": 135,
-          "score": 53,
+          "score": 43,
           "source": "local_ia",
           "match_confidence": 0.85,
           "flags": []
@@ -759,19 +768,19 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_205917_Phal_Collection_011821.jpg",
-      "id": "df70f0fa-9fd0-407a-ab72-113f9b9ac01e",
-      "created_at": "2026-10-25 19:44:45",
-      "updated_at": "2026-10-25 19:44:45",
+      "id": "5b47c458-9800-4229-92c7-570122132f9c",
+      "created_at": "2026-10-25 23:27:52",
+      "updated_at": "2026-10-25 23:27:52",
       "cover": "images/cover_205917_Phal_Collection_011821.jpg",
       "hero": {
         "eligible": false,
-        "score": 61,
+        "score": 57,
         "grade": "F",
         "source_available": true,
         "source_health": 88,
         "sources_count": 2,
         "image_available": true,
-        "image_quality": 53,
+        "image_quality": 43,
         "image_resolution": "none",
         "image_match": 0.85,
         "match_confidence": 0.85,
@@ -779,16 +788,17 @@
         "has_backdrop": false,
         "reasons": [
           "no_hero_poster",
-          "no_backdrop"
+          "no_backdrop",
+          "quality_insufficient"
         ],
-        "updated_at": "2026-10-25 19:44:57"
+        "updated_at": "2026-10-25 23:28:04"
       },
       "hero_assets": [
         {
           "kind": "poster",
           "width": 180,
           "height": 135,
-          "score": 53,
+          "score": 43,
           "source": "local_ia",
           "match_confidence": 0.85,
           "flags": []
@@ -825,19 +835,19 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_205898_Marks_Collection_096351.jpg",
-      "id": "5d5e77b2-05b2-451e-9ead-294de93e8301",
-      "created_at": "2026-10-25 19:44:46",
-      "updated_at": "2026-10-25 19:44:46",
+      "id": "72961723-127f-4d02-976d-1b813dc5b7e8",
+      "created_at": "2026-10-25 23:27:53",
+      "updated_at": "2026-10-25 23:27:53",
       "cover": "images/cover_205898_Marks_Collection_096351.jpg",
       "hero": {
         "eligible": false,
-        "score": 59,
+        "score": 56,
         "grade": "F",
         "source_available": true,
         "source_health": 88,
         "sources_count": 1,
         "image_available": true,
-        "image_quality": 53,
+        "image_quality": 43,
         "image_resolution": "none",
         "image_match": 0.85,
         "match_confidence": 0.85,
@@ -845,16 +855,17 @@
         "has_backdrop": false,
         "reasons": [
           "no_hero_poster",
-          "no_backdrop"
+          "no_backdrop",
+          "quality_insufficient"
         ],
-        "updated_at": "2026-10-25 19:44:57"
+        "updated_at": "2026-10-25 23:28:04"
       },
       "hero_assets": [
         {
           "kind": "poster",
           "width": 180,
           "height": 135,
-          "score": 53,
+          "score": 43,
           "source": "local_ia",
           "match_confidence": 0.85,
           "flags": []
@@ -891,19 +902,19 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_205894_Marks_Collection_096352.jpg",
-      "id": "d9e6fd54-b8b4-4a11-a71f-e4b2568b3638",
-      "created_at": "2026-10-25 19:44:47",
-      "updated_at": "2026-10-25 19:44:47",
+      "id": "f1ad3b96-3cda-4a53-895a-1d8529e49e20",
+      "created_at": "2026-10-25 23:27:54",
+      "updated_at": "2026-10-25 23:27:54",
       "cover": "images/cover_205894_Marks_Collection_096352.jpg",
       "hero": {
         "eligible": false,
-        "score": 59,
+        "score": 56,
         "grade": "F",
         "source_available": true,
         "source_health": 88,
         "sources_count": 1,
         "image_available": true,
-        "image_quality": 53,
+        "image_quality": 43,
         "image_resolution": "none",
         "image_match": 0.85,
         "match_confidence": 0.85,
@@ -911,16 +922,17 @@
         "has_backdrop": false,
         "reasons": [
           "no_hero_poster",
-          "no_backdrop"
+          "no_backdrop",
+          "quality_insufficient"
         ],
-        "updated_at": "2026-10-25 19:44:57"
+        "updated_at": "2026-10-25 23:28:04"
       },
       "hero_assets": [
         {
           "kind": "poster",
           "width": 180,
           "height": 135,
-          "score": 53,
+          "score": 43,
           "source": "local_ia",
           "match_confidence": 0.85,
           "flags": []
@@ -957,19 +969,19 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_205766_Laubscher_Collection_010417.jpg",
-      "id": "a14dc80a-638f-4a78-97c4-6972b8303ccc",
-      "created_at": "2026-10-25 19:44:48",
-      "updated_at": "2026-10-25 19:44:48",
+      "id": "58d64f2d-e03a-4852-a6ec-6c45078cca2d",
+      "created_at": "2026-10-25 23:27:54",
+      "updated_at": "2026-10-25 23:27:54",
       "cover": "images/cover_205766_Laubscher_Collection_010417.jpg",
       "hero": {
         "eligible": false,
-        "score": 59,
+        "score": 56,
         "grade": "F",
         "source_available": true,
         "source_health": 88,
         "sources_count": 1,
         "image_available": true,
-        "image_quality": 53,
+        "image_quality": 43,
         "image_resolution": "none",
         "image_match": 0.85,
         "match_confidence": 0.85,
@@ -977,16 +989,17 @@
         "has_backdrop": false,
         "reasons": [
           "no_hero_poster",
-          "no_backdrop"
+          "no_backdrop",
+          "quality_insufficient"
         ],
-        "updated_at": "2026-10-25 19:44:57"
+        "updated_at": "2026-10-25 23:28:04"
       },
       "hero_assets": [
         {
           "kind": "poster",
           "width": 180,
           "height": 135,
-          "score": 53,
+          "score": 43,
           "source": "local_ia",
           "match_confidence": 0.85,
           "flags": []
@@ -1023,19 +1036,19 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_205697_Cal_State_Colleges.jpg",
-      "id": "6744ff00-d1f2-4010-bbd3-e5e696818fb3",
-      "created_at": "2026-10-25 19:44:49",
-      "updated_at": "2026-10-25 19:44:49",
+      "id": "dce1d095-23e7-453a-a0f4-b7ed5b2208bf",
+      "created_at": "2026-10-25 23:27:55",
+      "updated_at": "2026-10-25 23:27:55",
       "cover": "images/cover_205697_Cal_State_Colleges.jpg",
       "hero": {
         "eligible": false,
-        "score": 57,
+        "score": 54,
         "grade": "F",
         "source_available": true,
         "source_health": 88,
         "sources_count": 1,
         "image_available": true,
-        "image_quality": 47,
+        "image_quality": 37,
         "image_resolution": "none",
         "image_match": 0.85,
         "match_confidence": 0.85,
@@ -1046,14 +1059,14 @@
           "no_backdrop",
           "quality_insufficient"
         ],
-        "updated_at": "2026-10-25 19:44:57"
+        "updated_at": "2026-10-25 23:28:04"
       },
       "hero_assets": [
         {
           "kind": "poster",
           "width": 180,
           "height": 135,
-          "score": 47,
+          "score": 37,
           "source": "local_ia",
           "match_confidence": 0.85,
           "flags": []
@@ -1090,19 +1103,19 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_rain-and-our-backyard.jpg",
-      "id": "844b5866-9360-4e7c-8960-f7dd8492ab57",
-      "created_at": "2026-10-25 19:44:50",
-      "updated_at": "2026-10-25 19:44:50",
+      "id": "059f0c9b-72e9-4642-a00b-61e94f9db7bc",
+      "created_at": "2026-10-25 23:27:56",
+      "updated_at": "2026-10-25 23:27:56",
       "cover": "images/cover_rain-and-our-backyard.jpg",
       "hero": {
         "eligible": false,
-        "score": 63,
+        "score": 60,
         "grade": "F",
         "source_available": true,
         "source_health": 88,
         "sources_count": 1,
         "image_available": true,
-        "image_quality": 65,
+        "image_quality": 55,
         "image_resolution": "none",
         "image_match": 0.85,
         "match_confidence": 0.85,
@@ -1112,14 +1125,14 @@
           "no_hero_poster",
           "no_backdrop"
         ],
-        "updated_at": "2026-10-25 19:44:57"
+        "updated_at": "2026-10-25 23:28:04"
       },
       "hero_assets": [
         {
           "kind": "backdrop",
           "width": 180,
           "height": 102,
-          "score": 65,
+          "score": 55,
           "source": "local_ia",
           "match_confidence": 0.85,
           "flags": []
@@ -2173,19 +2186,19 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_video-traxx-volume-3-24-planes-trains-autos.jpg",
-      "id": "50e02650-bf57-411f-bf7e-6c32b95bdc36",
-      "created_at": "2026-10-25 19:44:50",
-      "updated_at": "2026-10-25 19:44:50",
+      "id": "9cb33f70-75c6-45cd-8cd5-e6300d0b53fa",
+      "created_at": "2026-10-25 23:27:57",
+      "updated_at": "2026-10-25 23:27:57",
       "cover": "images/cover_video-traxx-volume-3-24-planes-trains-autos.jpg",
       "hero": {
         "eligible": false,
-        "score": 62,
+        "score": 59,
         "grade": "F",
         "source_available": true,
         "source_health": 88,
         "sources_count": 114,
         "image_available": true,
-        "image_quality": 53,
+        "image_quality": 43,
         "image_resolution": "none",
         "image_match": 0.85,
         "match_confidence": 0.85,
@@ -2193,16 +2206,17 @@
         "has_backdrop": false,
         "reasons": [
           "no_hero_poster",
-          "no_backdrop"
+          "no_backdrop",
+          "quality_insufficient"
         ],
-        "updated_at": "2026-10-25 19:44:57"
+        "updated_at": "2026-10-25 23:28:04"
       },
       "hero_assets": [
         {
           "kind": "poster",
           "width": 180,
           "height": 135,
-          "score": 53,
+          "score": 43,
           "source": "local_ia",
           "match_confidence": 0.85,
           "flags": []
@@ -2239,19 +2253,19 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_trans-canada-westbound-part-201-bc-north-shore-daydream-inst.jpg",
-      "id": "f6ee81d6-ff85-44b5-bc59-5893bbad79fc",
-      "created_at": "2026-10-25 19:44:51",
-      "updated_at": "2026-10-25 19:44:51",
+      "id": "49215d37-7fc3-4b73-b462-fe18d5b30cfe",
+      "created_at": "2026-10-25 23:27:58",
+      "updated_at": "2026-10-25 23:27:58",
       "cover": "images/cover_trans-canada-westbound-part-201-bc-north-shore-daydream-inst.jpg",
       "hero": {
         "eligible": false,
-        "score": 63,
+        "score": 60,
         "grade": "F",
         "source_available": true,
         "source_health": 88,
         "sources_count": 1,
         "image_available": true,
-        "image_quality": 65,
+        "image_quality": 55,
         "image_resolution": "none",
         "image_match": 0.85,
         "match_confidence": 0.85,
@@ -2261,14 +2275,14 @@
           "no_hero_poster",
           "no_backdrop"
         ],
-        "updated_at": "2026-10-25 19:44:57"
+        "updated_at": "2026-10-25 23:28:04"
       },
       "hero_assets": [
         {
           "kind": "backdrop",
           "width": 180,
           "height": 101,
-          "score": 65,
+          "score": 55,
           "source": "local_ia",
           "match_confidence": 0.85,
           "flags": []
@@ -2305,19 +2319,19 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_trans-canada-westbound-part-150-saskatchewan-serendipity-inst.jpg",
-      "id": "09e655ea-8ca6-435f-a59d-86f1326e76bb",
-      "created_at": "2026-10-25 19:44:52",
-      "updated_at": "2026-10-25 19:44:52",
+      "id": "a3d4bca0-0feb-4ccc-83f9-8cafdd2f681e",
+      "created_at": "2026-10-25 23:27:59",
+      "updated_at": "2026-10-25 23:27:59",
       "cover": "images/cover_trans-canada-westbound-part-150-saskatchewan-serendipity-inst.jpg",
       "hero": {
         "eligible": false,
-        "score": 63,
+        "score": 60,
         "grade": "F",
         "source_available": true,
         "source_health": 88,
         "sources_count": 1,
         "image_available": true,
-        "image_quality": 65,
+        "image_quality": 55,
         "image_resolution": "none",
         "image_match": 0.85,
         "match_confidence": 0.85,
@@ -2327,14 +2341,14 @@
           "no_hero_poster",
           "no_backdrop"
         ],
-        "updated_at": "2026-10-25 19:44:57"
+        "updated_at": "2026-10-25 23:28:04"
       },
       "hero_assets": [
         {
           "kind": "backdrop",
           "width": 180,
           "height": 101,
-          "score": 65,
+          "score": 55,
           "source": "local_ia",
           "match_confidence": 0.85,
           "flags": []
@@ -2352,53 +2366,53 @@
   ],
   "logs": [
     {
-      "time": "2026-10-25 19:44:57",
+      "time": "2026-10-25 23:28:04",
       "level": "info",
       "msg": "Hero 契约生成：eligible 0 / 总 20（有源 20，Hero海报 0，Backdrop 0）"
     },
     {
-      "time": "2026-10-25 19:44:57",
+      "time": "2026-10-25 23:28:04",
       "level": "info",
       "msg": "Hero 评估完成：eligible 0 / 总 20（有源 20，Hero海报 0，Backdrop 0）"
     },
     {
-      "time": "2026-10-25 19:44:57",
+      "time": "2026-10-25 23:28:04",
       "level": "info",
       "msg": "今日精选生成：第 6917 批 / 共 5 部（每 3 天轮换）"
     },
     {
-      "time": "2026-10-25 19:44:57",
+      "time": "2026-10-25 23:28:04",
       "level": "info",
       "msg": "海报仓库导出：20 部影片 → repo/img 20 张, repo/slide 0 张"
     },
     {
-      "time": "2026-10-25 19:44:57",
+      "time": "2026-10-25 23:28:04",
       "level": "info",
       "msg": "海报仓库刷新完成：库 20 部 | 补齐 20 | repo/img 20 张, slide 0 张 | 精选 5 部"
     },
     {
-      "time": "2026-10-25 19:44:57",
+      "time": "2026-10-25 23:28:04",
       "level": "info",
       "msg": "今日精选生成：第 6917 批 / 共 5 部（每 3 天轮换）"
     },
     {
-      "time": "2026-10-25 19:44:57",
+      "time": "2026-10-25 23:28:04",
       "level": "info",
       "msg": "海报仓库导出：20 部影片 → repo/img 20 张, repo/slide 0 张"
     },
     {
-      "time": "2026-10-25 19:44:57",
+      "time": "2026-10-25 23:28:04",
       "level": "info",
       "msg": "海报补齐：新增 20 / 无图源 0 / 失败 0"
     },
     {
-      "time": "2026-10-25 19:44:52",
+      "time": "2026-10-25 23:27:59",
       "level": "info",
       "msg": "自动更新：新增 20 部",
       "count": 20
     },
     {
-      "time": "2026-10-25 19:44:35",
+      "time": "2026-10-25 23:27:41",
       "level": "info",
       "msg": "auto_feed 发现候选 24 部（来自 1 个启用的源）"
     }
