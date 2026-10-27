@@ -4,10 +4,10 @@
   "rotate_days": 3,
   "batch": 6917,
   "count": 5,
-  "updated": "2026-10-27 00:41",
+  "updated": "2026-10-27 21:23",
   "list": [
     {
-      "vod_id": "aa85641a-3659-4f15-b8ee-c9500de44426",
+      "vod_id": "0d8cb728-828e-42e2-9c92-0eb9597bc03b",
       "vod_name": "Cal State Colleges: San Francisco State College",
       "vod_pic": "https://lidawei1985.github.io/filmcollector-pages/repo/img/7d0e6a16949866c99e86bbcca6d4b2ae.jpg",
       "vod_cover": "images/cover_205697_Cal_State_Colleges.jpg",
@@ -31,7 +31,7 @@
       "_featured": true
     },
     {
-      "vod_id": "8d4054e6-a383-4a49-9051-bb721ae779b4",
+      "vod_id": "b83b2644-7120-4fb3-86bb-dc6f051bf701",
       "vod_name": "FILM Chihayafuru Musubi",
       "vod_pic": "https://lidawei1985.github.io/filmcollector-pages/repo/img/fb83fff2ac41de2a434e7312973b5453.jpg",
       "vod_cover": "images/cover_film-chihayafuru-musubi.jpg",
@@ -55,7 +55,7 @@
       "_featured": true
     },
     {
-      "vod_id": "29c0810b-d002-4e7a-aebf-c296964dbde6",
+      "vod_id": "4c02f231-a5ad-4ee7-a23a-5726d22e5b85",
       "vod_name": "FILM Death Whisperer II",
       "vod_pic": "https://lidawei1985.github.io/filmcollector-pages/repo/img/4594bbda418fbf338d20eca10a326852.jpg",
       "vod_cover": "images/cover_film-death-whisperer-ii.jpg",
@@ -79,7 +79,7 @@
       "_featured": true
     },
     {
-      "vod_id": "7c13a84f-4ddf-4220-ad6f-6277595ba3b8",
+      "vod_id": "9acc4c67-90ae-4c15-a049-c2cf6e2800d4",
       "vod_name": "FILM Jade Dynasty",
       "vod_pic": "https://lidawei1985.github.io/filmcollector-pages/repo/img/8546819a7a5b999587b54e728c8f6c63.jpg",
       "vod_cover": "images/cover_film-jade-dynasty.jpg",
@@ -103,7 +103,7 @@
       "_featured": true
     },
     {
-      "vod_id": "bd74ad23-4907-4cb1-97ad-f389ef23012a",
+      "vod_id": "2d3566a7-19b5-4ad8-b7cf-52328bb50942",
       "vod_name": "FILM Silent Love",
       "vod_pic": "https://lidawei1985.github.io/filmcollector-pages/repo/img/58605a5b2cb77ef15d86858530fb71ff.jpg",
       "vod_cover": "images/cover_film-silent-love.jpg",
