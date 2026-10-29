@@ -4,10 +4,10 @@
   "rotate_days": 3,
   "batch": 6918,
   "count": 5,
-  "updated": "2026-10-29 01:09",
+  "updated": "2026-10-29 21:52",
   "list": [
     {
-      "vod_id": "974d3362-3744-469c-abf0-220dfa196398",
+      "vod_id": "752ac779-8497-4207-9eff-3986cf1a9012",
       "vod_name": "FILM The Silent Forest",
       "vod_pic": "https://lidawei1985.github.io/filmcollector-pages/repo/img/f34a91ca4bcfe58b8ac8a569f5f7814a.jpg",
       "vod_cover": "images/cover_film-the-silent-forest.jpg",
@@ -31,7 +31,7 @@
       "_featured": true
     },
     {
-      "vod_id": "f8470ebb-d1ce-4dcc-b06e-e5ce54bc00a0",
+      "vod_id": "dc43e816-f33e-470c-beb9-36614f725aba",
       "vod_name": "Home Movie: 012058",
       "vod_pic": "https://lidawei1985.github.io/filmcollector-pages/repo/img/975c721110aa198302b67daecfd453df.jpg",
       "vod_cover": "images/cover_204403_Home_Movie_012058.jpg",
@@ -55,7 +55,7 @@
       "_featured": true
     },
     {
-      "vod_id": "c1aa9c74-f2e7-4c0f-b242-7cea9e432e4b",
+      "vod_id": "0037d475-2b28-4150-a81d-d4df6c52284f",
       "vod_name": "Home Movie: 099848",
       "vod_pic": "https://lidawei1985.github.io/filmcollector-pages/repo/img/16b7e69aea07a895e6b4f53151508317.jpg",
       "vod_cover": "images/cover_206125_Home_Movie_099848.jpg",
@@ -79,7 +79,7 @@
       "_featured": true
     },
     {
-      "vod_id": "606ffb4a-fe6f-4377-9b50-39cd6735b661",
+      "vod_id": "c13dd55c-2c3a-4dae-a2ba-4d5249d5830e",
       "vod_name": "Home Movie: Patrick Marks Collection: 096351",
       "vod_pic": "https://lidawei1985.github.io/filmcollector-pages/repo/img/84cd2aaf561547c88ec39811bdc91d8b.jpg",
       "vod_cover": "images/cover_205898_Marks_Collection_096351.jpg",
@@ -103,7 +103,7 @@
       "_featured": true
     },
     {
-      "vod_id": "7ae491ae-44a2-4a73-8701-dc172c32fb46",
+      "vod_id": "b62237fb-fdb5-45ae-bb0b-10bfa9c7a0ac",
       "vod_name": "Home Movie: Patrick Marks Collection: 096352",
       "vod_pic": "https://lidawei1985.github.io/filmcollector-pages/repo/img/670e19180a9267c95c47659c73437803.jpg",
       "vod_cover": "images/cover_205894_Marks_Collection_096352.jpg",
