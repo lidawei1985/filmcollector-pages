@@ -1,476 +1,7 @@
 {
   "items": [
     {
-      "title": "FILM Jade Dynasty",
-      "description": "Film",
-      "year": "",
-      "type": "电影",
-      "region": "pol",
-      "episodes": [
-        {
-          "name": "播放",
-          "url": "https://archive.org/download/film-jade-dynasty/FILM- Jade Dynasty.ia.mp4",
-          "urls": [
-            "https://archive.org/download/film-jade-dynasty/FILM- Jade Dynasty.ia.mp4",
-            "https://archive.org/serve/film-jade-dynasty/FILM- Jade Dynasty.ia.mp4"
-          ],
-          "line": "默认线路"
-        }
-      ],
-      "source_id": "film-jade-dynasty",
-      "source_url": "https://archive.org/details/film-jade-dynasty",
-      "license": "Public Domain / CC",
-      "status": "ok",
-      "poster": "images/poster_film-jade-dynasty.jpg",
-      "id": "360eb504-7bfd-41f3-89e7-33ba3ea92873",
-      "created_at": "2026-10-30 01:16:11",
-      "updated_at": "2026-10-30 01:16:11",
-      "cover": "images/cover_film-jade-dynasty.jpg",
-      "hero": {
-        "eligible": false,
-        "score": 54,
-        "grade": "F",
-        "source_available": true,
-        "source_health": 88,
-        "sources_count": 1,
-        "image_available": true,
-        "image_quality": 38,
-        "image_resolution": "none",
-        "image_match": 0.85,
-        "match_confidence": 0.85,
-        "has_hero_poster": false,
-        "has_backdrop": false,
-        "reasons": [
-          "no_hero_poster",
-          "no_backdrop",
-          "quality_insufficient"
-        ],
-        "updated_at": "2026-10-30 01:16:44"
-      },
-      "hero_assets": [
-        {
-          "kind": "backdrop",
-          "width": 180,
-          "height": 67,
-          "score": 38,
-          "source": "local_ia",
-          "match_confidence": 0.85,
-          "flags": []
-        }
-      ],
-      "hero_poster_url": "",
-      "hero_poster_width": 0,
-      "hero_poster_height": 0,
-      "backdrop_url": "",
-      "backdrop_width": 0,
-      "backdrop_height": 0,
-      "poster_width": 180,
-      "poster_height": 67
-    },
-    {
-      "title": "FILM The Silent Forest",
-      "description": "FILM",
-      "year": "",
-      "type": "电影",
-      "region": "pol",
-      "episodes": [
-        {
-          "name": "播放",
-          "url": "https://archive.org/download/film-the-silent-forest/FILM- The Silent Forest.ia.mp4",
-          "urls": [
-            "https://archive.org/download/film-the-silent-forest/FILM- The Silent Forest.ia.mp4",
-            "https://archive.org/serve/film-the-silent-forest/FILM- The Silent Forest.ia.mp4"
-          ],
-          "line": "默认线路"
-        }
-      ],
-      "source_id": "film-the-silent-forest",
-      "source_url": "https://archive.org/details/film-the-silent-forest",
-      "license": "Public Domain / CC",
-      "status": "ok",
-      "poster": "images/poster_film-the-silent-forest.jpg",
-      "id": "e17d5ac0-2248-4e2f-99bf-2c89e1b3e912",
-      "created_at": "2026-10-30 01:16:12",
-      "updated_at": "2026-10-30 01:16:12",
-      "cover": "images/cover_film-the-silent-forest.jpg",
-      "hero": {
-        "eligible": false,
-        "score": 56,
-        "grade": "F",
-        "source_available": true,
-        "source_health": 88,
-        "sources_count": 1,
-        "image_available": true,
-        "image_quality": 44,
-        "image_resolution": "none",
-        "image_match": 0.85,
-        "match_confidence": 0.85,
-        "has_hero_poster": false,
-        "has_backdrop": false,
-        "reasons": [
-          "no_hero_poster",
-          "no_backdrop",
-          "quality_insufficient"
-        ],
-        "updated_at": "2026-10-30 01:16:44"
-      },
-      "hero_assets": [
-        {
-          "kind": "backdrop",
-          "width": 180,
-          "height": 75,
-          "score": 44,
-          "source": "local_ia",
-          "match_confidence": 0.85,
-          "flags": []
-        }
-      ],
-      "hero_poster_url": "",
-      "hero_poster_width": 0,
-      "hero_poster_height": 0,
-      "backdrop_url": "",
-      "backdrop_width": 0,
-      "backdrop_height": 0,
-      "poster_width": 180,
-      "poster_height": 75
-    },
-    {
-      "title": "Aces Go Places II (1983)",
-      "description": "<p style=\"margin:0.5em 0px 1em;\"><i><b>Aces Go Places 2</b></i> (<a href=\"https://en.wikipedia.org/wiki/Traditional_Chinese_characters\" title=\"Traditional Chinese characters\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Chinese</a><span>:</span><span> </span><span lang=\"zh-hant\" xml:lang=\"zh-hant\">最佳拍檔大顯神通</span>) is a 1983 <a href=\"https://en.wikipedia.org/wiki/Hong_Kong_action_cinema\" title=\"Hong Kong action cinema\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Hong Kong action</a>-<a href=\"https://en.wikipedia.org/wiki/Comedy_film\" title=\"Comedy film\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">comedy film</a> directed by <a href=\"https://en.wikipedia.org/wiki/Eric_Tsang\" title=\"Eric Tsang\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Eric Tsang</a> and starring <a href=\"https://en.wikipedia.org/wiki/Samuel_Hui\" title=\"Samuel Hui\" class=\"mw-redirect\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Sam Hui</a>, <a href=\"https://en.wikipedia.org/wiki/Karl_Maka\" title=\"Karl Maka\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Karl Maka</a>, <a href=\"https://en.wikipedia.org/wiki/Sylvia_Chang\" title=\"Sylvia Chang\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Sylvia Chang</a>. The film has also been dubbed into English and re-edited and was released overseas as <i><b>Mad Mission II</b></i>. The film is the second installment in the <i><a href=\"https://en.wikipedia.org/wiki/Aces_Go_Places_(film_series)\" title=\"Aces Go Places (film series)\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Aces Go Places</a></i> film series. In the film, a burglar and a police detective join forces to locate stolen <a href=\"https://en.wikipedia.org/wiki/Diamond_(gemstone)\" title=\"Diamond (gemstone)\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">diamonds</a>.</p><div class=\"mw-heading mw-heading2\" style=\"color:rgb(16,20,24);margin:0.25em 0px;padding-top:0.5em;padding-bottom:0.17em;border-bottom:0.727273px solid rgb(162,169,177);font-size:1.5em;font-family:'Linux Libertine', Georgia, Times, 'Source Serif 4', serif;line-height:1.375;\"><h2 style=\"color:inherit;font-weight:inherit;margin:0px 0px 0.25em;padding:0px;border:0px;font-size:inherit;font-style:inherit;font-variant:inherit;line-height:1.375;\">Plot</h2><span class=\"mw-editsection\" style=\"font-size:small;margin-left:1em;margin-right:0px;vertical-align:baseline;line-height:0;font-family:sans-serif;\"><a href=\"https://en.wikipedia.org/w/index.php?title=Aces_Go_Places_2&amp;action=edit&amp;section=1\" title=\"Edit section: Plot\" style=\"color:rgb(51,102,204);background:none;white-space:pre;line-height:1;\" rel=\"ugc nofollow\">edit</a></span></div><p style=\"margin:0.5em 0px 1em;\">A <a href=\"https://en.wikipedia.org/wiki/James_Bond\" title=\"James Bond\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">James Bond</a>-type burglar King Kong (<a href=\"https://en.wikipedia.org/wiki/Samuel_Hui\" title=\"Samuel Hui\" class=\"mw-redirect\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Sam Hui</a>) and his friend Albert \"Baldy\" Au (<a href=\"https://en.wikipedia.org/wiki/Karl_Maka\" title=\"Karl Maka\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Karl Maka</a>), a bald police detective join forces to try to track down a rare set of stolen precious diamonds before it ends up in the hands of a notorious American mobster named \"Black Gloves\" (Filthy Harry in the dubbed version and during the English-speaking parts of the original film). The two unlikely duo are supervised by Baldy's wife, Supt. Nancy Ho (<a href=\"https://en.wikipedia.org/wiki/Sylvia_Chang\" title=\"Sylvia Chang\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Sylvia Chang</a>), a masculine, fiery-tempered policewoman as they are chased by many <a href=\"https://en.wikipedia.org/wiki/Mafia\" title=\"Mafia\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">mafia</a> members throughout the film in crazy chase sequences involving a number of car and motorbike stunts.</p><div class=\"mw-heading mw-heading2\" style=\"color:rgb(16,20,24);margin:0.25em 0px;padding-top:0.5em;padding-bottom:0.17em;border-bottom:0.727273px solid rgb(162,169,177);font-size:1.5em;font-family:'Linux Libertine', Georgia, Times, 'Source Serif 4', serif;line-height:1.375;\"><h2 style=\"color:inherit;font-weight:inherit;margin:0px 0px 0.25em;padding:0px;border:0px;font-size:inherit;font-style:inherit;font-variant:inherit;line-height:1.375;\">Cast</h2><span class=\"mw-editsection\" style=\"font-size:small;margin-left:1em;margin-right:0px;vertical-align:baseline;line-height:0;font-family:sans-serif;\"><a href=\"https://en.wikipedia.org/w/index.php?title=Aces_Go_Places_2&amp;action=edit&amp;section=2\" title=\"Edit section: Cast\" style=\"color:rgb(51,102,204);background:none;white-space:pre;line-height:1;\" rel=\"ugc nofollow\">edit</a></span></div><ul style=\"margin:0.3em 0px 0px 1.6em;padding:0px;\"><li style=\"margin-bottom:0.1em;\"><a href=\"https://en.wikipedia.org/wiki/Samuel_Hui\" title=\"Samuel Hui\" class=\"mw-redirect\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Sam Hui</a> as King Kong</li><li style=\"margin-bottom:0.1em;\"><a href=\"https://en.wikipedia.org/wiki/Karl_Maka\" title=\"Karl Maka\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Karl Maka</a> as Albert Au</li><li style=\"margin-bottom:0.1em;\"><a href=\"https://en.wikipedia.org/wiki/Sylvia_Chang\" title=\"Sylvia Chang\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Sylvia Chang</a> as Supt. Nancy Ho</li><li style=\"margin-bottom:0.1em;\"><a href=\"https://en.wikipedia.org/wiki/Tsui_Hark\" title=\"Tsui Hark\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Tsui Hark</a> as Mental patient (special appearance)</li><li style=\"margin-bottom:0.1em;\"><a href=\"https://en.wikipedia.org/wiki/Eric_Tsang\" title=\"Eric Tsang\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Eric Tsang</a> as Fattie (special appearance)</li><li style=\"margin-bottom:0.1em;\"><a href=\"https://en.wikipedia.org/wiki/Raymond_Wong_Pak-ming\" title=\"Raymond Wong Pak-ming\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Raymond Wong</a> as Priest (special appearance)</li><li style=\"margin-bottom:0.1em;\"><a href=\"https://en.wikipedia.org/wiki/Yasuaki_Kurata\" title=\"Yasuaki Kurata\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Yasuaki Kurata</a> as Bull</li><li style=\"margin-bottom:0.1em;\">Sue Wang as Juju</li><li style=\"margin-bottom:0.1em;\">Joe Dimmick as Black Gloves</li><li style=\"margin-bottom:0.1em;\">Hector Britt</li><li style=\"margin-bottom:0.1em;\"><a href=\"https://en.wikipedia.org/wiki/Charlie_Cho\" title=\"Charlie Cho\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Charlie Cho</a> as Wong</li><li style=\"margin-bottom:0.1em;\"><a href=\"https://en.wikipedia.org/wiki/Cho_Tat-wah\" title=\"Cho Tat-wah\" class=\"mw-redirect\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Cho Tat-wah</a> as Police Chief Uncle Wah</li><li style=\"margin-bottom:0.1em;\"><a href=\"https://en.wikipedia.org/wiki/Billy_Lau\" title=\"Billy Lau\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Billy Lau</a> as Gunman</li><li style=\"margin-bottom:0.1em;\">Suzanna Valentino</li><li style=\"margin-bottom:0.1em;\">Jamie Hales as Stunt man in bicycle stunt sequence</li><li style=\"margin-bottom:0.1em;\"><a href=\"https://en.wikipedia.org/wiki/Sai_Gwa-Pau\" title=\"Sai Gwa-Pau\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Sai Gwa-Pau</a></li><li style=\"margin-bottom:0.1em;\">Douglas Airth as Stunt man in car on two wheels sequence<sup class=\"mw-ref reference\" style=\"line-height:1;font-size:16px;\"><a href=\"https://en.wikipedia.org/wiki/Aces_Go_Places_2#cite_note-1\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\"><span class=\"mw-reflink-text\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></span></a></sup><sup class=\"mw-ref reference\" style=\"line-height:1;font-size:16px;\"><a href=\"https://en.wikipedia.org/wiki/Aces_Go_Places_2#cite_note-2\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\"><span class=\"mw-reflink-text\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></span></a></sup></li></ul><div class=\"mw-heading mw-heading2\" style=\"color:rgb(16,20,24);margin:0.25em 0px;padding-top:0.5em;padding-bottom:0.17em;border-bottom:0.727273px solid rgb(162,169,177);font-size:1.5em;font-family:'Linux Libertine', Georgia, Times, 'Source Serif 4', serif;line-height:1.375;\"><h2 style=\"color:inherit;font-weight:inherit;margin:0px 0px 0.25em;padding:0px;border:0px;font-size:inherit;font-style:inherit;font-variant:inherit;line-height:1.375;\">Release</h2><span class=\"mw-editsection\" style=\"font-size:small;margin-left:1em;margin-right:0px;vertical-align:baseline;line-height:0;font-family:sans-serif;\"><a href=\"https://en.wikipedia.org/w/index.php?title=Aces_Go_Places_2&amp;action=edit&amp;section=3\" title=\"Edit section: Release\" style=\"color:rgb(51,102,204);background:none;white-space:pre;line-height:1;\" rel=\"ugc nofollow\">edit</a></span></div><p style=\"margin:0.5em 0px 1em;\"><i>Aces Go Places</i> was released in Hong Kong on 5 February 1983. The film was released in the Philippines by Valiant Films as <i><b>Aces Strike to Win</b></i> on 7 December 1988.<sup class=\"mw-ref reference\" style=\"line-height:1;font-size:16px;\"><a href=\"https://en.wikipedia.org/wiki/Aces_Go_Places_2#cite_note-3\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\"><span class=\"mw-reflink-text\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></span></a></sup></p><div class=\"mw-heading mw-heading2\" style=\"color:rgb(16,20,24);margin:0.25em 0px;padding-top:0.5em;padding-bottom:0.17em;border-bottom:0.727273px solid rgb(162,169,177);font-size:1.5em;font-family:'Linux Libertine', Georgia, Times, 'Source Serif 4', serif;line-height:1.375;\"><h2 style=\"color:inherit;font-weight:inherit;margin:0px 0px 0.25em;padding:0px;border:0px;font-size:inherit;font-style:inherit;font-variant:inherit;line-height:1.375;\">Reception</h2><span class=\"mw-editsection\" style=\"font-size:small;margin-left:1em;margin-right:0px;vertical-align:baseline;line-height:0;font-family:sans-serif;\"><a href=\"https://en.wikipedia.org/w/index.php?title=Aces_Go_Places_2&amp;action=edit&amp;section=4\" title=\"Edit section: Reception\" style=\"color:rgb(51,102,204);background:none;white-space:pre;line-height:1;\" rel=\"ugc nofollow\">edit</a></span></div><p style=\"margin:0.5em 0px 1em;\"><i><a href=\"https://en.wikipedia.org/wiki/Variety_(magazine)\" title=\"Variety (magazine)\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Variety</a></i> described the film as a \"well calculated commercial movie\" and a \"never a dull moment fun film for kids and adults with young minds attuned to things that are basic and elementary.\"<sup class=\"mw-ref reference\" style=\"line-height:1;font-size:16px;\"><a href=\"https://en.wikipedia.org/wiki/Aces_Go_Places_2#cite_note-FOOTNOTEWillis1985417-4\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\"><span class=\"mw-reflink-text\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></span></a></sup> The review stated that <a href=\"https://en.wikipedia.org/wiki/Samuel_Hui\" title=\"Samuel Hui\" class=\"mw-redirect\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Sam Hui</a> \"is beginning to be an adept comedian with good timing though he still mugs a lot.\"<sup class=\"mw-ref reference\" style=\"line-height:1;font-size:16px;\"><a href=\"https://en.wikipedia.org/wiki/Aces_Go_Places_2#cite_note-FOOTNOTEWillis1985417-4\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\"><span class=\"mw-reflink-text\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></span></a></sup></p>",
-      "year": "",
-      "type": "电影",
-      "region": "english-handwritten",
-      "episodes": [
-        {
-          "name": "播放",
-          "url": "https://archive.org/download/aces-go-places-ii-1983/01. Aces Go Places II (1983).ia.mp4",
-          "urls": [
-            "https://archive.org/download/aces-go-places-ii-1983/01. Aces Go Places II (1983).ia.mp4",
-            "https://archive.org/serve/aces-go-places-ii-1983/01. Aces Go Places II (1983).ia.mp4"
-          ],
-          "line": "默认线路"
-        }
-      ],
-      "source_id": "aces-go-places-ii-1983",
-      "source_url": "https://archive.org/details/aces-go-places-ii-1983",
-      "license": "Public Domain / CC",
-      "status": "ok",
-      "poster": "images/poster_aces-go-places-ii-1983.jpg",
-      "id": "4841e956-9a30-4804-8ab8-cb1bfcecc7e5",
-      "created_at": "2026-10-30 01:16:13",
-      "updated_at": "2026-10-30 01:16:13",
-      "cover": "images/cover_aces-go-places-ii-1983.jpg",
-      "hero": {
-        "eligible": false,
-        "score": 56,
-        "grade": "F",
-        "source_available": true,
-        "source_health": 88,
-        "sources_count": 1,
-        "image_available": true,
-        "image_quality": 44,
-        "image_resolution": "none",
-        "image_match": 0.85,
-        "match_confidence": 0.85,
-        "has_hero_poster": false,
-        "has_backdrop": false,
-        "reasons": [
-          "no_hero_poster",
-          "no_backdrop",
-          "quality_insufficient"
-        ],
-        "updated_at": "2026-10-30 01:16:44"
-      },
-      "hero_assets": [
-        {
-          "kind": "backdrop",
-          "width": 180,
-          "height": 77,
-          "score": 44,
-          "source": "local_ia",
-          "match_confidence": 0.85,
-          "flags": []
-        }
-      ],
-      "hero_poster_url": "",
-      "hero_poster_width": 0,
-      "hero_poster_height": 0,
-      "backdrop_url": "",
-      "backdrop_width": 0,
-      "backdrop_height": 0,
-      "poster_width": 180,
-      "poster_height": 77
-    },
-    {
-      "title": "Aces Go Places (1982)",
-      "description": "<p style=\"margin:0.5em 0px 1em;\"><i><b>Aces Go Places</b></i>, (<a href=\"https://en.wikipedia.org/wiki/Traditional_Chinese_characters\" title=\"Traditional Chinese characters\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Chinese</a><span>:</span><span> </span><span lang=\"zh-hant\" xml:lang=\"zh-hant\">最佳拍檔</span>), also known in the United States as <i><b>Diamondfinger</b></i> or <i><b>Mad Mission</b></i>, is a 1982 Hong Kong <a href=\"https://en.wikipedia.org/wiki/Hong_Kong_action_cinema\" title=\"Hong Kong action cinema\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">action</a> <a href=\"https://en.wikipedia.org/wiki/Comedy_film\" title=\"Comedy film\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">comedy film</a> directed by <a href=\"https://en.wikipedia.org/wiki/Eric_Tsang\" title=\"Eric Tsang\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Eric Tsang</a>, and starring <a href=\"https://en.wikipedia.org/wiki/Samuel_Hui\" title=\"Samuel Hui\" class=\"mw-redirect\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Samuel Hui</a>, <a href=\"https://en.wikipedia.org/wiki/Karl_Maka\" title=\"Karl Maka\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Karl Maka</a> and <a href=\"https://en.wikipedia.org/wiki/Sylvia_Chang\" title=\"Sylvia Chang\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Sylvia Chang</a>. It is the first installment in the <a href=\"https://en.wikipedia.org/wiki/Aces_Go_Places_(film_series)\" title=\"Aces Go Places (film series)\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\"><i>Aces Go Places</i> film series</a>.</p><div class=\"mw-heading mw-heading2\" style=\"color:rgb(16,20,24);margin:0.25em 0px;padding-top:0.5em;padding-bottom:0.17em;border-bottom:0.727273px solid rgb(162,169,177);font-size:1.5em;font-family:'Linux Libertine', Georgia, Times, 'Source Serif 4', serif;line-height:1.375;\"><h2 style=\"color:inherit;font-weight:inherit;margin:0px 0px 0.25em;padding:0px;border:0px;font-size:inherit;font-style:inherit;font-variant:inherit;line-height:1.375;\">Plot</h2><span class=\"mw-editsection\" style=\"font-size:small;margin-left:1em;margin-right:0px;vertical-align:baseline;line-height:0;font-family:sans-serif;\"><a href=\"https://en.wikipedia.org/w/index.php?title=Aces_Go_Places&amp;action=edit&amp;section=1\" title=\"Edit section: Plot\" style=\"color:rgb(51,102,204);background:none;white-space:pre;line-height:1;\" rel=\"ugc nofollow\">edit</a></span></div><p style=\"margin:0.5em 0px 1em;\">A suave, smooth burglar named King Kong tries to make up for his thieving ways by teaming up with Albert 'Baldy' Au, a bumbling <a href=\"https://en.wikipedia.org/wiki/Taishan,_Guangdong\" title=\"Taishan, Guangdong\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Taishanese</a> police detective from the United States. Both work together to try to find a set of stolen diamonds; the diamonds are also being tracked by a European criminal known as 'White Gloves'. The two heroes are supervised by Superintendent Nancy Ho, who has a temper.</p><div class=\"mw-heading mw-heading2\" style=\"color:rgb(16,20,24);margin:0.25em 0px;padding-top:0.5em;padding-bottom:0.17em;border-bottom:0.727273px solid rgb(162,169,177);font-size:1.5em;font-family:'Linux Libertine', Georgia, Times, 'Source Serif 4', serif;line-height:1.375;\"><h2 style=\"color:inherit;font-weight:inherit;margin:0px 0px 0.25em;padding:0px;border:0px;font-size:inherit;font-style:inherit;font-variant:inherit;line-height:1.375;\">Cast</h2><span class=\"mw-editsection\" style=\"font-size:small;margin-left:1em;margin-right:0px;vertical-align:baseline;line-height:0;font-family:sans-serif;\"><a href=\"https://en.wikipedia.org/w/index.php?title=Aces_Go_Places&amp;action=edit&amp;section=2\" title=\"Edit section: Cast\" style=\"color:rgb(51,102,204);background:none;white-space:pre;line-height:1;\" rel=\"ugc nofollow\">edit</a></span></div><ul style=\"margin:0.3em 0px 0px 1.6em;padding:0px;\"><li style=\"margin-bottom:0.1em;\"><a href=\"https://en.wikipedia.org/wiki/Samuel_Hui\" title=\"Samuel Hui\" class=\"mw-redirect\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Samuel Hui</a> as \"King Kong\"</li><li style=\"margin-bottom:0.1em;\"><a href=\"https://en.wikipedia.org/wiki/Karl_Maka\" title=\"Karl Maka\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Karl Maka</a> as Albert Au</li><li style=\"margin-bottom:0.1em;\"><a href=\"https://en.wikipedia.org/wiki/Sylvia_Chang\" title=\"Sylvia Chang\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Sylvia Chang</a> as Superintendent Nancy Ho</li><li style=\"margin-bottom:0.1em;\"><a href=\"https://en.wikipedia.org/wiki/Dean_Shek\" title=\"Dean Shek\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Dean Shek</a> as Joe \"Gigolo Joe\" (special guest appearance)</li><li style=\"margin-bottom:0.1em;\"><a href=\"https://en.wikipedia.org/wiki/Tsui_Hark\" title=\"Tsui Hark\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Tsui Hark</a> as Ballerina Director (special guest appearance)</li><li style=\"margin-bottom:0.1em;\">Carroll Gordon as \"Ding Dong\"</li><li style=\"margin-bottom:0.1em;\">Chan Sing as Max \"Mad Max\"</li><li style=\"margin-bottom:0.1em;\">Anna Ng as Rose</li><li style=\"margin-bottom:0.1em;\">Lindzay Chan as Ballerina</li><li style=\"margin-bottom:0.1em;\">Veronica Lau as Mary</li><li style=\"margin-bottom:0.1em;\">Hon Kwok-choi as \"Squealie\"</li><li style=\"margin-bottom:0.1em;\">Sze Kai-keung as Laurel</li><li style=\"margin-bottom:0.1em;\"><a href=\"https://en.wikipedia.org/wiki/Cho_Tat-wah\" title=\"Cho Tat-wah\" class=\"mw-redirect\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Cho Tat-wah</a> as Uncle Wah</li><li style=\"margin-bottom:0.1em;\">Kam Piu as Szeto</li><li style=\"margin-bottom:0.1em;\">To Siu-ming as Tattoo Artist</li><li style=\"margin-bottom:0.1em;\">Robert Houston as \"White Gloves\"</li><li style=\"margin-bottom:0.1em;\">Jimmy Shaw as Monterosso</li><li style=\"margin-bottom:0.1em;\">Andrew Miller as Antonio</li><li style=\"margin-bottom:0.1em;\">Glen Thompson as Governor At Meeting</li><li style=\"margin-bottom:0.1em;\"><a href=\"https://en.wikipedia.org/wiki/Fung_Ging_Man\" title=\"Fung Ging Man\" class=\"mw-redirect\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Fung Ging Man</a> as Senior Police Officer At Meeting</li><li style=\"margin-bottom:0.1em;\">Lee Pang-fei as Senior Police Officer At Meeting</li><li style=\"margin-bottom:0.1em;\">Ng Yan-chi as Senior Police Officer At Meeting</li><li style=\"margin-bottom:0.1em;\">Chik Ngai-hung as Rascal Who Gets Fresh With Ho</li><li style=\"margin-bottom:0.1em;\">Shing Wan-on as Cheong</li><li style=\"margin-bottom:0.1em;\">Lai Kim-hung as \"Blubber Mouth\"</li><li style=\"margin-bottom:0.1em;\">Tai San as Glove's Thug</li><li style=\"margin-bottom:0.1em;\">Wong Chi-wai as Glove's Thug Attacking King Kong</li><li style=\"margin-bottom:0.1em;\">Cheung Kwok-wah as Mad Max's Thug</li><li style=\"margin-bottom:0.1em;\">Chow Kam-kong as Mad Max's Thug</li><li style=\"margin-bottom:0.1em;\">Pang Yun-cheung as Mad Max's Thug</li><li style=\"margin-bottom:0.1em;\">Fung Yun-chuen as Diamond Verifier</li><li style=\"margin-bottom:0.1em;\">Cheng Siu-ping as Councillor Chan In Taxi</li><li style=\"margin-bottom:0.1em;\"><a href=\"https://en.wikipedia.org/wiki/Raymond_Wong_Pak-ming\" title=\"Raymond Wong Pak-ming\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Raymond Wong</a> as Priest In Taxi (cameo)</li><li style=\"margin-bottom:0.1em;\"><a href=\"https://en.wikipedia.org/wiki/Yu_Mo-lin\" title=\"Yu Mo-lin\" class=\"mw-redirect\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Yu Mo-lin</a> as Nurse</li><li style=\"margin-bottom:0.1em;\">Ho Pak-kwong as Toilet Attendant</li><li style=\"margin-bottom:0.1em;\"><a href=\"https://en.wikipedia.org/wiki/George_Lam\" title=\"George Lam\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">George Lam</a> as Ambulance Driver (cameo)</li><li style=\"margin-bottom:0.1em;\">Man Ngai-tik as Senior Naval Officer At Meeting<sup class=\"mw-ref reference\" style=\"line-height:1;font-size:16px;\"><a href=\"https://en.wikipedia.org/wiki/Aces_Go_Places#cite_note-2\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\"><span class=\"mw-reflink-text\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></span></a></sup><sup class=\"mw-ref reference\" style=\"line-height:1;font-size:16px;\"><a href=\"https://en.wikipedia.org/wiki/Aces_Go_Places#cite_note-3\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\"><span class=\"mw-reflink-text\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></span></a></sup></li></ul><div class=\"mw-heading mw-heading2\" style=\"color:rgb(16,20,24);margin:0.25em 0px;padding-top:0.5em;padding-bottom:0.17em;border-bottom:0.727273px solid rgb(162,169,177);font-size:1.5em;font-family:'Linux Libertine', Georgia, Times, 'Source Serif 4', serif;line-height:1.375;\"><h2 style=\"color:inherit;font-weight:inherit;margin:0px 0px 0.25em;padding:0px;border:0px;font-size:inherit;font-style:inherit;font-variant:inherit;line-height:1.375;\">Production</h2><span class=\"mw-editsection\" style=\"font-size:small;margin-left:1em;margin-right:0px;vertical-align:baseline;line-height:0;font-family:sans-serif;\"><a href=\"https://en.wikipedia.org/w/index.php?title=Aces_Go_Places&amp;action=edit&amp;section=3\" title=\"Edit section: Production\" style=\"color:rgb(51,102,204);background:none;white-space:pre;line-height:1;\" rel=\"ugc nofollow\">edit</a></span></div><p style=\"margin:0.5em 0px 1em;\">In 1981, Cinema City started producing <i>Aces Go Places.</i> <a href=\"https://en.wikipedia.org/wiki/Chow_Yun-fat\" title=\"Chow Yun-fat\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Chow Yun-fat</a> was initially selected as one of the main leads for the film but the company was afraid of his tight filming schedule. <a href=\"https://en.wikipedia.org/wiki/Tsui_Hark\" title=\"Tsui Hark\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Tsui Hark</a> then recommended <a href=\"https://en.wikipedia.org/wiki/Sam_Hui\" title=\"Sam Hui\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Sam Hui</a> to replace Chow. Hui demanded HK2 million in acting fees at a time when the budget for a small film is HK1 million. With approval from Golden Princess Amusement, Hui played one of the main leads. A major production for the company, <a href=\"https://en.wikipedia.org/wiki/Karl_Maka\" title=\"Karl Maka\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Karl Maka</a> was the other male main lead with cameos by <a href=\"https://en.wikipedia.org/wiki/Dean_Shek\" title=\"Dean Shek\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Dean Shek</a>, <a href=\"https://en.wikipedia.org/wiki/Raymond_Wong_Pak-ming\" title=\"Raymond Wong Pak-ming\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Raymond Wong</a> and Hark and Taiwanese actress <a href=\"https://en.wikipedia.org/wiki/Sylvia_Chang\" title=\"Sylvia Chang\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Sylvia Chang</a>, who had just won <a href=\"https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Actress\" title=\"Golden Horse Award for Best Actress\" class=\"mw-redirect\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Best Actress</a> at the <a href=\"https://en.wikipedia.org/wiki/18th_Golden_Horse_Awards\" title=\"18th Golden Horse Awards\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">18th Golden Horse Awards</a>, as its main female lead.</p><div class=\"mw-heading mw-heading2\" style=\"color:rgb(16,20,24);margin:0.25em 0px;padding-top:0.5em;padding-bottom:0.17em;border-bottom:0.727273px solid rgb(162,169,177);font-size:1.5em;font-family:'Linux Libertine', Georgia, Times, 'Source Serif 4', serif;line-height:1.375;\"><h2 style=\"color:inherit;font-weight:inherit;margin:0px 0px 0.25em;padding:0px;border:0px;font-size:inherit;font-style:inherit;font-variant:inherit;line-height:1.375;\">Accolades</h2><span class=\"mw-editsection\" style=\"font-size:small;margin-left:1em;margin-right:0px;vertical-align:baseline;line-height:0;font-family:sans-serif;\"><a href=\"https://en.wikipedia.org/w/index.php?title=Aces_Go_Places&amp;action=edit&amp;section=4\" title=\"Edit section: Accolades\" style=\"color:rgb(51,102,204);background:none;white-space:pre;line-height:1;\" rel=\"ugc nofollow\">edit</a></span></div><table class=\"wikitable\" style=\"font-size:19px;background-color:rgb(248,249,250);margin:1em 0px;border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;border-collapse:collapse;\"><tbody><tr><th style=\"border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;padding:0.2em 0.4em;background-color:rgb(234,236,240);text-align:center;\">Ceremony</th><th style=\"border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;padding:0.2em 0.4em;background-color:rgb(234,236,240);text-align:center;\">Year</th><th style=\"border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;padding:0.2em 0.4em;background-color:rgb(234,236,240);text-align:center;\">Category</th><th style=\"border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;padding:0.2em 0.4em;background-color:rgb(234,236,240);text-align:center;\">Recipient(s)</th><th style=\"border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;padding:0.2em 0.4em;background-color:rgb(234,236,240);text-align:center;\">Result</th><th style=\"border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;padding:0.2em 0.4em;background-color:rgb(234,236,240);text-align:center;\"><abbr title=\"Reference(s)\" style=\"border-bottom:0px;\">Ref.</abbr></th></tr><tr><td rowspan=\"4\" style=\"border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;padding:0.2em 0.4em;\"><a href=\"https://en.wikipedia.org/wiki/Hong_Kong_Film_Awards\" title=\"Hong Kong Film Awards\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Hong Kong Film Awards</a></td><td rowspan=\"4\" style=\"border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;padding:0.2em 0.4em;\"><b><a href=\"https://en.wikipedia.org/wiki/2nd_Hong_Kong_Film_Awards\" title=\"2nd Hong Kong Film Awards\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">1983</a></b></td><td style=\"border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;padding:0.2em 0.4em;\"><a href=\"https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Actor\" title=\"Hong Kong Film Award for Best Actor\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Best Actor</a></td><td style=\"border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;padding:0.2em 0.4em;\"><a href=\"https://en.wikipedia.org/wiki/Karl_Maka\" title=\"Karl Maka\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Karl Maka</a></td><td class=\"yes table-yes2 notheme\" style=\"border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;padding:0.2em 0.4em;background:rgb(158,255,158);color:rgb(0,0,0);vertical-align:middle;text-align:center;\">Won</td><td style=\"border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;padding:0.2em 0.4em;\"><sup class=\"mw-ref reference\" style=\"line-height:1;font-size:15.2px;\"><a href=\"https://en.wikipedia.org/wiki/Aces_Go_Places#cite_note-4\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\"><span class=\"mw-reflink-text\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></span></a></sup></td></tr><tr><td style=\"border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;padding:0.2em 0.4em;\"><a href=\"https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Actress\" title=\"Hong Kong Film Award for Best Actress\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Best Actress</a></td><td style=\"border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;padding:0.2em 0.4em;\"><a href=\"https://en.wikipedia.org/wiki/Sylvia_Chang\" title=\"Sylvia Chang\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Sylvia Chang</a></td><td class=\"no table-no2 notheme\" style=\"border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;padding:0.2em 0.4em;background:rgb(255,227,227);color:#000000;vertical-align:middle;text-align:center;\">Nominated</td><td style=\"border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;padding:0.2em 0.4em;\"></td></tr><tr><td style=\"border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;padding:0.2em 0.4em;\">Best Original Film Score</td><td style=\"border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;padding:0.2em 0.4em;\"><a href=\"https://en.wikipedia.org/wiki/Teddy_Robin\" title=\"Teddy Robin\" style=\"color:rgb(51,102,204);background:none;\" rel=\"ugc nofollow\">Teddy Robin</a></td><td class=\"no table-no2 notheme\" style=\"border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;padding:0.2em 0.4em;background:rgb(255,227,227);color:#000000;vertical-align:middle;text-align:center;\">Nominated</td><td style=\"border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;padding:0.2em 0.4em;\"></td></tr><tr><td style=\"border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;padding:0.2em 0.4em;\">Best Original Film Song</td><td style=\"border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;padding:0.2em 0.4em;\">\"最佳拍檔\" (\"Aces Go Places\")</td><td class=\"no table-no2 notheme\" style=\"border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;padding:0.2em 0.4em;background:rgb(255,227,227);color:#000000;vertical-align:middle;text-align:center;\">Nominated</td><td style=\"border-color:rgb(162,169,177);border-style:solid;border-width:0.727273px;padding:0.2em 0.4em;\"></td></tr></tbody></table>",
-      "year": "",
-      "type": "电影",
-      "region": "english-handwritten",
-      "episodes": [
-        {
-          "name": "播放",
-          "url": "https://archive.org/download/aces-go-places-1982_202610/01. Aces Go Places (1982).ia.mp4",
-          "urls": [
-            "https://archive.org/download/aces-go-places-1982_202610/01. Aces Go Places (1982).ia.mp4",
-            "https://archive.org/serve/aces-go-places-1982_202610/01. Aces Go Places (1982).ia.mp4"
-          ],
-          "line": "默认线路"
-        }
-      ],
-      "source_id": "aces-go-places-1982_202610",
-      "source_url": "https://archive.org/details/aces-go-places-1982_202610",
-      "license": "Public Domain / CC",
-      "status": "ok",
-      "poster": "images/poster_aces-go-places-1982_202610.jpg",
-      "id": "bd90ec9c-9807-4b41-a91c-1255915bbab3",
-      "created_at": "2026-10-30 01:16:18",
-      "updated_at": "2026-10-30 01:16:18",
-      "cover": "images/cover_aces-go-places-1982_202610.jpg",
-      "hero": {
-        "eligible": false,
-        "score": 56,
-        "grade": "F",
-        "source_available": true,
-        "source_health": 88,
-        "sources_count": 1,
-        "image_available": true,
-        "image_quality": 44,
-        "image_resolution": "none",
-        "image_match": 0.85,
-        "match_confidence": 0.85,
-        "has_hero_poster": false,
-        "has_backdrop": false,
-        "reasons": [
-          "no_hero_poster",
-          "no_backdrop",
-          "quality_insufficient"
-        ],
-        "updated_at": "2026-10-30 01:16:44"
-      },
-      "hero_assets": [
-        {
-          "kind": "backdrop",
-          "width": 180,
-          "height": 77,
-          "score": 44,
-          "source": "local_ia",
-          "match_confidence": 0.85,
-          "flags": []
-        }
-      ],
-      "hero_poster_url": "",
-      "hero_poster_width": 0,
-      "hero_poster_height": 0,
-      "backdrop_url": "",
-      "backdrop_width": 0,
-      "backdrop_height": 0,
-      "poster_width": 180,
-      "poster_height": 77
-    },
-    {
-      "title": "FILM Death Whisperer II",
-      "description": "Film",
-      "year": "",
-      "type": "电影",
-      "region": "pol",
-      "episodes": [
-        {
-          "name": "播放",
-          "url": "https://archive.org/download/film-death-whisperer-ii/FILM- Death Whisperer II.ia.mp4",
-          "urls": [
-            "https://archive.org/download/film-death-whisperer-ii/FILM- Death Whisperer II.ia.mp4",
-            "https://archive.org/serve/film-death-whisperer-ii/FILM- Death Whisperer II.ia.mp4"
-          ],
-          "line": "默认线路"
-        }
-      ],
-      "source_id": "film-death-whisperer-ii",
-      "source_url": "https://archive.org/details/film-death-whisperer-ii",
-      "license": "Public Domain / CC",
-      "status": "ok",
-      "poster": "images/poster_film-death-whisperer-ii.jpg",
-      "id": "dfecbbe8-c36f-40d4-aa89-3ef762898ac9",
-      "created_at": "2026-10-30 01:16:19",
-      "updated_at": "2026-10-30 01:16:19",
-      "cover": "images/cover_film-death-whisperer-ii.jpg",
-      "hero": {
-        "eligible": false,
-        "score": 56,
-        "grade": "F",
-        "source_available": true,
-        "source_health": 88,
-        "sources_count": 1,
-        "image_available": true,
-        "image_quality": 44,
-        "image_resolution": "none",
-        "image_match": 0.85,
-        "match_confidence": 0.85,
-        "has_hero_poster": false,
-        "has_backdrop": false,
-        "reasons": [
-          "no_hero_poster",
-          "no_backdrop",
-          "quality_insufficient"
-        ],
-        "updated_at": "2026-10-30 01:16:44"
-      },
-      "hero_assets": [
-        {
-          "kind": "backdrop",
-          "width": 180,
-          "height": 76,
-          "score": 44,
-          "source": "local_ia",
-          "match_confidence": 0.85,
-          "flags": []
-        }
-      ],
-      "hero_poster_url": "",
-      "hero_poster_width": 0,
-      "hero_poster_height": 0,
-      "backdrop_url": "",
-      "backdrop_width": 0,
-      "backdrop_height": 0,
-      "poster_width": 180,
-      "poster_height": 76
-    },
-    {
-      "title": "FILM Silent Love",
-      "description": "Film",
-      "year": "",
-      "type": "电影",
-      "region": "pol",
-      "episodes": [
-        {
-          "name": "播放",
-          "url": "https://archive.org/download/film-silent-love/FILM- Silent Love.ia.mp4",
-          "urls": [
-            "https://archive.org/download/film-silent-love/FILM- Silent Love.ia.mp4",
-            "https://archive.org/serve/film-silent-love/FILM- Silent Love.ia.mp4"
-          ],
-          "line": "默认线路"
-        }
-      ],
-      "source_id": "film-silent-love",
-      "source_url": "https://archive.org/details/film-silent-love",
-      "license": "Public Domain / CC",
-      "status": "ok",
-      "poster": "images/poster_film-silent-love.jpg",
-      "id": "a7b59536-fea8-4ee1-9b0e-00f990a43b86",
-      "created_at": "2026-10-30 01:16:20",
-      "updated_at": "2026-10-30 01:16:20",
-      "cover": "images/cover_film-silent-love.jpg",
-      "hero": {
-        "eligible": false,
-        "score": 56,
-        "grade": "F",
-        "source_available": true,
-        "source_health": 88,
-        "sources_count": 1,
-        "image_available": true,
-        "image_quality": 44,
-        "image_resolution": "none",
-        "image_match": 0.85,
-        "match_confidence": 0.85,
-        "has_hero_poster": false,
-        "has_backdrop": false,
-        "reasons": [
-          "no_hero_poster",
-          "no_backdrop",
-          "quality_insufficient"
-        ],
-        "updated_at": "2026-10-30 01:16:44"
-      },
-      "hero_assets": [
-        {
-          "kind": "backdrop",
-          "width": 180,
-          "height": 75,
-          "score": 44,
-          "source": "local_ia",
-          "match_confidence": 0.85,
-          "flags": []
-        }
-      ],
-      "hero_poster_url": "",
-      "hero_poster_width": 0,
-      "hero_poster_height": 0,
-      "backdrop_url": "",
-      "backdrop_width": 0,
-      "backdrop_height": 0,
-      "poster_width": 180,
-      "poster_height": 75
-    },
-    {
-      "title": "FILM Chihayafuru Musubi",
-      "description": "Film",
-      "year": "",
-      "type": "电影",
-      "region": "pol",
-      "episodes": [
-        {
-          "name": "播放",
-          "url": "https://archive.org/download/film-chihayafuru-musubi/FILM-Chihayafuru Musubi.ia.mp4",
-          "urls": [
-            "https://archive.org/download/film-chihayafuru-musubi/FILM-Chihayafuru Musubi.ia.mp4",
-            "https://archive.org/serve/film-chihayafuru-musubi/FILM-Chihayafuru Musubi.ia.mp4"
-          ],
-          "line": "默认线路"
-        }
-      ],
-      "source_id": "film-chihayafuru-musubi",
-      "source_url": "https://archive.org/details/film-chihayafuru-musubi",
-      "license": "Public Domain / CC",
-      "status": "ok",
-      "poster": "images/poster_film-chihayafuru-musubi.jpg",
-      "id": "a49d67ad-2094-413b-8776-89fbf4387f04",
-      "created_at": "2026-10-30 01:16:21",
-      "updated_at": "2026-10-30 01:16:21",
-      "cover": "images/cover_film-chihayafuru-musubi.jpg",
-      "hero": {
-        "eligible": false,
-        "score": 54,
-        "grade": "F",
-        "source_available": true,
-        "source_health": 88,
-        "sources_count": 1,
-        "image_available": true,
-        "image_quality": 38,
-        "image_resolution": "none",
-        "image_match": 0.85,
-        "match_confidence": 0.85,
-        "has_hero_poster": false,
-        "has_backdrop": false,
-        "reasons": [
-          "no_hero_poster",
-          "no_backdrop",
-          "quality_insufficient"
-        ],
-        "updated_at": "2026-10-30 01:16:44"
-      },
-      "hero_assets": [
-        {
-          "kind": "backdrop",
-          "width": 180,
-          "height": 63,
-          "score": 38,
-          "source": "local_ia",
-          "match_confidence": 0.85,
-          "flags": []
-        }
-      ],
-      "hero_poster_url": "",
-      "hero_poster_width": 0,
-      "hero_poster_height": 0,
-      "backdrop_url": "",
-      "backdrop_width": 0,
-      "backdrop_height": 0,
-      "poster_width": 180,
-      "poster_height": 63
-    },
-    {
-      "title": "Basuras Humanas (aka La Bastarda)(1972)",
+      "title": "Campo Arado (1959)",
       "description": "<font style=\"vertical-align:inherit;\"><font style=\"vertical-align:inherit;\">Película </font></font>",
       "year": "",
       "type": "电影",
@@ -478,32 +9,32 @@
       "episodes": [
         {
           "name": "播放",
-          "url": "https://archive.org/download/basuras-humanas-aka-la-bastarda-1972/Basuras humanas (aka La bastarda)(1972).mp4",
+          "url": "https://archive.org/download/campo-arado-1959/Campo arado (1959).mp4",
           "urls": [
-            "https://archive.org/download/basuras-humanas-aka-la-bastarda-1972/Basuras humanas (aka La bastarda)(1972).mp4",
-            "https://archive.org/serve/basuras-humanas-aka-la-bastarda-1972/Basuras humanas (aka La bastarda)(1972).mp4"
+            "https://archive.org/download/campo-arado-1959/Campo arado (1959).mp4",
+            "https://archive.org/serve/campo-arado-1959/Campo arado (1959).mp4"
           ],
           "line": "默认线路"
         }
       ],
-      "source_id": "basuras-humanas-aka-la-bastarda-1972",
-      "source_url": "https://archive.org/details/basuras-humanas-aka-la-bastarda-1972",
+      "source_id": "campo-arado-1959",
+      "source_url": "https://archive.org/details/campo-arado-1959",
       "license": "Public Domain / CC",
       "status": "ok",
-      "poster": "images/poster_basuras-humanas-aka-la-bastarda-1972.jpg",
-      "id": "e868d571-b951-4341-94fe-c6b7c0f42299",
-      "created_at": "2026-10-30 01:16:21",
-      "updated_at": "2026-10-30 01:16:21",
-      "cover": "images/cover_basuras-humanas-aka-la-bastarda-1972.jpg",
+      "poster": "images/poster_campo-arado-1959.jpg",
+      "id": "07c1fb54-e16e-48ff-b2f2-eceb4f11c09e",
+      "created_at": "2026-10-30 21:35:28",
+      "updated_at": "2026-10-30 21:35:28",
+      "cover": "images/cover_campo-arado-1959.jpg",
       "hero": {
         "eligible": false,
-        "score": 56,
+        "score": 60,
         "grade": "F",
         "source_available": true,
         "source_health": 88,
         "sources_count": 1,
         "image_available": true,
-        "image_quality": 43,
+        "image_quality": 54,
         "image_resolution": "none",
         "image_match": 0.85,
         "match_confidence": 0.85,
@@ -511,17 +42,214 @@
         "has_backdrop": false,
         "reasons": [
           "no_hero_poster",
-          "no_backdrop",
-          "quality_insufficient"
+          "no_backdrop"
         ],
-        "updated_at": "2026-10-30 01:16:44"
+        "updated_at": "2026-10-30 21:36:31"
+      },
+      "hero_assets": [
+        {
+          "kind": "backdrop",
+          "width": 180,
+          "height": 79,
+          "score": 54,
+          "source": "local_ia",
+          "match_confidence": 0.85,
+          "flags": []
+        }
+      ],
+      "hero_poster_url": "",
+      "hero_poster_width": 0,
+      "hero_poster_height": 0,
+      "backdrop_url": "",
+      "backdrop_width": 0,
+      "backdrop_height": 0,
+      "poster_width": 180,
+      "poster_height": 79
+    },
+    {
+      "title": "Los Maridos De Mama (1956)",
+      "description": "<font style=\"vertical-align:inherit;\"><font style=\"vertical-align:inherit;\">Película </font></font>",
+      "year": "",
+      "type": "电影",
+      "region": "spa",
+      "episodes": [
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/los-maridos-de-mama-1956/Los maridos de mama (1956).mp4",
+          "urls": [
+            "https://archive.org/download/los-maridos-de-mama-1956/Los maridos de mama (1956).mp4",
+            "https://archive.org/serve/los-maridos-de-mama-1956/Los maridos de mama (1956).mp4"
+          ],
+          "line": "默认线路"
+        }
+      ],
+      "source_id": "los-maridos-de-mama-1956",
+      "source_url": "https://archive.org/details/los-maridos-de-mama-1956",
+      "license": "Public Domain / CC",
+      "status": "ok",
+      "poster": "images/poster_los-maridos-de-mama-1956.jpg",
+      "id": "5d485a45-378d-4257-ab9a-c79937e8044c",
+      "created_at": "2026-10-30 21:35:30",
+      "updated_at": "2026-10-30 21:35:30",
+      "cover": "images/cover_los-maridos-de-mama-1956.jpg",
+      "hero": {
+        "eligible": false,
+        "score": 59,
+        "grade": "F",
+        "source_available": true,
+        "source_health": 88,
+        "sources_count": 1,
+        "image_available": true,
+        "image_quality": 53,
+        "image_resolution": "none",
+        "image_match": 0.85,
+        "match_confidence": 0.85,
+        "has_hero_poster": false,
+        "has_backdrop": false,
+        "reasons": [
+          "no_hero_poster",
+          "no_backdrop"
+        ],
+        "updated_at": "2026-10-30 21:36:31"
+      },
+      "hero_assets": [
+        {
+          "kind": "poster",
+          "width": 180,
+          "height": 141,
+          "score": 53,
+          "source": "local_ia",
+          "match_confidence": 0.85,
+          "flags": []
+        }
+      ],
+      "hero_poster_url": "",
+      "hero_poster_width": 0,
+      "hero_poster_height": 0,
+      "backdrop_url": "",
+      "backdrop_width": 0,
+      "backdrop_height": 0,
+      "poster_width": 180,
+      "poster_height": 141
+    },
+    {
+      "title": "Canario Rojo (1955)",
+      "description": "<font style=\"vertical-align:inherit;\"><font style=\"vertical-align:inherit;\">Película </font></font>",
+      "year": "",
+      "type": "电影",
+      "region": "spa",
+      "episodes": [
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/canario-rojo-1955/Canario rojo (1955).mp4",
+          "urls": [
+            "https://archive.org/download/canario-rojo-1955/Canario rojo (1955).mp4",
+            "https://archive.org/serve/canario-rojo-1955/Canario rojo (1955).mp4"
+          ],
+          "line": "默认线路"
+        }
+      ],
+      "source_id": "canario-rojo-1955",
+      "source_url": "https://archive.org/details/canario-rojo-1955",
+      "license": "Public Domain / CC",
+      "status": "ok",
+      "poster": "images/poster_canario-rojo-1955.jpg",
+      "id": "5935bf18-6414-4cab-9473-3b28173bcd4e",
+      "created_at": "2026-10-30 21:35:32",
+      "updated_at": "2026-10-30 21:35:32",
+      "cover": "images/cover_canario-rojo-1955.jpg",
+      "hero": {
+        "eligible": false,
+        "score": 63,
+        "grade": "F",
+        "source_available": true,
+        "source_health": 88,
+        "sources_count": 1,
+        "image_available": true,
+        "image_quality": 65,
+        "image_resolution": "none",
+        "image_match": 0.85,
+        "match_confidence": 0.85,
+        "has_hero_poster": false,
+        "has_backdrop": false,
+        "reasons": [
+          "no_hero_poster",
+          "no_backdrop"
+        ],
+        "updated_at": "2026-10-30 21:36:31"
+      },
+      "hero_assets": [
+        {
+          "kind": "backdrop",
+          "width": 180,
+          "height": 102,
+          "score": 65,
+          "source": "local_ia",
+          "match_confidence": 0.85,
+          "flags": []
+        }
+      ],
+      "hero_poster_url": "",
+      "hero_poster_width": 0,
+      "hero_poster_height": 0,
+      "backdrop_url": "",
+      "backdrop_width": 0,
+      "backdrop_height": 0,
+      "poster_width": 180,
+      "poster_height": 102
+    },
+    {
+      "title": "El Vampiro Negro (1953)",
+      "description": "<font style=\"vertical-align:inherit;\"><font style=\"vertical-align:inherit;\">Película </font></font>",
+      "year": "",
+      "type": "电影",
+      "region": "spa",
+      "episodes": [
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/el-vampiro-negro-1953/El vampiro negro (1953).mp4",
+          "urls": [
+            "https://archive.org/download/el-vampiro-negro-1953/El vampiro negro (1953).mp4",
+            "https://archive.org/serve/el-vampiro-negro-1953/El vampiro negro (1953).mp4"
+          ],
+          "line": "默认线路"
+        }
+      ],
+      "source_id": "el-vampiro-negro-1953",
+      "source_url": "https://archive.org/details/el-vampiro-negro-1953",
+      "license": "Public Domain / CC",
+      "status": "ok",
+      "poster": "images/poster_el-vampiro-negro-1953.jpg",
+      "id": "497370fa-3646-4234-a072-cbcabbac2c26",
+      "created_at": "2026-10-30 21:35:38",
+      "updated_at": "2026-10-30 21:35:38",
+      "cover": "images/cover_el-vampiro-negro-1953.jpg",
+      "hero": {
+        "eligible": false,
+        "score": 59,
+        "grade": "F",
+        "source_available": true,
+        "source_health": 88,
+        "sources_count": 1,
+        "image_available": true,
+        "image_quality": 53,
+        "image_resolution": "none",
+        "image_match": 0.85,
+        "match_confidence": 0.85,
+        "has_hero_poster": false,
+        "has_backdrop": false,
+        "reasons": [
+          "no_hero_poster",
+          "no_backdrop"
+        ],
+        "updated_at": "2026-10-30 21:36:31"
       },
       "hero_assets": [
         {
           "kind": "poster",
           "width": 180,
           "height": 144,
-          "score": 43,
+          "score": 53,
           "source": "local_ia",
           "match_confidence": 0.85,
           "flags": []
@@ -535,6 +263,271 @@
       "backdrop_height": 0,
       "poster_width": 180,
       "poster_height": 144
+    },
+    {
+      "title": "La Otra Y Yo (1949)",
+      "description": "<font style=\"vertical-align:inherit;\"><font style=\"vertical-align:inherit;\">Película </font></font>",
+      "year": "",
+      "type": "电影",
+      "region": "spa",
+      "episodes": [
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/la-otra-y-yo-1949/La otra y yo (1949).mp4",
+          "urls": [
+            "https://archive.org/download/la-otra-y-yo-1949/La otra y yo (1949).mp4",
+            "https://archive.org/serve/la-otra-y-yo-1949/La otra y yo (1949).mp4"
+          ],
+          "line": "默认线路"
+        }
+      ],
+      "source_id": "la-otra-y-yo-1949",
+      "source_url": "https://archive.org/details/la-otra-y-yo-1949",
+      "license": "Public Domain / CC",
+      "status": "ok",
+      "poster": "images/poster_la-otra-y-yo-1949.jpg",
+      "id": "3f7e7f37-64f9-41f1-8bd4-468c38d56305",
+      "created_at": "2026-10-30 21:35:42",
+      "updated_at": "2026-10-30 21:35:42",
+      "cover": "images/cover_la-otra-y-yo-1949.jpg",
+      "hero": {
+        "eligible": false,
+        "score": 59,
+        "grade": "F",
+        "source_available": true,
+        "source_health": 88,
+        "sources_count": 1,
+        "image_available": true,
+        "image_quality": 53,
+        "image_resolution": "none",
+        "image_match": 0.85,
+        "match_confidence": 0.85,
+        "has_hero_poster": false,
+        "has_backdrop": false,
+        "reasons": [
+          "no_hero_poster",
+          "no_backdrop"
+        ],
+        "updated_at": "2026-10-30 21:36:31"
+      },
+      "hero_assets": [
+        {
+          "kind": "poster",
+          "width": 180,
+          "height": 132,
+          "score": 53,
+          "source": "local_ia",
+          "match_confidence": 0.85,
+          "flags": []
+        }
+      ],
+      "hero_poster_url": "",
+      "hero_poster_width": 0,
+      "hero_poster_height": 0,
+      "backdrop_url": "",
+      "backdrop_width": 0,
+      "backdrop_height": 0,
+      "poster_width": 180,
+      "poster_height": 132
+    },
+    {
+      "title": "Pasion Imposible (1943)",
+      "description": "<font style=\"vertical-align:inherit;\"><font style=\"vertical-align:inherit;\">Película </font></font>",
+      "year": "",
+      "type": "电影",
+      "region": "spa",
+      "episodes": [
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/pasion-imposible-1943/Pasion imposible (1943).mp4",
+          "urls": [
+            "https://archive.org/download/pasion-imposible-1943/Pasion imposible (1943).mp4",
+            "https://archive.org/serve/pasion-imposible-1943/Pasion imposible (1943).mp4"
+          ],
+          "line": "默认线路"
+        }
+      ],
+      "source_id": "pasion-imposible-1943",
+      "source_url": "https://archive.org/details/pasion-imposible-1943",
+      "license": "Public Domain / CC",
+      "status": "ok",
+      "poster": "images/poster_pasion-imposible-1943.jpg",
+      "id": "015755f4-23a8-4fc1-9c62-bb63d26bdc16",
+      "created_at": "2026-10-30 21:35:47",
+      "updated_at": "2026-10-30 21:35:47",
+      "cover": "images/cover_pasion-imposible-1943.jpg",
+      "hero": {
+        "eligible": false,
+        "score": 59,
+        "grade": "F",
+        "source_available": true,
+        "source_health": 88,
+        "sources_count": 1,
+        "image_available": true,
+        "image_quality": 53,
+        "image_resolution": "none",
+        "image_match": 0.85,
+        "match_confidence": 0.85,
+        "has_hero_poster": false,
+        "has_backdrop": false,
+        "reasons": [
+          "no_hero_poster",
+          "no_backdrop"
+        ],
+        "updated_at": "2026-10-30 21:36:31"
+      },
+      "hero_assets": [
+        {
+          "kind": "poster",
+          "width": 180,
+          "height": 141,
+          "score": 53,
+          "source": "local_ia",
+          "match_confidence": 0.85,
+          "flags": []
+        }
+      ],
+      "hero_poster_url": "",
+      "hero_poster_width": 0,
+      "hero_poster_height": 0,
+      "backdrop_url": "",
+      "backdrop_width": 0,
+      "backdrop_height": 0,
+      "poster_width": 180,
+      "poster_height": 141
+    },
+    {
+      "title": "La Calle Corrientes (1943)",
+      "description": "<font style=\"vertical-align:inherit;\"><font style=\"vertical-align:inherit;\">Película </font></font>",
+      "year": "",
+      "type": "电影",
+      "region": "spa",
+      "episodes": [
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/la-calle-corrientes-1943/La calle Corrientes (1943).mp4",
+          "urls": [
+            "https://archive.org/download/la-calle-corrientes-1943/La calle Corrientes (1943).mp4",
+            "https://archive.org/serve/la-calle-corrientes-1943/La calle Corrientes (1943).mp4"
+          ],
+          "line": "默认线路"
+        }
+      ],
+      "source_id": "la-calle-corrientes-1943",
+      "source_url": "https://archive.org/details/la-calle-corrientes-1943",
+      "license": "Public Domain / CC",
+      "status": "ok",
+      "poster": "images/poster_la-calle-corrientes-1943.jpg",
+      "id": "e9f637d8-3d66-4039-8e43-454a3c8bb433",
+      "created_at": "2026-10-30 21:35:53",
+      "updated_at": "2026-10-30 21:35:53",
+      "cover": "images/cover_la-calle-corrientes-1943.jpg",
+      "hero": {
+        "eligible": false,
+        "score": 51,
+        "grade": "F",
+        "source_available": true,
+        "source_health": 88,
+        "sources_count": 1,
+        "image_available": true,
+        "image_quality": 30,
+        "image_resolution": "none",
+        "image_match": 0.85,
+        "match_confidence": 0.85,
+        "has_hero_poster": false,
+        "has_backdrop": false,
+        "reasons": [
+          "no_hero_poster",
+          "no_backdrop",
+          "quality_insufficient"
+        ],
+        "updated_at": "2026-10-30 21:36:31"
+      },
+      "hero_assets": [
+        {
+          "kind": "poster",
+          "width": 180,
+          "height": 135,
+          "score": 30,
+          "source": "local_ia",
+          "match_confidence": 0.85,
+          "flags": []
+        }
+      ],
+      "hero_poster_url": "",
+      "hero_poster_width": 0,
+      "hero_poster_height": 0,
+      "backdrop_url": "",
+      "backdrop_width": 0,
+      "backdrop_height": 0,
+      "poster_width": 180,
+      "poster_height": 135
+    },
+    {
+      "title": "Asi Te Quiero (1942)",
+      "description": "<font style=\"vertical-align:inherit;\"><font style=\"vertical-align:inherit;\">Película</font></font>",
+      "year": "",
+      "type": "电影",
+      "region": "spa",
+      "episodes": [
+        {
+          "name": "播放",
+          "url": "https://archive.org/download/asi-te-quiero-1942/Asi te quiero (1942).mp4",
+          "urls": [
+            "https://archive.org/download/asi-te-quiero-1942/Asi te quiero (1942).mp4",
+            "https://archive.org/serve/asi-te-quiero-1942/Asi te quiero (1942).mp4"
+          ],
+          "line": "默认线路"
+        }
+      ],
+      "source_id": "asi-te-quiero-1942",
+      "source_url": "https://archive.org/details/asi-te-quiero-1942",
+      "license": "Public Domain / CC",
+      "status": "ok",
+      "poster": "images/poster_asi-te-quiero-1942.jpg",
+      "id": "066a0270-d466-47d4-b1c3-fc47d4fc6188",
+      "created_at": "2026-10-30 21:36:00",
+      "updated_at": "2026-10-30 21:36:00",
+      "cover": "images/cover_asi-te-quiero-1942.jpg",
+      "hero": {
+        "eligible": false,
+        "score": 59,
+        "grade": "F",
+        "source_available": true,
+        "source_health": 88,
+        "sources_count": 1,
+        "image_available": true,
+        "image_quality": 53,
+        "image_resolution": "none",
+        "image_match": 0.85,
+        "match_confidence": 0.85,
+        "has_hero_poster": false,
+        "has_backdrop": false,
+        "reasons": [
+          "no_hero_poster",
+          "no_backdrop"
+        ],
+        "updated_at": "2026-10-30 21:36:31"
+      },
+      "hero_assets": [
+        {
+          "kind": "poster",
+          "width": 180,
+          "height": 136,
+          "score": 53,
+          "source": "local_ia",
+          "match_confidence": 0.85,
+          "flags": []
+        }
+      ],
+      "hero_poster_url": "",
+      "hero_poster_width": 0,
+      "hero_poster_height": 0,
+      "backdrop_url": "",
+      "backdrop_width": 0,
+      "backdrop_height": 0,
+      "poster_width": 180,
+      "poster_height": 136
     },
     {
       "title": "Home Movie: 012058",
@@ -558,19 +551,19 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_204403_Home_Movie_012058.jpg",
-      "id": "282a2ca8-9659-428d-975b-f6c20821b8bb",
-      "created_at": "2026-10-30 01:16:22",
-      "updated_at": "2026-10-30 01:16:22",
+      "id": "013306c8-d026-46bd-b121-a2229e63718f",
+      "created_at": "2026-10-30 21:36:08",
+      "updated_at": "2026-10-30 21:36:08",
       "cover": "images/cover_204403_Home_Movie_012058.jpg",
       "hero": {
         "eligible": false,
-        "score": 56,
+        "score": 59,
         "grade": "F",
         "source_available": true,
         "source_health": 88,
         "sources_count": 1,
         "image_available": true,
-        "image_quality": 43,
+        "image_quality": 53,
         "image_resolution": "none",
         "image_match": 0.85,
         "match_confidence": 0.85,
@@ -578,17 +571,16 @@
         "has_backdrop": false,
         "reasons": [
           "no_hero_poster",
-          "no_backdrop",
-          "quality_insufficient"
+          "no_backdrop"
         ],
-        "updated_at": "2026-10-30 01:16:44"
+        "updated_at": "2026-10-30 21:36:31"
       },
       "hero_assets": [
         {
           "kind": "poster",
           "width": 180,
           "height": 135,
-          "score": 43,
+          "score": 53,
           "source": "local_ia",
           "match_confidence": 0.85,
           "flags": []
@@ -625,19 +617,19 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_206134_Frank_Putnam_Flint_Memorial_Interviews.jpg",
-      "id": "d4f06bc6-7fd2-4e82-af2f-61fe77890cf5",
-      "created_at": "2026-10-30 01:16:23",
-      "updated_at": "2026-10-30 01:16:23",
+      "id": "ce8356b4-f7b5-43c8-b285-1c3820759649",
+      "created_at": "2026-10-30 21:36:10",
+      "updated_at": "2026-10-30 21:36:10",
       "cover": "images/cover_206134_Frank_Putnam_Flint_Memorial_Interviews.jpg",
       "hero": {
         "eligible": false,
-        "score": 56,
+        "score": 59,
         "grade": "F",
         "source_available": true,
         "source_health": 88,
         "sources_count": 1,
         "image_available": true,
-        "image_quality": 43,
+        "image_quality": 53,
         "image_resolution": "none",
         "image_match": 0.85,
         "match_confidence": 0.85,
@@ -645,17 +637,16 @@
         "has_backdrop": false,
         "reasons": [
           "no_hero_poster",
-          "no_backdrop",
-          "quality_insufficient"
+          "no_backdrop"
         ],
-        "updated_at": "2026-10-30 01:16:44"
+        "updated_at": "2026-10-30 21:36:31"
       },
       "hero_assets": [
         {
           "kind": "poster",
           "width": 180,
           "height": 135,
-          "score": 43,
+          "score": 53,
           "source": "local_ia",
           "match_confidence": 0.85,
           "flags": []
@@ -692,19 +683,19 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_206125_Home_Movie_099848.jpg",
-      "id": "2d6e4ccd-9bd0-4776-9b9e-36177f1be8c2",
-      "created_at": "2026-10-30 01:16:24",
-      "updated_at": "2026-10-30 01:16:24",
+      "id": "56182e21-02c2-4614-867c-3fdece2e82c3",
+      "created_at": "2026-10-30 21:36:12",
+      "updated_at": "2026-10-30 21:36:12",
       "cover": "images/cover_206125_Home_Movie_099848.jpg",
       "hero": {
         "eligible": false,
-        "score": 56,
+        "score": 59,
         "grade": "F",
         "source_available": true,
         "source_health": 88,
         "sources_count": 1,
         "image_available": true,
-        "image_quality": 43,
+        "image_quality": 53,
         "image_resolution": "none",
         "image_match": 0.85,
         "match_confidence": 0.85,
@@ -712,17 +703,16 @@
         "has_backdrop": false,
         "reasons": [
           "no_hero_poster",
-          "no_backdrop",
-          "quality_insufficient"
+          "no_backdrop"
         ],
-        "updated_at": "2026-10-30 01:16:44"
+        "updated_at": "2026-10-30 21:36:31"
       },
       "hero_assets": [
         {
           "kind": "poster",
           "width": 180,
           "height": 135,
-          "score": 43,
+          "score": 53,
           "source": "local_ia",
           "match_confidence": 0.85,
           "flags": []
@@ -768,19 +758,19 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_205917_Phal_Collection_011821.jpg",
-      "id": "366ce180-0ad2-4dfb-9389-da5fe5e43bf7",
-      "created_at": "2026-10-30 01:16:24",
-      "updated_at": "2026-10-30 01:16:24",
+      "id": "3e789d53-fb94-48ae-8b99-e4f2507fe3a9",
+      "created_at": "2026-10-30 21:36:14",
+      "updated_at": "2026-10-30 21:36:14",
       "cover": "images/cover_205917_Phal_Collection_011821.jpg",
       "hero": {
         "eligible": false,
-        "score": 57,
+        "score": 61,
         "grade": "F",
         "source_available": true,
         "source_health": 88,
         "sources_count": 2,
         "image_available": true,
-        "image_quality": 43,
+        "image_quality": 53,
         "image_resolution": "none",
         "image_match": 0.85,
         "match_confidence": 0.85,
@@ -788,17 +778,16 @@
         "has_backdrop": false,
         "reasons": [
           "no_hero_poster",
-          "no_backdrop",
-          "quality_insufficient"
+          "no_backdrop"
         ],
-        "updated_at": "2026-10-30 01:16:44"
+        "updated_at": "2026-10-30 21:36:31"
       },
       "hero_assets": [
         {
           "kind": "poster",
           "width": 180,
           "height": 135,
-          "score": 43,
+          "score": 53,
           "source": "local_ia",
           "match_confidence": 0.85,
           "flags": []
@@ -835,19 +824,19 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_205898_Marks_Collection_096351.jpg",
-      "id": "9c6382c1-e7b5-4f96-983d-3d78abd3107e",
-      "created_at": "2026-10-30 01:16:26",
-      "updated_at": "2026-10-30 01:16:26",
+      "id": "e557647b-775f-4d12-921f-f5323d3eda86",
+      "created_at": "2026-10-30 21:36:15",
+      "updated_at": "2026-10-30 21:36:15",
       "cover": "images/cover_205898_Marks_Collection_096351.jpg",
       "hero": {
         "eligible": false,
-        "score": 56,
+        "score": 59,
         "grade": "F",
         "source_available": true,
         "source_health": 88,
         "sources_count": 1,
         "image_available": true,
-        "image_quality": 43,
+        "image_quality": 53,
         "image_resolution": "none",
         "image_match": 0.85,
         "match_confidence": 0.85,
@@ -855,17 +844,16 @@
         "has_backdrop": false,
         "reasons": [
           "no_hero_poster",
-          "no_backdrop",
-          "quality_insufficient"
+          "no_backdrop"
         ],
-        "updated_at": "2026-10-30 01:16:44"
+        "updated_at": "2026-10-30 21:36:31"
       },
       "hero_assets": [
         {
           "kind": "poster",
           "width": 180,
           "height": 135,
-          "score": 43,
+          "score": 53,
           "source": "local_ia",
           "match_confidence": 0.85,
           "flags": []
@@ -902,19 +890,19 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_205894_Marks_Collection_096352.jpg",
-      "id": "c40cde25-6483-4818-91c8-149964b561f7",
-      "created_at": "2026-10-30 01:16:27",
-      "updated_at": "2026-10-30 01:16:27",
+      "id": "5b081612-c6ad-4a5d-b076-5667f21decff",
+      "created_at": "2026-10-30 21:36:16",
+      "updated_at": "2026-10-30 21:36:16",
       "cover": "images/cover_205894_Marks_Collection_096352.jpg",
       "hero": {
         "eligible": false,
-        "score": 56,
+        "score": 59,
         "grade": "F",
         "source_available": true,
         "source_health": 88,
         "sources_count": 1,
         "image_available": true,
-        "image_quality": 43,
+        "image_quality": 53,
         "image_resolution": "none",
         "image_match": 0.85,
         "match_confidence": 0.85,
@@ -922,17 +910,16 @@
         "has_backdrop": false,
         "reasons": [
           "no_hero_poster",
-          "no_backdrop",
-          "quality_insufficient"
+          "no_backdrop"
         ],
-        "updated_at": "2026-10-30 01:16:44"
+        "updated_at": "2026-10-30 21:36:31"
       },
       "hero_assets": [
         {
           "kind": "poster",
           "width": 180,
           "height": 135,
-          "score": 43,
+          "score": 53,
           "source": "local_ia",
           "match_confidence": 0.85,
           "flags": []
@@ -969,19 +956,19 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_205766_Laubscher_Collection_010417.jpg",
-      "id": "b25a6b34-7d24-4e11-aedc-7e4dddb12cbc",
-      "created_at": "2026-10-30 01:16:27",
-      "updated_at": "2026-10-30 01:16:27",
+      "id": "0dc58482-56cc-4b03-b936-b136ee7399e3",
+      "created_at": "2026-10-30 21:36:17",
+      "updated_at": "2026-10-30 21:36:17",
       "cover": "images/cover_205766_Laubscher_Collection_010417.jpg",
       "hero": {
         "eligible": false,
-        "score": 56,
+        "score": 59,
         "grade": "F",
         "source_available": true,
         "source_health": 88,
         "sources_count": 1,
         "image_available": true,
-        "image_quality": 43,
+        "image_quality": 53,
         "image_resolution": "none",
         "image_match": 0.85,
         "match_confidence": 0.85,
@@ -989,17 +976,16 @@
         "has_backdrop": false,
         "reasons": [
           "no_hero_poster",
-          "no_backdrop",
-          "quality_insufficient"
+          "no_backdrop"
         ],
-        "updated_at": "2026-10-30 01:16:44"
+        "updated_at": "2026-10-30 21:36:31"
       },
       "hero_assets": [
         {
           "kind": "poster",
           "width": 180,
           "height": 135,
-          "score": 43,
+          "score": 53,
           "source": "local_ia",
           "match_confidence": 0.85,
           "flags": []
@@ -1036,19 +1022,19 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_205697_Cal_State_Colleges.jpg",
-      "id": "3bfd5a24-2056-4843-b36b-26f0a9818364",
-      "created_at": "2026-10-30 01:16:28",
-      "updated_at": "2026-10-30 01:16:28",
+      "id": "77b89ed3-0d4f-4346-a43b-33cfa22d5d4e",
+      "created_at": "2026-10-30 21:36:18",
+      "updated_at": "2026-10-30 21:36:18",
       "cover": "images/cover_205697_Cal_State_Colleges.jpg",
       "hero": {
         "eligible": false,
-        "score": 54,
+        "score": 57,
         "grade": "F",
         "source_available": true,
         "source_health": 88,
         "sources_count": 1,
         "image_available": true,
-        "image_quality": 37,
+        "image_quality": 47,
         "image_resolution": "none",
         "image_match": 0.85,
         "match_confidence": 0.85,
@@ -1059,14 +1045,14 @@
           "no_backdrop",
           "quality_insufficient"
         ],
-        "updated_at": "2026-10-30 01:16:44"
+        "updated_at": "2026-10-30 21:36:31"
       },
       "hero_assets": [
         {
           "kind": "poster",
           "width": 180,
           "height": 135,
-          "score": 37,
+          "score": 47,
           "source": "local_ia",
           "match_confidence": 0.85,
           "flags": []
@@ -1103,19 +1089,19 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_rain-and-our-backyard.jpg",
-      "id": "f5fa7c91-711e-437c-b5ee-498e95f93b26",
-      "created_at": "2026-10-30 01:16:29",
-      "updated_at": "2026-10-30 01:16:29",
+      "id": "6439b8c5-1df2-49e2-9f40-376997364347",
+      "created_at": "2026-10-30 21:36:19",
+      "updated_at": "2026-10-30 21:36:19",
       "cover": "images/cover_rain-and-our-backyard.jpg",
       "hero": {
         "eligible": false,
-        "score": 60,
+        "score": 63,
         "grade": "F",
         "source_available": true,
         "source_health": 88,
         "sources_count": 1,
         "image_available": true,
-        "image_quality": 55,
+        "image_quality": 65,
         "image_resolution": "none",
         "image_match": 0.85,
         "match_confidence": 0.85,
@@ -1125,14 +1111,14 @@
           "no_hero_poster",
           "no_backdrop"
         ],
-        "updated_at": "2026-10-30 01:16:44"
+        "updated_at": "2026-10-30 21:36:31"
       },
       "hero_assets": [
         {
           "kind": "backdrop",
           "width": 180,
           "height": 102,
-          "score": 55,
+          "score": 65,
           "source": "local_ia",
           "match_confidence": 0.85,
           "flags": []
@@ -2186,19 +2172,19 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_video-traxx-volume-3-24-planes-trains-autos.jpg",
-      "id": "ecf3417e-59ac-46e7-9c02-f7cf13f1aeda",
-      "created_at": "2026-10-30 01:16:30",
-      "updated_at": "2026-10-30 01:16:30",
+      "id": "16b0be66-ccc8-4fa7-aedc-f1df55227f01",
+      "created_at": "2026-10-30 21:36:19",
+      "updated_at": "2026-10-30 21:36:19",
       "cover": "images/cover_video-traxx-volume-3-24-planes-trains-autos.jpg",
       "hero": {
         "eligible": false,
-        "score": 59,
+        "score": 62,
         "grade": "F",
         "source_available": true,
         "source_health": 88,
         "sources_count": 114,
         "image_available": true,
-        "image_quality": 43,
+        "image_quality": 53,
         "image_resolution": "none",
         "image_match": 0.85,
         "match_confidence": 0.85,
@@ -2206,17 +2192,16 @@
         "has_backdrop": false,
         "reasons": [
           "no_hero_poster",
-          "no_backdrop",
-          "quality_insufficient"
+          "no_backdrop"
         ],
-        "updated_at": "2026-10-30 01:16:44"
+        "updated_at": "2026-10-30 21:36:31"
       },
       "hero_assets": [
         {
           "kind": "poster",
           "width": 180,
           "height": 135,
-          "score": 43,
+          "score": 53,
           "source": "local_ia",
           "match_confidence": 0.85,
           "flags": []
@@ -2253,19 +2238,19 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_trans-canada-westbound-part-201-bc-north-shore-daydream-inst.jpg",
-      "id": "4796e062-9d3a-47cc-8f29-3c2a4a38b28c",
-      "created_at": "2026-10-30 01:16:36",
-      "updated_at": "2026-10-30 01:16:36",
+      "id": "dbf9f80f-0b30-4cca-9bb8-b9991be06ff7",
+      "created_at": "2026-10-30 21:36:20",
+      "updated_at": "2026-10-30 21:36:20",
       "cover": "images/cover_trans-canada-westbound-part-201-bc-north-shore-daydream-inst.jpg",
       "hero": {
         "eligible": false,
-        "score": 60,
+        "score": 63,
         "grade": "F",
         "source_available": true,
         "source_health": 88,
         "sources_count": 1,
         "image_available": true,
-        "image_quality": 55,
+        "image_quality": 65,
         "image_resolution": "none",
         "image_match": 0.85,
         "match_confidence": 0.85,
@@ -2275,14 +2260,14 @@
           "no_hero_poster",
           "no_backdrop"
         ],
-        "updated_at": "2026-10-30 01:16:44"
+        "updated_at": "2026-10-30 21:36:31"
       },
       "hero_assets": [
         {
           "kind": "backdrop",
           "width": 180,
           "height": 101,
-          "score": 55,
+          "score": 65,
           "source": "local_ia",
           "match_confidence": 0.85,
           "flags": []
@@ -2319,19 +2304,19 @@
       "license": "Public Domain / CC",
       "status": "ok",
       "poster": "images/poster_trans-canada-westbound-part-150-saskatchewan-serendipity-inst.jpg",
-      "id": "1ea1330e-9b31-4faf-919f-538084df43dc",
-      "created_at": "2026-10-30 01:16:38",
-      "updated_at": "2026-10-30 01:16:38",
+      "id": "f84d6a01-cdd7-459b-98e5-58257371c3f4",
+      "created_at": "2026-10-30 21:36:26",
+      "updated_at": "2026-10-30 21:36:26",
       "cover": "images/cover_trans-canada-westbound-part-150-saskatchewan-serendipity-inst.jpg",
       "hero": {
         "eligible": false,
-        "score": 60,
+        "score": 63,
         "grade": "F",
         "source_available": true,
         "source_health": 88,
         "sources_count": 1,
         "image_available": true,
-        "image_quality": 55,
+        "image_quality": 65,
         "image_resolution": "none",
         "image_match": 0.85,
         "match_confidence": 0.85,
@@ -2341,14 +2326,14 @@
           "no_hero_poster",
           "no_backdrop"
         ],
-        "updated_at": "2026-10-30 01:16:44"
+        "updated_at": "2026-10-30 21:36:31"
       },
       "hero_assets": [
         {
           "kind": "backdrop",
           "width": 180,
           "height": 101,
-          "score": 55,
+          "score": 65,
           "source": "local_ia",
           "match_confidence": 0.85,
           "flags": []
@@ -2366,53 +2351,53 @@
   ],
   "logs": [
     {
-      "time": "2026-10-30 01:16:44",
+      "time": "2026-10-30 21:36:31",
       "level": "info",
       "msg": "Hero 契约生成：eligible 0 / 总 20（有源 20，Hero海报 0，Backdrop 0）"
     },
     {
-      "time": "2026-10-30 01:16:44",
+      "time": "2026-10-30 21:36:31",
       "level": "info",
       "msg": "Hero 评估完成：eligible 0 / 总 20（有源 20，Hero海报 0，Backdrop 0）"
     },
     {
-      "time": "2026-10-30 01:16:44",
+      "time": "2026-10-30 21:36:31",
       "level": "info",
       "msg": "今日精选生成：第 6918 批 / 共 5 部（每 3 天轮换）"
     },
     {
-      "time": "2026-10-30 01:16:44",
+      "time": "2026-10-30 21:36:31",
       "level": "info",
       "msg": "海报仓库导出：20 部影片 → repo/img 20 张, repo/slide 0 张"
     },
     {
-      "time": "2026-10-30 01:16:43",
+      "time": "2026-10-30 21:36:31",
       "level": "info",
       "msg": "海报仓库刷新完成：库 20 部 | 补齐 20 | repo/img 20 张, slide 0 张 | 精选 5 部"
     },
     {
-      "time": "2026-10-30 01:16:43",
+      "time": "2026-10-30 21:36:31",
       "level": "info",
       "msg": "今日精选生成：第 6918 批 / 共 5 部（每 3 天轮换）"
     },
     {
-      "time": "2026-10-30 01:16:43",
+      "time": "2026-10-30 21:36:31",
       "level": "info",
       "msg": "海报仓库导出：20 部影片 → repo/img 20 张, repo/slide 0 张"
     },
     {
-      "time": "2026-10-30 01:16:43",
+      "time": "2026-10-30 21:36:31",
       "level": "info",
       "msg": "海报补齐：新增 20 / 无图源 0 / 失败 0"
     },
     {
-      "time": "2026-10-30 01:16:38",
+      "time": "2026-10-30 21:36:26",
       "level": "info",
       "msg": "自动更新：新增 20 部",
       "count": 20
     },
     {
-      "time": "2026-10-30 01:16:10",
+      "time": "2026-10-30 21:35:27",
       "level": "info",
       "msg": "auto_feed 发现候选 24 部（来自 1 个启用的源）"
     }

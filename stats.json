@@ -1,6 +1,6 @@
 {
   "app": "FilmCollector",
-  "generated_at": "2026-10-30T01:16:44",
+  "generated_at": "2026-10-30T21:36:31",
   "total": 20,
   "total_including_dead": 20,
   "by_type": {
@@ -27,42 +27,42 @@
   "blocked": false,
   "top": [
     {
-      "title": "FILM Jade Dynasty",
+      "title": "Campo Arado (1959)",
       "score": 66,
       "type": ""
     },
     {
-      "title": "FILM The Silent Forest",
+      "title": "Los Maridos De Mama (1956)",
       "score": 66,
       "type": ""
     },
     {
-      "title": "Aces Go Places II (1983)",
+      "title": "Canario Rojo (1955)",
       "score": 66,
       "type": ""
     },
     {
-      "title": "Aces Go Places (1982)",
+      "title": "El Vampiro Negro (1953)",
       "score": 66,
       "type": ""
     },
     {
-      "title": "FILM Death Whisperer II",
+      "title": "La Otra Y Yo (1949)",
       "score": 66,
       "type": ""
     },
     {
-      "title": "FILM Silent Love",
+      "title": "Pasion Imposible (1943)",
       "score": 66,
       "type": ""
     },
     {
-      "title": "FILM Chihayafuru Musubi",
+      "title": "La Calle Corrientes (1943)",
       "score": 66,
       "type": ""
     },
     {
-      "title": "Basuras Humanas (aka La Bastarda)(1972)",
+      "title": "Asi Te Quiero (1942)",
       "score": 66,
       "type": ""
     },
