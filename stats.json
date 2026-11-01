@@ -1,18 +1,50 @@
 {
   "app": "FilmCollector",
-  "generated_at": "2026-11-01T14:56:47",
-  "total": 148,
-  "total_including_dead": 148,
+  "generated_at": "2026-11-01T18:45:57",
+  "total": 151,
+  "total_including_dead": 151,
   "by_type": {
-    "电影": 148
+    "电影": 3,
+    "家庭篇": 46,
+    "纪录片": 3,
+    "动作片": 49,
+    "动画片": 50
   },
   "by_year": {
-    "未知": 144,
-    "2005": 1,
-    "2022": 3
+    "2022": 6,
+    "2026": 67,
+    "2025": 16,
+    "2024": 4,
+    "2016": 6,
+    "2023": 2,
+    "2019": 6,
+    "2018": 4,
+    "2015": 2,
+    "2014": 2,
+    "2020": 4,
+    "2002": 2,
+    "2013": 4,
+    "2004": 2,
+    "2007": 2,
+    "2017": 2,
+    "1997": 1,
+    "1998": 1,
+    "2021": 2,
+    "2012": 3,
+    "1991": 1,
+    "1985": 1,
+    "2005": 2,
+    "1999": 1,
+    "2000": 1,
+    "2001": 1,
+    "2003": 1,
+    "2006": 1,
+    "2011": 2,
+    "1992": 1,
+    "1994": 1
   },
   "resource_health": {
-    "active": 276,
+    "active": 199,
     "warning": 0,
     "degraded": 0,
     "disabled": 0
@@ -21,111 +53,111 @@
     "0-20": 0,
     "21-40": 0,
     "41-60": 0,
-    "61-80": 148,
+    "61-80": 151,
     "81-100": 0
   },
   "last_run_added": 0,
   "blocked": false,
   "top": [
     {
-      "title": "Campo Arado (1959)",
+      "title": "Manitoba Grapevine",
       "score": 66,
-      "type": ""
+      "type": "2022"
     },
     {
-      "title": "Los Maridos De Mama (1956)",
+      "title": "Manitoba Goodwill",
       "score": 66,
-      "type": ""
+      "type": "2022"
     },
     {
-      "title": "Canario Rojo (1955)",
+      "title": "Manitoba Gila Monster",
       "score": 66,
-      "type": ""
+      "type": "2022"
     },
     {
-      "title": "El Vampiro Negro (1953)",
+      "title": "春生回家",
       "score": 66,
-      "type": ""
+      "type": "2026"
     },
     {
-      "title": "La Otra Y Yo (1949)",
+      "title": "奇幻之家",
       "score": 66,
-      "type": ""
+      "type": "2025"
     },
     {
-      "title": "Pasion Imposible (1943)",
+      "title": "苏河的母亲",
       "score": 66,
-      "type": ""
+      "type": "2025"
     },
     {
-      "title": "La Calle Corrientes (1943)",
+      "title": "我不是爱神",
       "score": 66,
-      "type": ""
+      "type": "2025"
     },
     {
-      "title": "Asi Te Quiero (1942)",
+      "title": "岁月如诗",
       "score": 66,
-      "type": ""
+      "type": "2025"
     },
     {
-      "title": "El Grito De La Juventud (1939)",
+      "title": "来自汪星的你",
       "score": 66,
-      "type": ""
+      "type": "2024"
     },
     {
-      "title": "El Matrero (1939)",
+      "title": "幽蓝幻境",
       "score": 66,
-      "type": ""
+      "type": "2016"
     },
     {
-      "title": "Los Apuros De Claudina (1938)",
+      "title": "伯利恒之旅",
       "score": 66,
-      "type": ""
+      "type": "2023"
     },
     {
-      "title": "FILM Jade Dynasty",
+      "title": "爱探险的朵拉：消失的黄金城",
       "score": 66,
-      "type": ""
+      "type": "2019"
     },
     {
-      "title": "FILM The Silent Forest",
+      "title": "自由之缰:圣诞夜的马叫",
       "score": 66,
-      "type": ""
+      "type": "2018"
     },
     {
-      "title": "Aces Go Places II (1983)",
+      "title": "长大的世界没有童话",
       "score": 66,
-      "type": ""
+      "type": "2022"
     },
     {
-      "title": "Aces Go Places (1982)",
+      "title": "变形记之旭日东升",
       "score": 66,
-      "type": ""
+      "type": "2023"
     },
     {
-      "title": "FILM Death Whisperer II",
+      "title": "海龟故事",
       "score": 66,
-      "type": ""
+      "type": "2015"
     },
     {
-      "title": "FILM Silent Love",
+      "title": "托斯塔纳天堂",
       "score": 66,
-      "type": ""
+      "type": "2016"
     },
     {
-      "title": "FILM Chihayafuru Musubi",
+      "title": "我想要的圣诞礼物",
       "score": 66,
-      "type": ""
+      "type": "2014"
     },
     {
-      "title": "Basuras Humanas (aka La Bastarda)(1972)",
+      "title": "铃儿响叮当",
       "score": 66,
-      "type": ""
+      "type": "2020"
     },
     {
-      "title": "En Carne Viva (1954)",
+      "title": "金剪刀",
       "score": 66,
-      "type": ""
+      "type": "2002"
     }
   ],
   "base": "https://lidawei1985.github.io/filmcollector-pages/"
