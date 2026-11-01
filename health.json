@@ -1,12 +1,12 @@
 {
   "app": "FilmCollector",
   "status": "ok",
-  "updated_at": "2026-11-01T00:20:49",
-  "total": 20,
-  "last_run_added": 20,
+  "updated_at": "2026-11-01T14:56:47",
+  "total": 148,
+  "last_run_added": 148,
   "blocked": false,
   "resource_health": {
-    "active": 134,
+    "active": 276,
     "warning": 0,
     "degraded": 0,
     "disabled": 0,
