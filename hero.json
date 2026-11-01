@@ -1,7 +1,7 @@
 {
   "code": 1,
   "msg": "ok",
-  "updated_at": "2026-10-31T00:58:11",
+  "updated_at": "2026-11-01T00:20:49",
   "stats": {
     "total": 20,
     "with_source": 20,
@@ -19,7 +19,7 @@
   "heroes": [
     {
       "hero_eligible": false,
-      "movie_id": "f1d9dad0-fe1f-45f0-8cb0-888f7d9f84fb",
+      "movie_id": "abca4e83-5fc6-4ab0-890c-b9f2c4cbd0de",
       "title": "Canario Rojo (1955)",
       "source_available": true,
       "source_health": 88,
@@ -42,7 +42,7 @@
     },
     {
       "hero_eligible": false,
-      "movie_id": "a3f55221-25cb-42d6-a698-7540ef8858b2",
+      "movie_id": "be5b76e8-3eb7-41e3-af18-f13c3252bf3d",
       "title": "Rain and our backyard",
       "source_available": true,
       "source_health": 88,
@@ -65,7 +65,7 @@
     },
     {
       "hero_eligible": false,
-      "movie_id": "08ee8d1c-22f6-44b1-9bac-5e2e61baf835",
+      "movie_id": "fb11f596-953e-4c0d-8431-934b6fbd23d2",
       "title": "British Columbia North Shore Daydream",
       "source_available": true,
       "source_health": 88,
@@ -88,7 +88,7 @@
     },
     {
       "hero_eligible": false,
-      "movie_id": "5f6f81ec-3439-4873-a186-b2d1caf671fb",
+      "movie_id": "5c5c59aa-1498-4b9d-96d3-5bbada184c8e",
       "title": "Saskatchewan Serendipity",
       "source_available": true,
       "source_health": 88,
@@ -111,7 +111,7 @@
     },
     {
       "hero_eligible": false,
-      "movie_id": "4c7e4a34-7368-4f48-af04-98688545f7be",
+      "movie_id": "f6d3bded-7018-49d5-88c4-ff28b36d2170",
       "title": "VideoTraxx: Film & Video Library Volume 3: Disc # 24 Planes, Trains and Autos",
       "source_available": true,
       "source_health": 88,
@@ -135,7 +135,7 @@
     },
     {
       "hero_eligible": false,
-      "movie_id": "0fee140d-34c9-4e7c-a8cc-91225b7cc756",
+      "movie_id": "829f7dce-9802-4331-ba95-086ad9ac8cac",
       "title": "Home Movie: Phal Collection: 011821",
       "source_available": true,
       "source_health": 88,
@@ -159,7 +159,7 @@
     },
     {
       "hero_eligible": false,
-      "movie_id": "f63ed6c3-cf71-42fe-bdf0-268cc4670e79",
+      "movie_id": "8a5da3a3-1e63-43fc-b00a-3650a4ab9144",
       "title": "Campo Arado (1959)",
       "source_available": true,
       "source_health": 88,
@@ -183,7 +183,7 @@
     },
     {
       "hero_eligible": false,
-      "movie_id": "36ff808f-8c9b-456a-b1e9-9463e9ac6e40",
+      "movie_id": "b333ed41-5b1d-4f0d-9951-c607500bacec",
       "title": "Los Maridos De Mama (1956)",
       "source_available": true,
       "source_health": 88,
@@ -207,7 +207,7 @@
     },
     {
       "hero_eligible": false,
-      "movie_id": "22c7436d-28bb-4d82-8286-c4997e1d1b85",
+      "movie_id": "63c31a5b-54ff-46d0-bdaa-72ec287f46c6",
       "title": "El Vampiro Negro (1953)",
       "source_available": true,
       "source_health": 88,
@@ -231,7 +231,7 @@
     },
     {
       "hero_eligible": false,
-      "movie_id": "3b9d6ca2-ee1e-4e69-ae85-e4ca5d67dcaf",
+      "movie_id": "ee4e8f5e-22e5-4312-b7ee-a8a102497a33",
       "title": "La Otra Y Yo (1949)",
       "source_available": true,
       "source_health": 88,
@@ -255,7 +255,7 @@
     },
     {
       "hero_eligible": false,
-      "movie_id": "021fc812-3ce4-4179-8f35-ec76cec7ed60",
+      "movie_id": "941e8614-c603-4d7e-8fcd-1bccae3762cd",
       "title": "Pasion Imposible (1943)",
       "source_available": true,
       "source_health": 88,
@@ -279,7 +279,7 @@
     },
     {
       "hero_eligible": false,
-      "movie_id": "d7a6d450-317f-4af8-ab37-b60113b522b2",
+      "movie_id": "a2db4f93-76ae-4901-9679-54dd83fb48b3",
       "title": "Asi Te Quiero (1942)",
       "source_available": true,
       "source_health": 88,
@@ -303,7 +303,7 @@
     },
     {
       "hero_eligible": false,
-      "movie_id": "f14aec4f-c0f5-40fe-a4ed-58211e0fb68c",
+      "movie_id": "93f833af-75ab-492b-a4bb-24aee15d34b5",
       "title": "Home Movie: 012058",
       "source_available": true,
       "source_health": 88,
@@ -327,7 +327,7 @@
     },
     {
       "hero_eligible": false,
-      "movie_id": "3c067570-4625-4559-8a8b-436c5395aec0",
+      "movie_id": "a6b6be8d-8cb8-40a2-934b-0367c9181bac",
       "title": "[Frank Putnam Flint Memorial Fountain Interviews]",
       "source_available": true,
       "source_health": 88,
@@ -351,7 +351,7 @@
     },
     {
       "hero_eligible": false,
-      "movie_id": "a08b6a28-c1d1-44c5-9cf3-3f53553b1448",
+      "movie_id": "985b77f0-01fc-4809-9983-89e2e9747d63",
       "title": "Home Movie: 099848",
       "source_available": true,
       "source_health": 88,
@@ -375,7 +375,7 @@
     },
     {
       "hero_eligible": false,
-      "movie_id": "0c3c7beb-9368-49a1-9e6f-f62788a77fdc",
+      "movie_id": "7fe3e429-e1e5-4696-88a2-52204a4fec9b",
       "title": "Home Movie: Patrick Marks Collection: 096351",
       "source_available": true,
       "source_health": 88,
@@ -399,7 +399,7 @@
     },
     {
       "hero_eligible": false,
-      "movie_id": "3b979cff-62bc-484c-9d6a-d90211563521",
+      "movie_id": "0d856383-a3e5-4742-8673-cd57a38bb813",
       "title": "Home Movie: Patrick Marks Collection: 096352",
       "source_available": true,
       "source_health": 88,
@@ -423,7 +423,7 @@
     },
     {
       "hero_eligible": false,
-      "movie_id": "bad5d4b1-7b76-41c6-9132-ed78e95a4d88",
+      "movie_id": "1a670a7a-f5e6-4c75-8989-941d018d3ae9",
       "title": "Home Movie: Rick Laubscher Collection: 010417",
       "source_available": true,
       "source_health": 88,
@@ -447,7 +447,7 @@
     },
     {
       "hero_eligible": false,
-      "movie_id": "e1dac2da-dac3-470b-88c9-7c17f1e31db1",
+      "movie_id": "f0a6f15a-1b8f-4d71-9878-627579456a4d",
       "title": "La Calle Corrientes (1943)",
       "source_available": true,
       "source_health": 88,
@@ -471,7 +471,7 @@
     },
     {
       "hero_eligible": false,
-      "movie_id": "68db14ba-2c01-4647-82b8-bd3b8bbd2b61",
+      "movie_id": "5c7e6678-32fa-47c1-bed4-17f3d2de0905",
       "title": "Cal State Colleges: San Francisco State College",
       "source_available": true,
       "source_health": 88,
